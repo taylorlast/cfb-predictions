@@ -12,8 +12,9 @@ from datetime import datetime as dt
 
 def get_games(
         configuration:cfbd.Configuration, 
-        year:str,
-        only_fbs:str=False,
+        year:int,
+        week:int=None,
+        only_fbs:bool=False,
     ) -> pd.DataFrame:
     """
     gets basic game information from a given year and stores in a dataframe.
@@ -22,8 +23,10 @@ def get_games(
     ----------
     configuration: cfbd.Configuration
         authenticated api session for cfbd
-    year: str
+    year: int
         year for data
+    week: int
+        week for data
     only_fbs: bool
         whether to only include games between fbs teams
     
@@ -34,7 +37,10 @@ def get_games(
     """
 
     api_instance = cfbd.GamesApi(cfbd.ApiClient(configuration))
-    games = api_instance.get_games(year=year)
+    if week is None:
+        games = api_instance.get_games(year=year)
+    else:
+        games = api_instance.get_games(year=year, week=week)
 
     year_games = pd.DataFrame().from_records([
         g.to_dict()
@@ -80,7 +86,8 @@ def get_games(
 
 def get_game_stats(
         configuration:cfbd.Configuration,
-        year:str
+        year:int,
+        week:int=None;
     )->pd.DataFrame:
 
     """
@@ -90,8 +97,10 @@ def get_game_stats(
     ----------
     configuration: cfbd.Configuration
         authenticated api session for cfbd
-    year: str
+    year: int
         year for data
+    week: int
+        week for data
     
     returns
     -------
@@ -100,7 +109,11 @@ def get_game_stats(
     """
 
     api_instance = cfbd.StatsApi(cfbd.ApiClient(configuration))
-    stats = api_instance.get_advanced_team_game_stats(year=year)
+
+    if week is None:
+        stats = api_instance.get_advanced_team_game_stats(year=year)
+    else:
+        stats = api_instance.get_advanced_team_game_stats(year=year, week=week)
 
     stat_df = pd.DataFrame().from_records(
         [s.to_dict() for s in stats]
@@ -144,7 +157,8 @@ def get_game_stats(
 
 def get_betting_info(
         configuration: cfbd.Configuration,
-        year:int
+        year:int,
+        week:int=None,
     ) -> pd.DataFrame:
     """
     gets vegas spreads for games. the column will be a reversed spread.
@@ -158,6 +172,8 @@ def get_betting_info(
         authenticated api session for cfbd
     year: str
         year for data
+    week: int
+        week for data
     
     returns
     -------
@@ -166,7 +182,11 @@ def get_betting_info(
     """
 
     api_instance =cfbd.BettingApi(cfbd.ApiClient(configuration))
-    spreads = api_instance.get_lines(year=year)
+    if week is None:
+        spreads = api_instance.get_lines(year=year)
+    else:
+        spreads = api_instance.get_lines(year=year, week=week)
+
     spreads_df =  pd.DataFrame().from_records(
         [
             s.to_dict()
