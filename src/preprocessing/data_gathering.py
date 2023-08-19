@@ -136,5 +136,52 @@ def get_game_stats(
     )
 
     stats.rename(columns={'game_id':'id'},inplace=True)
+    
+    # Add season -- started coming as null in 2022
+    stats["season"] = year
 
     return stats
+
+def get_betting_info(
+        configuration: cfbd.Configuration,
+        year:int
+    ) -> pd.DataFrame:
+    """
+    gets vegas spreads for games. the column will be a reversed spread.
+    so if the home team is favored by 7, the spread will be 7 and not -7.
+
+    reason: the point total difference needs to stay consistent with the spread.
+
+    parameters
+    ----------
+    configuration: cfbd.Configuration
+        authenticated api session for cfbd
+    year: str
+        year for data
+    
+    returns
+    -------
+    spreads_df: pd.DataFrame
+        dataframe with spreads indexed by game id.
+    """
+
+    api_instance =cfbd.BettingApi(cfbd.ApiClient(configuration))
+    spreads = api_instance.get_lines(year=year)
+    spreads_df =  pd.DataFrame().from_records(
+        [
+            s.to_dict()
+            for s in spreads
+        ]
+    )
+    spreads_df["lines"] = spreads_df["lines"]\
+        .apply(
+            lambda x: [book for book in x if book["provider"]=="consensus"]
+        )
+    
+    spreads_df = spreads_df[spreads_df.lines.str.len() != 0].reset_index(drop=True)
+    spreads_df["consensus_spread(reversed)"] = spreads_df["lines"]\
+        .apply(
+            lambda x: x[0]["spread"]
+        ).astype(float) * -1
+    
+    return spreads_df
