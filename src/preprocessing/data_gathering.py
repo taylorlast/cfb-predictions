@@ -87,7 +87,7 @@ def get_games(
 def get_game_stats(
         configuration:cfbd.Configuration,
         year:int,
-        week:int=None;
+        week:int=None
     )->pd.DataFrame:
 
     """
