@@ -205,3 +205,35 @@ def get_betting_info(
         ).astype(float) * -1
     
     return spreads_df
+
+def save_primary_data(configuration, start_year, end_year):
+    """
+    creates primary data sets for training.
+    Will not need to be run several times.
+
+    parameters
+    ----------
+    start_year: int
+    end_year: int
+    """
+
+    games_df = pd.DataFrame()
+    stats_df = pd.DataFrame()
+    betting_df = pd.DataFrame()
+
+    for year in range(start_year, end_year + 1):
+        games = get_games(configuration, year)
+        games_df = pd.concat([games_df, games], axis=0)
+        print(f"saved games for {year}")
+
+        stats = get_game_stats(configuration, year)
+        stats_df = pd.concat([stats_df, stats], axis=0)
+        print(f"saved stats for {year}")
+
+        lines = get_betting_info(configuration, year)
+        betting_df = pd.concat([betting_df, lines], axis=0)
+        print(f"saved lines for {year}")
+
+    games_df.to_csv("./data/games_df.csv")
+    stats_df.to_csv("./data/stats_df.csv")
+    betting_df.to_csv("./data/betting_df.csv")
