@@ -237,3 +237,13 @@ def save_primary_data(configuration, start_year, end_year):
     games_df.to_csv("./data/games_df.csv")
     stats_df.to_csv("./data/stats_df.csv")
     betting_df.to_csv("./data/betting_df.csv")
+
+
+def get_season_calendar(
+        configuration: cfbd.Configuration,
+        year:int,
+    ) -> pd.DataFrame:
+    
+    api_instance = cfbd.GamesApi(cfbd.ApiClient(configuration))
+    calendar = api_instance.get_calendar(year=year)
+    return calendar
