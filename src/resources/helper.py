@@ -6,6 +6,7 @@ import sys
 
 import cfbd
 
+import pickle
 
 def load_configs(config_path:str="./configs/configs.yml"):
     """
@@ -28,3 +29,10 @@ def authenticate_api(api_key:str):
     configuration.api_key['Authorization'] = api_key
     configuration.api_key_prefix['Authorization'] = 'Bearer'
     return configuration
+
+def save_model(model, name):
+    pickle.dump(model, open(f'./models/{name}.pkl', 'wb'))
+
+def load_model(name):
+    model = pickle.load(open(f'{name}./models/{name}.pkl', 'rb'))
+    return model

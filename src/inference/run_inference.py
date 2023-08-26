@@ -34,6 +34,7 @@ def run_inference(configuration):
         week=week,
     )
     df = join_features(games, stats, lines)
+    
 
     #TODO: Add filter to get only the features we want
     #TODO: Consider Dim Reduction
