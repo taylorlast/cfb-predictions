@@ -112,4 +112,4 @@ FEATURES:
 - passing_plays.success_rate_defense_away
 - passing_plays.explosiveness_defense_away
 
-TARGET: Diff
+TARGET: diff

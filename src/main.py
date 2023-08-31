@@ -29,8 +29,11 @@ api_configs = load_configs(config_path=api_configs_path)
 api_configuration = authenticate_api(api_key=api_configs["API_KEY"])
 
 def training_job():
-    model = train(xgb)
+    model = xgb.XGBRegressor()
+    model = train(model)
     save_model(model, "xgb")
 
+def inference_job():
+    pass
 if __name__ == "__main__":
     training_job()

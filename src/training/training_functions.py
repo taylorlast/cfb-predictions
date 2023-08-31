@@ -22,7 +22,8 @@ def load_training_data(features_configs):
     return X, y
 
 def load_data_train_test_split(features_configs):
-    df = df = pd.read_csv("./data/training.csv")
+    df = pd.read_csv("./data/training.csv")
+    df.dropna(inplace=True)
     train = df[df["season"] <= 2022]
     test = df[df["season"] > 2022]
 

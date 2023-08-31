@@ -26,10 +26,20 @@ def get_current_week(configuration):
     current_week, current_season = remaining_games[0]
     return current_season, current_week
 
-def join_features(
-        games,
-        stats,
-        lines
-    ):
-    pd.merge()
+def make_predictions(df, model, feature_configs):
+    X = df[feature_configs["FEATURES"]]
+    X.dropna(inplace=True)
+    y_pred = model.predict(X)
+    
+    final_df = df.iloc[X.index,:]
+    final_df.to_csv("test.csv")
+    final_df["predicted_diff"] = y_pred
+    final_df["spread_prediction"] = (final_df["consensus_spread(reversed)"] + final_df["predicted_diff"]) * -1
+    final_df["spread"] = final_df["consensus_spread(reversed)"] * -1
 
+    final_df.to_csv("./data/current_predictions.csv")
+
+    submission_df = final_df[["id", "home_team", "away_team", "spread_prediction"]]
+    submission_df.columns = ["id", "home", "away", "prediction"]
+    submission_df = submission_df.set_index("id")
+    submission_df.to_csv("./data/cfb_prediction_submission.csv")

@@ -15,8 +15,8 @@ sys.path.append(os.path.dirname(SCRIPT_DIR))
 
 from preprocessing.preprocessing import get_latest_feature_values, join_features
 from preprocessing.data_gathering import get_games, get_season_calendar, get_betting_info
-from resources.helper import load_configs, authenticate_api
-from inference.inference_functions import get_current_week
+from resources.helper import load_configs, authenticate_api, load_model
+from inference.inference_functions import get_current_week, make_predictions
 
 def run_inference(configuration):
     season, week = get_current_week(configuration)
@@ -34,12 +34,20 @@ def run_inference(configuration):
         week=week,
     )
     df = join_features(games, stats, lines)
-    
 
-    #TODO: Add filter to get only the features we want
+    feature_configs = load_configs("./configs/features.yml")
+    model = load_model("xgb") # Add model configs
+
+    make_predictions(df, model, feature_configs)
+
     #TODO: Consider Dim Reduction
-    #TODO: Read in model
-    #TODO: Make predictions with model
-    #TODO: Save predictions to current_predictions
-    #TODO: append predictions to running_predictions
-    return df
+    #TODO: append predictions to running_predictions - consider adding a revision number to keep track of changes
+
+# Load configs
+api_configs_path = "./configs/api_configs.yml"
+api_configs = load_configs(config_path=api_configs_path)
+
+# Auth API
+api_configuration = authenticate_api(api_key=api_configs["API_KEY"])
+
+df = run_inference(api_configuration)

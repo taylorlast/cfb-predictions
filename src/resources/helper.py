@@ -31,8 +31,9 @@ def authenticate_api(api_key:str):
     return configuration
 
 def save_model(model, name):
-    pickle.dump(model, open(f'./models/{name}.pkl', 'wb'))
+    with open(f'src/models/{name}.pkl', 'wb') as files:
+        pickle.dump(model, files)
 
 def load_model(name):
-    model = pickle.load(open(f'{name}./models/{name}.pkl', 'rb'))
-    return model
+    with open(f'src/models/{name}.pkl' , 'rb') as f:
+        return pickle.load(f)

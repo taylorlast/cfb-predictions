@@ -195,7 +195,7 @@ def get_betting_info(
     )
     spreads_df["lines"] = spreads_df["lines"]\
         .apply(
-            lambda x: [book for book in x if book["provider"]=="consensus"]
+            lambda x: [book for book in x if book["provider"]=="Bovada"]
         )
     
     spreads_df = spreads_df[spreads_df.lines.str.len() != 0].reset_index(drop=True)
