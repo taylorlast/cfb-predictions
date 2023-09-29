@@ -13,13 +13,18 @@ from datetime import datetime as dt
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 
-from preprocessing.preprocessing import get_latest_feature_values, join_features
+from preprocessing.preprocessing import get_latest_feature_values, join_features, update_primary_data
 from preprocessing.data_gathering import get_games, get_season_calendar, get_betting_info
 from resources.helper import load_configs, authenticate_api, load_model
 from inference.inference_functions import get_current_week, make_predictions
 
 def run_inference(configuration):
     season, week = get_current_week(configuration)
+    update_primary_data(
+        configuration=configuration,
+        current_season=season,
+        current_week=week
+    )
     games = get_games(
         configuration=configuration, 
         year=season,

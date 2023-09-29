@@ -177,7 +177,7 @@ def _add_new_data(df, path):
     None
     """
     primary_df = pd.read_csv(path)
-    ids_to_add = [i for i in df["id"].values if i not in primary_df["id"].values]
+    ids_to_add = list(set([i for i in df["id"].values if i not in primary_df["id"].values]))
     temp_df = pd.DataFrame({"id": ids_to_add})
     df = pd.merge(df, temp_df, how="inner", on="id")
     final_df = pd.concat([primary_df, df], axis=0)
@@ -202,22 +202,37 @@ def update_primary_data(configuration, current_season, current_week):
     None 
     """
 
-    games = get_games(
-        configuration=configuration,
-        year=current_season,
-        week=current_week,
-        only_fbs=True
-    )
-    stats = get_game_stats(
-        configuration=configuration,
-        year=current_season,
-        week=current_week
-    )
-    lines = get_betting_info(
-        configuration=configuration,
-        year=current_season,
-        week=current_week
-    )
+    if current_week != 1:
+        games = get_games(
+            configuration=configuration, 
+            year=current_season,
+            week=current_week - 1,
+            only_fbs=True,
+        )
+        stats = get_game_stats(
+            configuration=configuration,
+            year=current_season,
+            week=current_week - 1
+        )
+        lines = get_betting_info(
+            configuration=configuration,
+            year=current_season,
+            week=current_week - 1
+        )
+    else:
+        games = get_games(
+            configuration=configuration, 
+            year=current_season - 1,
+            only_fbs=True,
+        )
+        stats = get_game_stats(
+            configuration=configuration,
+            year=current_season - 1,
+        )
+        lines = get_betting_info(
+            configuration=configuration,
+            year=current_season-1,
+        )
 
     _add_new_data(games, "./data/games_df.csv")
     _add_new_data(stats, "./data/stats_df.csv")

@@ -30,7 +30,7 @@ def make_predictions(df, model, feature_configs):
     X = df[feature_configs["FEATURES"]]
     X.dropna(inplace=True)
     y_pred = model.predict(X)
-    
+
     final_df = df.iloc[X.index,:]
     final_df.to_csv("test.csv")
     final_df["predicted_diff"] = y_pred
@@ -38,8 +38,21 @@ def make_predictions(df, model, feature_configs):
     final_df["spread"] = final_df["consensus_spread(reversed)"] * -1
 
     final_df.to_csv("./data/current_predictions.csv")
+    _append_predictions_to_overall(final_df, model)
 
     submission_df = final_df[["id", "home_team", "away_team", "spread_prediction"]]
     submission_df.columns = ["id", "home", "away", "prediction"]
     submission_df = submission_df.set_index("id")
     submission_df.to_csv("./data/cfb_prediction_submission.csv")
+
+def _append_predictions_to_overall(df, model):
+    if os.path.exists("./data/running_predictions.csv"):
+        history_df = pd.read_csv("./data/running_predictions.csv")
+    else:
+        history_df = pd.DataFrame()
+
+    df["inference_date"] = dt.now()
+    df["model_used"] = model.__class__.__name__
+
+    pd.concat([history_df, df], axis=0).to_csv("./data/running_predictions.csv")
+    
