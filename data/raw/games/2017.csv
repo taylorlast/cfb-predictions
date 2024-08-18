@@ -1,0 +1,1506 @@
+id,season,week,home_team,away_team,home_points,away_points,home_division,away_division,home_pregame_elo,away_pregame_elo,neutral_site,point_diff,winner
+400953933,2017,1,Florida A&M,Texas Southern,29,7,fcs,fcs,,,False,-22,Florida A&M
+400935282,2017,1,Colorado State,Oregon State,58,27,fbs,fbs,1546.0,1413.0,False,-31,Colorado State
+400945031,2017,1,BYU,Portland State,20,6,fbs,fcs,,,False,-14,BYU
+400938887,2017,1,UMass,Hawai'i,35,38,fbs,fbs,1230.0,1274.0,False,3,Hawai'i
+400951507,2017,1,Jacksonville State,Chattanooga,27,13,fcs,fcs,,,True,-14,Jacksonville State
+400950566,2017,1,Cal Poly,Colgate,14,20,fcs,fcs,,,False,6,Colgate
+400941786,2017,1,San José State,South Florida,22,42,fbs,fbs,1267.0,1627.0,False,20,South Florida
+400935257,2017,1,Rice,Stanford,7,62,fbs,fbs,1239.0,1667.0,True,55,Stanford
+400952295,2017,1,Morehead State,Kentucky Christian,56,14,fcs,,,,False,-42,Morehead State
+400951249,2017,1,Wagner,St. Anselm,37,7,fcs,ii,,,False,-30,Wagner
+400938591,2017,1,UCF,Florida International,61,17,fbs,fbs,1446.0,1272.0,False,-44,UCF
+400937445,2017,1,Wake Forest,Presbyterian College,51,7,fbs,fcs,,,False,-44,Wake Forest
+400951095,2017,1,Tennessee Tech,Western Illinois,14,41,fcs,fcs,,,False,27,Western Illinois
+400951138,2017,1,Indiana State,Eastern Illinois,20,22,fcs,fcs,,,False,2,Eastern Illinois
+400951322,2017,1,UT Martin,Clarion,36,0,fcs,ii,,,False,-36,UT Martin
+400951381,2017,1,Mercer,Jacksonville,48,7,fcs,fcs,,,False,-41,Mercer
+400952263,2017,1,Campbell,Methodist,70,0,fcs,iii,,,False,-70,Campbell
+400953935,2017,1,Murray State,Kentucky Wesleyan,67,7,fcs,ii,,,False,-60,Murray State
+400935230,2017,1,Minnesota,Buffalo,17,7,fbs,fbs,1601.0,1220.0,False,-10,Minnesota
+400950922,2017,1,Samford,Kennesaw State,28,23,fcs,fcs,,,False,-5,Samford
+400950950,2017,1,Delaware,Delaware State,22,3,fcs,fcs,,,False,-19,Delaware
+400950977,2017,1,New Hampshire,Maine,24,23,fcs,fcs,,,False,-1,New Hampshire
+400941787,2017,1,Cincinnati,Austin Peay,26,14,fbs,fcs,,,False,-12,Cincinnati
+400944889,2017,1,Toledo,Elon,47,13,fbs,fcs,,,False,-34,Toledo
+400944826,2017,1,Georgia State,Tennessee State,10,17,fbs,fcs,,,False,7,Tennessee State
+400944890,2017,1,Central Michigan,Rhode Island,30,27,fbs,fcs,,,False,-3,Central Michigan
+400935248,2017,1,Utah,North Dakota,37,16,fbs,fcs,,,False,-21,Utah
+400941788,2017,1,Connecticut,Holy Cross,27,20,fbs,fcs,,,False,-7,Connecticut
+400934493,2017,1,Oklahoma State,Tulsa,59,24,fbs,fbs,1727.0,1665.0,False,-35,Oklahoma State
+400935229,2017,1,Indiana,Ohio State,21,49,fbs,fbs,1511.0,1966.0,False,28,Ohio State
+400952339,2017,1,Nicholls,McNeese,37,35,fcs,fcs,,,False,-2,Nicholls
+400951086,2017,1,South Dakota State,Duquesne,51,13,fcs,fcs,,,False,-38,South Dakota State
+400933828,2017,1,Arkansas,Florida A&M,49,7,fbs,fcs,,,True,-42,Arkansas
+400950829,2017,1,Idaho State,Western Oregon,37,6,fcs,ii,,,False,-31,Idaho State
+400944827,2017,1,Idaho,Sacramento State,28,6,fbs,fcs,,,False,-22,Idaho
+400941789,2017,1,Memphis,Louisiana Monroe,37,29,fbs,fbs,1638.0,1142.0,False,-8,Memphis
+400935247,2017,1,Arizona State,New Mexico State,37,31,fbs,fbs,1411.0,1193.0,False,-6,Arizona State
+400934570,2017,1,Army,Fordham,64,6,fbs,fcs,,,False,-58,Army
+400944891,2017,1,Eastern Michigan,Charlotte,24,7,fbs,fbs,1305.0,1193.0,False,-17,Eastern Michigan
+400980886,2017,1,Sam Houston State,Richmond,48,34,fcs,fcs,,,False,-14,Sam Houston State
+400937451,2017,1,Syracuse,Central Connecticut,50,7,fbs,fcs,,,False,-43,Syracuse
+400935250,2017,1,Rutgers,Washington,14,30,fbs,fbs,1169.0,1913.0,False,16,Washington
+400935249,2017,1,Colorado,Colorado State,17,3,fbs,fbs,1599.0,1613.0,True,-14,Colorado
+400938592,2017,1,Florida Atlantic,Navy,19,42,fbs,fbs,1214.0,1632.0,False,23,Navy
+400935231,2017,1,Wisconsin,Utah State,59,10,fbs,fbs,1779.0,1386.0,False,-49,Wisconsin
+400937446,2017,1,Northern Illinois,Boston College,20,23,fbs,fbs,1479.0,1411.0,False,3,Boston College
+400951234,2017,1,Robert Morris,Dayton,13,10,fcs,fcs,,,False,-3,Robert Morris
+400951246,2017,1,St Francis (PA),Lock Haven,69,3,fcs,ii,,,False,-66,St Francis (PA)
+400937447,2017,1,Clemson,Kent State,56,3,fbs,fbs,1977.0,1265.0,False,-53,Clemson
+400935232,2017,1,Illinois,Ball State,24,21,fbs,fbs,1317.0,1320.0,False,-3,Illinois
+400934495,2017,1,Texas,Maryland,41,51,fbs,fbs,1540.0,1369.0,False,10,Maryland
+400935233,2017,1,Iowa,Wyoming,24,3,fbs,fbs,1607.0,1429.0,False,-21,Iowa
+400935237,2017,1,Penn State,Akron,52,0,fbs,fbs,1746.0,1309.0,False,-52,Penn State
+400935234,2017,1,Michigan State,Bowling Green,35,10,fbs,fbs,1572.0,1348.0,False,-25,Michigan State
+400933836,2017,1,Missouri,Missouri State,72,43,fbs,fcs,,,False,-29,Missouri
+400935256,2017,1,North Carolina,California,30,35,fbs,fbs,1666.0,1521.0,False,5,California
+400951014,2017,1,Lehigh,Villanova,35,38,fcs,fcs,,,False,3,Villanova
+400937449,2017,1,Miami,Bethune-Cookman,41,13,fbs,fcs,,,False,-28,Miami
+400937450,2017,1,Pittsburgh,Youngstown State,28,21,fbs,fcs,,,False,-7,Pittsburgh
+400935254,2017,1,Oregon State,Portland State,35,32,fbs,fcs,,,False,-3,Oregon State
+400945246,2017,1,Air Force,VMI,62,0,fbs,fcs,,,False,-62,Air Force
+400951211,2017,1,Bryant,Merrimack,49,41,fcs,ii,,,False,-8,Bryant
+400933837,2017,1,South Carolina,NC State,35,28,fbs,fbs,1452.0,1583.0,True,-7,South Carolina
+400950937,2017,1,Monmouth,Lafayette,31,12,fcs,fcs,,,False,-19,Monmouth
+400950837,2017,1,Montana,Valparaiso,45,23,fcs,fcs,,,False,-22,Montana
+400935236,2017,1,Northwestern,Nevada,31,20,fbs,fbs,1577.0,1406.0,False,-11,Northwestern
+400933830,2017,1,Florida,Michigan,17,33,fbs,fbs,1665.0,1922.0,True,16,Michigan
+400938597,2017,1,UAB,Alabama A&M,38,7,fbs,fcs,,,False,-31,UAB
+400934573,2017,1,Notre Dame,Temple,49,16,fbs,fbs,1650.0,1659.0,False,-33,Notre Dame
+400951069,2017,1,North Dakota State,Mississippi Valley State,72,7,fcs,fcs,,,False,-65,North Dakota State
+400934492,2017,1,Oklahoma,UTEP,56,7,fbs,fbs,1865.0,1228.0,False,-49,Oklahoma
+400937452,2017,1,Virginia,William & Mary,28,10,fbs,fcs,,,False,-18,Virginia
+400944830,2017,1,Boise State,Troy,24,13,fbs,fbs,1609.0,1474.0,False,-11,Boise State
+400934496,2017,1,Texas Tech,Eastern Washington,56,10,fbs,fcs,,,False,-46,Texas Tech
+400933835,2017,1,Mississippi State,Charleston Southern,49,0,fbs,fcs,,,False,-49,Mississippi State
+400941791,2017,1,South Florida,Stony Brook,31,17,fbs,fcs,,,False,-14,South Florida
+400933832,2017,1,Southern Mississippi,Kentucky,17,24,fbs,fbs,1434.0,1491.0,False,7,Kentucky
+400950886,2017,1,Northern Colorado,College of Idaho,41,14,fcs,,,,False,-27,Northern Colorado
+400952299,2017,1,San Diego,Western New Mexico,34,20,fcs,ii,,,False,-14,San Diego
+400935252,2017,1,USC,Western Michigan,49,31,fbs,fbs,1799.0,1728.0,False,-18,USC
+400951375,2017,1,Wofford,Furman,24,23,fcs,fcs,,,False,-1,Wofford
+400952236,2017,1,Norfolk State,Virginia State,10,14,fcs,ii,,,False,4,Virginia State
+400951327,2017,1,Bucknell,Marist,45,6,fcs,fcs,,,False,-39,Bucknell
+400950913,2017,1,Gardner-Webb,North Carolina A&T,3,45,fcs,fcs,,,False,42,North Carolina A&T
+400951010,2017,1,Towson,Morgan State,10,0,fcs,fcs,,,False,-10,Towson
+400938596,2017,1,Old Dominion,Albany,31,17,fbs,fcs,,,False,-14,Old Dominion
+400951367,2017,1,The Citadel,Newberry,31,14,fcs,ii,,,False,-17,The Citadel
+400951240,2017,1,Sacred Heart,Stetson,42,3,fcs,fcs,,,False,-39,Sacred Heart
+400941790,2017,1,East Carolina,James Madison,14,34,fbs,fcs,1340.0,1419.0,False,20,James Madison
+400937448,2017,1,Duke,North Carolina Central,60,7,fbs,fcs,,,False,-53,Duke
+400933831,2017,1,Georgia,Appalachian State,31,10,fbs,fbs,1605.0,1587.0,False,-21,Georgia
+400938594,2017,1,Marshall,Miami (OH),31,26,fbs,fbs,1300.0,1375.0,False,-5,Marshall
+400953997,2017,1,Arkansas-Pine Bluff,Morehouse,23,10,fcs,ii,,,False,-13,Arkansas-Pine Bluff
+400944828,2017,1,Louisiana,Southeastern Louisiana,51,48,fbs,fcs,,,False,-3,Louisiana
+400951081,2017,1,Drake,South Dakota,7,77,fcs,fcs,,,False,70,South Dakota
+400951358,2017,1,East Tennessee State,Limestone,31,10,fcs,ii,,,False,-21,East Tennessee State
+400951400,2017,1,Alcorn State,Miles,50,21,fcs,ii,,,False,-29,Alcorn State
+400938593,2017,1,Louisiana Tech,Northwestern State,52,24,fbs,fcs,,,False,-28,Louisiana Tech
+400938595,2017,1,North Texas,Lamar,59,14,fbs,fcs,,,False,-45,North Texas
+400938888,2017,1,Coastal Carolina,UMass,38,28,fbs,fbs,1453.0,1228.0,False,-10,Coastal Carolina
+400944829,2017,1,Texas State,Houston Christian,20,11,fbs,fcs,,,False,-9,Texas State
+400944892,2017,1,Ohio,Hampton,59,0,fbs,fcs,,,False,-59,Ohio
+400952271,2017,1,Davidson,Brevard College,30,7,fcs,iii,,,False,-23,Davidson
+400938599,2017,1,Western Kentucky,Eastern Kentucky,31,17,fbs,fcs,,,False,-14,Western Kentucky
+400934490,2017,1,Kansas,Southeast Missouri State,38,16,fbs,fcs,,,False,-22,Kansas
+400934489,2017,1,Baylor,Liberty,45,48,fbs,fcs,1571.0,1401.0,False,3,Liberty
+400941792,2017,1,SMU,Stephen F. Austin,58,14,fbs,fcs,,,False,-44,SMU
+400934491,2017,1,Kansas State,Central Arkansas,55,19,fbs,fcs,,,False,-36,Kansas State
+400933834,2017,1,Ole Miss,South Alabama,47,27,fbs,fbs,1567.0,1330.0,False,-20,Ole Miss
+400935238,2017,1,Purdue,Louisville,28,35,fbs,fbs,1275.0,1748.0,True,7,Louisville
+400933829,2017,1,Auburn,Georgia Southern,41,7,fbs,fbs,1769.0,1439.0,False,-34,Auburn
+400951045,2017,1,Illinois State,Butler,45,0,fcs,fcs,,,False,-45,Illinois State
+400945251,2017,1,San José State,Cal Poly,34,13,fbs,fcs,,,False,-21,San José State
+400933827,2017,1,Alabama,Florida State,24,7,fbs,fbs,2054.0,1737.0,True,-17,Alabama
+400934494,2017,1,TCU,Jackson State,63,0,fbs,fcs,,,False,-63,TCU
+400933839,2017,1,Middle Tennessee,Vanderbilt,6,28,fbs,fbs,1367.0,1507.0,False,22,Vanderbilt
+400945247,2017,1,New Mexico,Abilene Christian,38,14,fbs,fcs,,,False,-24,New Mexico
+400950902,2017,1,Weber State,Montana-Western,76,0,fcs,,,,False,-76,Weber State
+400953990,2017,1,Alabama State,Tuskegee,6,14,fcs,ii,,,False,8,Tuskegee
+400941793,2017,1,Tulane,Grambling,43,14,fbs,fcs,,,False,-29,Tulane
+400935235,2017,1,Nebraska,Arkansas State,43,36,fbs,fbs,1519.0,1545.0,False,-7,Nebraska
+400934488,2017,1,Iowa State,Northern Iowa,42,24,fbs,fcs,,,False,-18,Iowa State
+400935253,2017,1,Oregon,Southern Utah,77,21,fbs,fcs,,,False,-56,Oregon
+400945250,2017,1,San Diego State,UC Davis,38,17,fbs,fcs,,,False,-21,San Diego State
+400945252,2017,1,UNLV,Howard,40,43,fbs,fcs,,,False,3,Howard
+400933833,2017,1,LSU,BYU,27,0,fbs,fbs,1815.0,1653.0,True,-27,LSU
+400945248,2017,1,Fresno State,Incarnate Word,66,0,fbs,fcs,,,False,-66,Fresno State
+400935255,2017,1,Washington State,Montana State,31,0,fbs,fcs,,,False,-31,Washington State
+400935251,2017,1,Arizona,Northern Arizona,62,24,fbs,fcs,,,False,-38,Arizona
+400945249,2017,1,Hawai'i,Western Carolina,41,18,fbs,fcs,,,False,-23,Hawai'i
+400952251,2017,1,Southern,South Carolina State,14,8,fcs,fcs,,,False,-6,Southern
+400933838,2017,1,UCLA,Texas A&M,45,44,fbs,fbs,1521.0,1651.0,False,-1,UCLA
+400934497,2017,1,Virginia Tech,West Virginia,31,24,fbs,fbs,1743.0,1652.0,True,-7,Virginia Tech
+400933840,2017,1,Georgia Tech,Tennessee,41,42,fbs,fbs,1589.0,1653.0,True,1,Tennessee
+400951387,2017,2,Samford,West Alabama,49,41,fcs,ii,,,False,-8,Samford
+400951510,2017,2,Prairie View,Sam Houston State,31,44,fcs,fcs,,,False,13,Sam Houston State
+400945253,2017,2,Utah State,Idaho State,51,13,fbs,fcs,,,False,-38,Utah State
+400952323,2017,2,Texas Southern,Houston Christian,17,24,fcs,fcs,,,False,7,Houston Christian
+400938600,2017,2,Florida International,Alcorn State,17,10,fbs,fcs,,,True,-7,Florida International
+400951537,2017,2,Hampton,Delaware State,28,15,fcs,fcs,,,False,-13,Hampton
+400934503,2017,2,South Alabama,Oklahoma State,7,44,fbs,fbs,1307.0,1817.0,False,37,Oklahoma State
+400935239,2017,2,Purdue,Ohio,44,21,fbs,fbs,1296.0,1448.0,False,-23,Purdue
+400934501,2017,2,Kansas State,Charlotte,55,7,fbs,fbs,1669.0,1166.0,False,-48,Kansas State
+400950945,2017,2,Presbyterian College,The Citadel,7,48,fcs,fcs,,,False,41,The Citadel
+400951247,2017,2,St Francis (PA),Wagner,31,6,fcs,fcs,,,False,-25,St Francis (PA)
+400935348,2017,2,Wisconsin,Florida Atlantic,31,14,fbs,fbs,1873.0,1199.0,False,-17,Wisconsin
+400934499,2017,2,Iowa State,Iowa,41,44,fbs,fbs,1528.0,1639.0,False,3,Iowa
+400934505,2017,2,West Virginia,East Carolina,56,20,fbs,fbs,1642.0,1298.0,False,-36,West Virginia
+400937456,2017,2,North Carolina,Louisville,35,47,fbs,fbs,1647.0,1727.0,False,12,Louisville
+400935243,2017,2,Michigan,Cincinnati,36,14,fbs,fbs,1929.0,1373.0,False,-22,Michigan
+400934562,2017,2,Army,Buffalo,21,17,fbs,fbs,1403.0,1228.0,False,-4,Army
+400935240,2017,2,Duke,Northwestern,41,17,fbs,fbs,1422.0,1584.0,False,-24,Duke
+400951328,2017,2,Bucknell,Holy Cross,0,20,fcs,fcs,,,False,20,Holy Cross
+400951220,2017,2,Central Connecticut,Fordham,31,38,fcs,fcs,,,False,7,Fordham
+400935242,2017,2,Maryland,Towson,63,17,fbs,fcs,,,False,-46,Maryland
+400933848,2017,2,Ole Miss,UT Martin,45,23,fbs,fcs,,,False,-22,Ole Miss
+400933846,2017,2,Kentucky,Eastern Kentucky,27,16,fbs,fcs,,,False,-11,Kentucky
+400937455,2017,2,Georgia Tech,Jacksonville State,37,10,fbs,fcs,,,False,-27,Georgia Tech
+400952230,2017,2,Morgan State,Albany,0,26,fcs,fcs,,,False,26,Albany
+400950938,2017,2,Monmouth,Lehigh,46,27,fcs,fcs,,,False,-19,Monmouth
+400950960,2017,2,Furman,Elon,31,34,fcs,fcs,,,False,3,Elon
+400950998,2017,2,Colgate,Richmond,17,20,fcs,fcs,,,False,3,Richmond
+400950991,2017,2,Rhode Island,Stony Brook,18,35,fcs,fcs,,,False,17,Stony Brook
+400952290,2017,2,Marist,Stetson,38,17,fcs,fcs,,,False,-21,Marist
+400937453,2017,2,Boston College,Wake Forest,10,34,fbs,fbs,1420.0,1475.0,False,24,Wake Forest
+400951312,2017,2,Dayton,Southeast Missouri State,25,23,fcs,fcs,,,False,-2,Dayton
+400951392,2017,2,VMI,Catawba,20,27,fcs,ii,,,False,7,Catawba
+400951096,2017,2,Youngstown State,Robert Morris,30,0,fcs,fcs,,,False,-30,Youngstown State
+400951227,2017,2,Valparaiso,Duquesne,40,45,fcs,fcs,,,False,5,Duquesne
+400935262,2017,2,Colorado,Texas State,37,3,fbs,fbs,1636.0,1034.0,False,-34,Colorado
+400938605,2017,2,Ball State,UAB,51,31,fbs,fbs,1319.0,1455.0,False,-20,Ball State
+400937460,2017,2,Virginia Tech,Delaware,27,0,fbs,fcs,,,False,-27,Virginia Tech
+400938602,2017,2,UMass,Old Dominion,7,17,fbs,fbs,1226.0,1437.0,False,10,Old Dominion
+400944894,2017,2,Miami (OH),Austin Peay,31,10,fbs,fcs,,,False,-21,Miami (OH)
+400944896,2017,2,Kent State,Howard,38,31,fbs,fcs,,,False,-7,Kent State
+400945254,2017,2,Colorado State,Abilene Christian,38,10,fbs,fcs,,,False,-28,Colorado State
+400950978,2017,2,Maine,Bryant,60,12,fcs,fcs,,,False,-48,Maine
+400941794,2017,2,Navy,Tulane,23,21,fbs,fbs,1647.0,1315.0,False,-2,Navy
+400944895,2017,2,Northern Illinois,Eastern Illinois,38,10,fbs,fcs,,,False,-28,Northern Illinois
+400944831,2017,2,Appalachian State,Savannah State,54,7,fbs,fcs,,,False,-47,Appalachian State
+400937459,2017,2,Syracuse,Middle Tennessee,23,30,fbs,fbs,1352.0,1326.0,False,7,Middle Tennessee
+400935244,2017,2,Michigan State,Western Michigan,28,14,fbs,fbs,1610.0,1695.0,False,-14,Michigan State
+400941797,2017,2,Temple,Villanova,16,13,fbs,fcs,,,False,-3,Temple
+400935245,2017,2,Penn State,Pittsburgh,33,14,fbs,fbs,1844.0,1616.0,False,-19,Penn State
+400934504,2017,2,Texas,San José State,56,0,fbs,fbs,1503.0,1254.0,False,-56,Texas
+400933841,2017,2,Alabama,Fresno State,41,10,fbs,fbs,2069.0,1197.0,False,-31,Alabama
+400935347,2017,2,Virginia,Indiana,17,34,fbs,fbs,1400.0,1487.0,False,17,Indiana
+400933842,2017,2,Arkansas,TCU,7,28,fbs,fbs,1576.0,1635.0,False,21,TCU
+400935246,2017,2,Rutgers,Eastern Michigan,13,16,fbs,fbs,1197.0,1332.0,False,3,Eastern Michigan
+400941798,2017,2,Tulsa,Louisiana,66,42,fbs,fbs,1575.0,1375.0,False,-24,Tulsa
+400933851,2017,2,Tennessee,Indiana State,42,7,fbs,fcs,,,False,-35,Tennessee
+400933853,2017,2,Vanderbilt,Alabama A&M,42,0,fbs,fcs,,,False,-42,Vanderbilt
+400934500,2017,2,Kansas,Central Michigan,27,45,fbs,fbs,1192.0,1321.0,False,18,Central Michigan
+400951382,2017,2,Mercer,Wofford,27,28,fcs,fcs,,,False,1,Wofford
+400944832,2017,2,Georgia Southern,New Hampshire,12,22,fbs,fcs,,,True,10,New Hampshire
+400945255,2017,2,Wyoming,Gardner-Webb,27,0,fbs,fcs,,,False,-27,Wyoming
+400950576,2017,2,Eastern Washington,North Dakota State,13,40,fcs,fcs,,,False,27,North Dakota State
+400935264,2017,2,Oregon,Nebraska,42,35,fbs,fbs,1489.0,1530.0,False,-7,Oregon
+400935268,2017,2,California,Weber State,33,20,fbs,fcs,,,False,-13,California
+400935261,2017,2,UCLA,Hawai'i,56,23,fbs,fbs,1525.0,1276.0,False,-33,UCLA
+400950567,2017,2,Northern Iowa,Cal Poly,45,38,fcs,fcs,,,False,-7,Northern Iowa
+400950872,2017,2,North Dakota,Missouri State,34,0,fcs,fcs,,,False,-34,North Dakota
+400944897,2017,2,Bowling Green,South Dakota,27,35,fbs,fcs,,,False,8,South Dakota
+400952241,2017,2,North Carolina A&T,Mars Hill,56,0,fcs,ii,,,False,-56,North Carolina A&T
+400952253,2017,2,Franklin,Butler,24,43,iii,fcs,,,False,19,Butler
+400952246,2017,2,North Carolina Central,Shaw,41,0,fcs,ii,,,False,-41,North Carolina Central
+400950969,2017,2,James Madison,East Tennessee State,52,10,fcs,fcs,,,False,-42,James Madison
+400951396,2017,2,Western Carolina,Davidson,63,17,fcs,fcs,,,False,-46,Western Carolina
+400950930,2017,2,Liberty,Morehead State,58,17,fcs,fcs,,,False,-41,Liberty
+400951017,2017,2,Norfolk State,William & Mary,6,20,fcs,fcs,,,False,14,William & Mary
+400937458,2017,2,NC State,Marshall,37,20,fbs,fbs,1558.0,1308.0,False,-17,NC State
+400944835,2017,2,Troy,Alabama State,34,7,fbs,fcs,,,False,-27,Troy
+400951346,2017,2,Campbell,Georgetown,10,16,fcs,fcs,,,False,6,Georgetown
+400951241,2017,2,Lafayette,Sacred Heart,24,38,fcs,fcs,,,False,14,Sacred Heart
+400944893,2017,2,Akron,Arkansas-Pine Bluff,52,3,fbs,fcs,,,False,-49,Akron
+400950923,2017,2,Kennesaw State,Tennessee Tech,27,14,fcs,fcs,,,False,-13,Kennesaw State
+400952866,2017,2,Jackson State,Tennessee State,15,17,fcs,fcs,,,True,2,Tennessee State
+400952316,2017,2,Murray State,Central Arkansas,13,41,fcs,fcs,,,False,28,Central Arkansas
+400952285,2017,2,Drake,Southwestern College,55,14,fcs,,,,False,-41,Drake
+400938604,2017,2,Southern Mississippi,Southern,45,0,fbs,fcs,,,False,-45,Southern Mississippi
+400952346,2017,2,Grambling,Northwestern State,23,10,fcs,fcs,,,False,-13,Grambling
+400951091,2017,2,Southern Illinois,Mississippi Valley State,55,3,fcs,fcs,,,False,-52,Southern Illinois
+400944898,2017,2,Nevada,Toledo,24,37,fbs,fbs,1399.0,1607.0,False,13,Toledo
+400950896,2017,2,Stephen F. Austin,Southern Utah,14,51,fcs,fcs,,,False,37,Southern Utah
+400950879,2017,2,Northern Arizona,Western Illinois,20,38,fcs,fcs,,,False,18,Western Illinois
+400944833,2017,2,Idaho,UNLV,16,44,fbs,fbs,1409.0,1247.0,False,28,UNLV
+400933843,2017,2,Clemson,Auburn,14,6,fbs,fbs,2043.0,1823.0,False,-8,Clemson
+400933852,2017,2,Texas A&M,Nicholls,24,14,fbs,fcs,,,False,-10,Texas A&M
+400938601,2017,2,SMU,North Texas,54,32,fbs,fbs,1349.0,1251.0,False,-22,SMU
+400933850,2017,2,Missouri,South Carolina,13,31,fbs,fbs,1436.0,1477.0,False,18,South Carolina
+400933845,2017,2,Notre Dame,Georgia,19,20,fbs,fbs,1742.0,1653.0,False,1,Georgia
+400933849,2017,2,Louisiana Tech,Mississippi State,21,57,fbs,fbs,1603.0,1612.0,False,36,Mississippi State
+400934502,2017,2,Ohio State,Oklahoma,16,31,fbs,fbs,1990.0,1928.0,False,15,Oklahoma
+400933847,2017,2,LSU,Chattanooga,45,10,fbs,fcs,,,False,-35,LSU
+400951528,2017,2,Southeastern Louisiana,Bethune-Cookman,23,28,fcs,fcs,,,False,5,Bethune-Cookman
+400950845,2017,2,Montana State,South Dakota State,27,31,fcs,fcs,,,False,4,South Dakota State
+400934498,2017,2,Baylor,UT San Antonio,10,17,fbs,fbs,1556.0,1418.0,False,7,UT San Antonio
+400938603,2017,2,UTEP,Rice,14,31,fbs,fbs,1165.0,1136.0,False,17,Rice
+400935266,2017,2,Washington,Montana,63,7,fbs,fcs,,,False,-56,Washington
+400935241,2017,2,Illinois,Western Kentucky,20,7,fbs,fbs,1318.0,1817.0,False,-13,Illinois
+400944834,2017,2,New Mexico,New Mexico State,28,30,fbs,fbs,1463.0,1196.0,False,2,New Mexico State
+400935260,2017,2,USC,Stanford,42,24,fbs,fbs,1832.0,1770.0,False,-18,USC
+400950892,2017,2,Sacramento State,Incarnate Word,56,22,fcs,fcs,,,False,-34,Sacramento State
+400950900,2017,2,UC Davis,San Diego,35,7,fcs,fcs,,,False,-28,UC Davis
+400935265,2017,2,Oregon State,Minnesota,14,48,fbs,fbs,1346.0,1593.0,False,34,Minnesota
+400935263,2017,2,BYU,Utah,13,19,fbs,fbs,1594.0,1636.0,False,6,Utah
+400935258,2017,2,Arizona,Houston,16,19,fbs,fbs,1329.0,1664.0,False,3,Houston
+400935267,2017,2,Washington State,Boise State,47,44,fbs,fbs,1708.0,1619.0,False,-3,Washington State
+400935259,2017,2,Arizona State,San Diego State,20,30,fbs,fbs,1408.0,1671.0,False,10,San Diego State
+400945256,2017,3,Boise State,New Mexico,28,14,fbs,fbs,1619.0,1444.0,False,-14,Boise State
+400941799,2017,3,South Florida,Illinois,47,23,fbs,fbs,1640.0,1392.0,False,-24,South Florida
+400941800,2017,3,Temple,UMass,29,21,fbs,fbs,1567.0,1223.0,False,-8,Temple
+400935269,2017,3,UTEP,Arizona,16,63,fbs,fbs,1121.0,1343.0,False,47,Arizona
+400934509,2017,3,Pittsburgh,Oklahoma State,21,59,fbs,fbs,1595.0,1861.0,False,38,Oklahoma State
+400933862,2017,3,Texas A&M,Louisiana,45,21,fbs,fbs,1647.0,1337.0,False,-24,Texas A&M
+400934517,2017,3,Akron,Iowa State,14,41,fbs,fbs,1211.0,1530.0,False,27,Iowa State
+400935270,2017,3,Memphis,UCLA,48,45,fbs,fbs,1622.0,1585.0,False,-3,Memphis
+400935354,2017,3,Nebraska,Northern Illinois,17,21,fbs,fbs,1518.0,1470.0,False,4,Northern Illinois
+400937467,2017,3,Virginia,Connecticut,38,18,fbs,fbs,1368.0,1235.0,False,-20,Virginia
+400934513,2017,3,West Virginia,Delaware State,59,16,fbs,fcs,,,False,-43,West Virginia
+400953939,2017,3,Jacksonville,Walsh,56,31,fcs,ii,,,True,-25,Jacksonville
+400934507,2017,3,Ohio,Kansas,42,30,fbs,fbs,1374.0,1161.0,False,-12,Ohio
+400935352,2017,3,Michigan,Air Force,29,13,fbs,fbs,1928.0,1562.0,False,-16,Michigan
+400952300,2017,3,Princeton,San Diego,27,17,fcs,fcs,,,False,-10,Princeton
+400937465,2017,3,NC State,Furman,49,16,fbs,fcs,,,False,-33,NC State
+400951212,2017,3,Brown,Bryant,28,23,fcs,fcs,,,False,-5,Brown
+400934506,2017,3,Duke,Baylor,34,20,fbs,fbs,1501.0,1532.0,False,-14,Duke
+400951037,2017,3,Lehigh,Yale,28,56,fcs,fcs,,,False,28,Yale
+400938612,2017,3,UAB,Coastal Carolina,30,23,fbs,fbs,1394.0,1455.0,False,-7,UAB
+400950577,2017,3,Fordham,Eastern Washington,21,56,fcs,fcs,,,True,35,Eastern Washington
+400951359,2017,3,East Tennessee State,The Citadel,25,31,fcs,fcs,,,False,6,The Citadel
+400951347,2017,3,Georgetown,Marist,12,14,fcs,fcs,,,False,2,Marist
+400950992,2017,3,Rhode Island,Harvard,17,10,fcs,fcs,,,False,-7,Rhode Island
+400951019,2017,3,Columbia,Wagner,17,14,fcs,fcs,,,False,-3,Columbia
+400951228,2017,3,Dayton,Duquesne,23,28,fcs,fcs,,,False,5,Duquesne
+400950984,2017,3,Holy Cross,New Hampshire,51,26,fcs,fcs,,,False,-25,Holy Cross
+400935271,2017,3,Colorado,Northern Colorado,41,21,fbs,fcs,,,False,-20,Colorado
+400951097,2017,3,Youngstown State,Central Connecticut,59,9,fcs,fcs,,,False,-50,Youngstown State
+400952307,2017,3,Trinity International (IL),Valparaiso,10,44,,fcs,,,True,34,Valparaiso
+400950999,2017,3,Richmond,Howard,68,21,fcs,fcs,,,False,-47,Richmond
+400952252,2017,3,South Carolina State,Johnson C Smith,41,0,fcs,ii,,,False,-41,South Carolina State
+400951046,2017,3,Eastern Illinois,Illinois State,13,44,fcs,fcs,,,False,31,Illinois State
+400944900,2017,3,Ball State,Tennessee Tech,28,13,fbs,fcs,,,False,-15,Ball State
+400950838,2017,3,Montana,Savannah State,56,3,fcs,fcs,,,False,-53,Montana
+400950873,2017,3,South Dakota,North Dakota,45,7,fcs,fcs,,,False,-38,South Dakota
+400951062,2017,3,Missouri State,Murray State,28,21,fcs,fcs,,,False,-7,Missouri State
+400951235,2017,3,Robert Morris,VMI,23,0,fcs,fcs,,,False,-23,Robert Morris
+400937469,2017,3,Wake Forest,Utah State,46,10,fbs,fbs,1532.0,1292.0,False,-36,Wake Forest
+400933856,2017,3,Florida,Tennessee,26,20,fbs,fbs,1658.0,1651.0,False,-6,Florida
+400935351,2017,3,Iowa,North Texas,31,14,fbs,fbs,1637.0,1208.0,False,-17,Iowa
+400937464,2017,3,Old Dominion,North Carolina,23,53,fbs,fbs,1440.0,1628.0,False,30,North Carolina
+400937468,2017,3,East Carolina,Virginia Tech,17,64,fbs,fbs,1240.0,1753.0,False,47,Virginia Tech
+400937466,2017,3,Syracuse,Central Michigan,41,17,fbs,fbs,1337.0,1352.0,False,-24,Syracuse
+400934574,2017,3,Boston College,Notre Dame,20,49,fbs,fbs,1363.0,1736.0,False,29,Notre Dame
+400935349,2017,3,BYU,Wisconsin,6,40,fbs,fbs,1586.0,1854.0,False,34,Wisconsin
+400935353,2017,3,Minnesota,Middle Tennessee,34,3,fbs,fbs,1659.0,1341.0,False,-31,Minnesota
+400935357,2017,3,Rutgers,Morgan State,65,0,fbs,fcs,,,True,-65,Rutgers
+400950951,2017,3,Delaware,Cornell,41,14,fcs,fcs,,,False,-27,Delaware
+400950970,2017,3,James Madison,Norfolk State,75,14,fcs,fcs,,,False,-61,James Madison
+400934510,2017,3,TCU,SMU,56,36,fbs,fbs,1682.0,1392.0,False,-20,TCU
+400933855,2017,3,Auburn,Mercer,24,10,fbs,fcs,,,False,-14,Auburn
+400933860,2017,3,Missouri,Purdue,3,35,fbs,fbs,1396.0,1370.0,False,32,Purdue
+400934563,2017,3,Ohio State,Army,38,7,fbs,fbs,1949.0,1401.0,False,-31,Ohio State
+400950889,2017,3,Portland State,UC Davis,14,37,fcs,fcs,,,True,23,UC Davis
+400935274,2017,3,Washington State,Oregon State,52,23,fbs,fbs,1708.0,1280.0,False,-29,Washington State
+400938606,2017,3,Charlotte,North Carolina A&T,31,35,fbs,fcs,,,False,4,North Carolina A&T
+400950904,2017,3,Elon,Charleston Southern,19,17,fcs,fcs,,,False,-2,Elon
+400951005,2017,3,Stony Brook,Sacred Heart,45,7,fcs,fcs,,,False,-38,Stony Brook
+400951015,2017,3,Villanova,Lafayette,59,0,fcs,fcs,,,False,-59,Villanova
+400951018,2017,3,William & Mary,Bucknell,30,9,fcs,fcs,,,False,-21,William & Mary
+400944899,2017,3,Buffalo,Colgate,33,10,fbs,fcs,,,False,-23,Buffalo
+400952303,2017,3,Stetson,Dartmouth,7,38,fcs,fcs,,,False,31,Dartmouth
+400950914,2017,3,Gardner-Webb,Western Carolina,27,42,fcs,fcs,,,False,15,Western Carolina
+400950931,2017,3,Liberty,Indiana State,42,41,fcs,fcs,,,False,-1,Liberty
+400951545,2017,3,Hampton,Livingstone,59,0,fcs,ii,,,False,-59,Hampton
+400951323,2017,3,Chattanooga,UT Martin,7,21,fcs,fcs,,,False,14,UT Martin
+400953934,2017,3,Florida A&M,Tennessee State,13,24,fcs,fcs,,,True,11,Tennessee State
+400934508,2017,3,Oklahoma,Tulane,56,14,fbs,fbs,1969.0,1319.0,False,-42,Oklahoma
+400938609,2017,3,Marshall,Kent State,21,0,fbs,fbs,1294.0,1199.0,False,-21,Marshall
+400952254,2017,3,Butler,Taylor,27,21,fcs,,,,False,-6,Butler
+400938607,2017,3,Florida Atlantic,Bethune-Cookman,45,0,fbs,fcs,,,False,-45,Florida Atlantic
+400951087,2017,3,South Dakota State,Drake,51,10,fcs,fcs,,,False,-41,South Dakota State
+400935273,2017,3,Wyoming,Oregon,13,49,fbs,fbs,1397.0,1501.0,False,36,Oregon
+400941802,2017,3,Toledo,Tulsa,54,51,fbs,fbs,1617.0,1613.0,False,-3,Toledo
+400951401,2017,3,Alcorn State,McNeese,27,34,fcs,fcs,,,False,7,McNeese
+400951520,2017,3,Stephen F. Austin,Incarnate Word,37,31,fcs,fcs,,,False,-6,Stephen F. Austin
+400952309,2017,3,Abilene Christian,Houston Christian,24,3,fcs,fcs,,,True,-21,Abilene Christian
+400952335,2017,3,Northwestern State,Lamar,35,28,fcs,fcs,,,False,-7,Northwestern State
+400952343,2017,3,Nicholls,Prairie View,44,13,fcs,fcs,,,False,-31,Nicholls
+400944840,2017,3,South Alabama,Alabama A&M,45,0,fbs,fcs,,,True,-45,South Alabama
+400954005,2017,3,Grambling,Jackson State,36,21,fcs,fcs,,,False,-15,Grambling
+400951011,2017,3,St Francis (PA),Towson,14,16,fcs,fcs,,,False,2,Towson
+400933854,2017,3,Alabama,Colorado State,41,23,fbs,fbs,2060.0,1576.0,False,-18,Alabama
+400950939,2017,3,Albany,Monmouth,28,14,fcs,fcs,,,False,-14,Albany
+400950946,2017,3,Presbyterian College,Campbell,28,16,fcs,fcs,,,False,-12,Presbyterian College
+400951092,2017,3,Southeast Missouri State,Southern Illinois,17,35,fcs,fcs,,,True,18,Southern Illinois
+400951254,2017,3,Austin Peay,Morehead State,69,13,fcs,fcs,,,False,-56,Austin Peay
+400952272,2017,3,Davidson,Guilford,42,21,fcs,iii,,,False,-21,Davidson
+400945257,2017,3,Nevada,Idaho State,28,30,fbs,fcs,,,False,2,Idaho State
+400938611,2017,3,Louisiana Monroe,Southern Mississippi,17,28,fbs,fbs,1158.0,1425.0,False,11,Southern Mississippi
+400944838,2017,3,Arkansas State,Arkansas-Pine Bluff,48,3,fbs,fcs,,,False,-45,Arkansas State
+400938608,2017,3,Western Kentucky,Louisiana Tech,22,23,fbs,fbs,1743.0,1498.0,False,1,Louisiana Tech
+400944836,2017,3,Texas State,Appalachian State,13,20,fbs,fbs,1010.0,1539.0,False,7,Appalachian State
+400938613,2017,3,UT San Antonio,Southern,51,17,fbs,fcs,,,False,-34,UT San Antonio
+400933859,2017,3,Mississippi State,LSU,37,7,fbs,fbs,1717.0,1874.0,False,-30,Mississippi State
+400944839,2017,3,Western Michigan,Idaho,37,28,fbs,fbs,1659.0,1310.0,False,-9,Western Michigan
+400935356,2017,3,Penn State,Georgia State,56,0,fbs,fbs,1865.0,1285.0,False,-56,Penn State
+400935355,2017,3,Northwestern,Bowling Green,49,7,fbs,fbs,1505.0,1310.0,False,-42,Northwestern
+400933863,2017,3,Vanderbilt,Kansas State,14,7,fbs,fbs,1548.0,1745.0,False,-7,Vanderbilt
+400933861,2017,3,South Carolina,Kentucky,13,23,fbs,fbs,1517.0,1500.0,False,10,Kentucky
+400933857,2017,3,Georgia,Samford,42,14,fbs,fcs,,,False,-28,Georgia
+400941801,2017,3,Miami (OH),Cincinnati,17,21,fbs,fbs,1367.0,1374.0,False,4,Cincinnati
+400950897,2017,3,Southern Utah,Northern Iowa,24,21,fcs,fcs,,,False,-3,Southern Utah
+400944837,2017,3,New Mexico State,Troy,24,27,fbs,fbs,1215.0,1464.0,False,3,Troy
+400950924,2017,3,Alabama State,Kennesaw State,14,20,fcs,fcs,,,False,6,Kennesaw State
+400934512,2017,3,Texas Tech,Arizona State,52,45,fbs,fbs,1444.0,1409.0,False,-7,Texas Tech
+400937461,2017,3,Louisville,Clemson,21,47,fbs,fbs,1746.0,2042.0,False,26,Clemson
+400938610,2017,3,Houston,Rice,38,3,fbs,fbs,1650.0,1180.0,False,-35,Houston
+400952317,2017,3,Central Arkansas,Southeastern Louisiana,38,6,fcs,fcs,,,False,-32,Central Arkansas
+400934511,2017,3,USC,Texas,27,24,fbs,fbs,1866.0,1642.0,False,-3,USC
+400950893,2017,3,Sacramento State,Weber State,24,31,fcs,fcs,,,False,7,Weber State
+400935275,2017,3,Washington,Fresno State,48,16,fbs,fbs,1885.0,1206.0,False,-32,Washington
+400935272,2017,3,Utah,San José State,54,16,fbs,fbs,1644.0,1115.0,False,-38,Utah
+400933858,2017,3,California,Ole Miss,27,16,fbs,fbs,1540.0,1590.0,False,-11,California
+400935276,2017,3,San Diego State,Stanford,20,17,fbs,fbs,1670.0,1736.0,False,-3,San Diego State
+400941803,2017,4,South Florida,Temple,43,7,fbs,fbs,1673.0,1559.0,False,-36,South Florida
+400952247,2017,4,North Carolina Central,South Carolina State,33,28,fcs,fcs,,,False,-5,North Carolina Central
+400945258,2017,4,Boise State,Virginia,23,42,fbs,fbs,1633.0,1401.0,False,19,Virginia
+400935277,2017,4,Arizona,Utah,24,30,fbs,fbs,1456.0,1687.0,False,6,Utah
+400934514,2017,4,Kansas,West Virginia,34,56,fbs,fbs,1155.0,1700.0,False,22,West Virginia
+400937474,2017,4,Louisville,Kent State,42,3,fbs,fbs,1710.0,1159.0,False,-39,Louisville
+400935363,2017,4,Ohio State,UNLV,54,21,fbs,fbs,1971.0,1346.0,False,-33,Ohio State
+400934561,2017,4,Tulane,Army,21,17,fbs,fbs,1278.0,1379.0,False,-4,Tulane
+400937472,2017,4,Florida State,NC State,21,27,fbs,fbs,1722.0,1572.0,False,6,NC State
+400934518,2017,4,Houston,Texas Tech,24,27,fbs,fbs,1691.0,1452.0,False,3,Texas Tech
+400951029,2017,4,Harvard,Brown,45,28,fcs,fcs,,,False,-17,Harvard
+400954566,2017,4,Central Connecticut,Walsh,57,6,fcs,ii,,,False,-51,Central Connecticut
+400933864,2017,4,Arkansas,Texas A&M,43,50,fbs,fbs,1529.0,1674.0,True,7,Texas A&M
+400933870,2017,4,Tennessee,UMass,17,13,fbs,fbs,1644.0,1231.0,False,-4,Tennessee
+400937473,2017,4,Georgia Tech,Pittsburgh,35,17,fbs,fbs,1591.0,1519.0,False,-18,Georgia Tech
+400951357,2017,4,Lehigh,Pennsylvania,47,65,fcs,fcs,,,False,18,Pennsylvania
+400952280,2017,4,Morehead State,Dayton,34,28,fcs,fcs,,,False,-6,Morehead State
+400951020,2017,4,Columbia,Georgetown,35,14,fcs,fcs,,,False,-21,Columbia
+400951335,2017,4,Colgate,Furman,14,45,fcs,fcs,,,False,31,Furman
+400951529,2017,4,Howard,Bethune-Cookman,26,24,fcs,fcs,,,False,-2,Howard
+400951213,2017,4,Bryant,Fordham,45,40,fcs,fcs,,,False,-5,Bryant
+400951038,2017,4,Yale,Cornell,49,24,fcs,fcs,,,False,-25,Yale
+400941807,2017,4,Tulsa,New Mexico,13,16,fbs,fbs,1612.0,1430.0,False,3,New Mexico
+400950971,2017,4,James Madison,Maine,28,10,fcs,fcs,,,False,-18,James Madison
+400951393,2017,4,VMI,Chattanooga,7,63,fcs,fcs,,,False,56,Chattanooga
+400950915,2017,4,Wofford,Gardner-Webb,27,24,fcs,fcs,,,False,-3,Wofford
+400952286,2017,4,Drake,Valparaiso,38,13,fcs,fcs,,,False,-25,Drake
+400944902,2017,4,Eastern Michigan,Ohio,20,27,fbs,fbs,1329.0,1380.0,False,7,Ohio
+400944841,2017,4,South Alabama,Idaho,23,29,fbs,fbs,1263.0,1317.0,False,6,Idaho
+400937477,2017,4,Virginia Tech,Old Dominion,38,0,fbs,fbs,1827.0,1380.0,False,-38,Virginia Tech
+400950940,2017,4,Hampton,Monmouth,23,30,fcs,fcs,,,False,7,Monmouth
+400951538,2017,4,Delaware State,Norfolk State,7,17,fcs,fcs,,,False,10,Norfolk State
+400950830,2017,4,Northern Colorado,Idaho State,43,42,fcs,fcs,,,False,-1,Northern Colorado
+400935361,2017,4,Maryland,UCF,10,38,fbs,fbs,1406.0,1552.0,False,28,UCF
+400951047,2017,4,Missouri State,Illinois State,9,34,fcs,fcs,,,False,25,Illinois State
+400935359,2017,4,Indiana,Georgia Southern,52,17,fbs,fbs,1519.0,1385.0,False,-35,Indiana
+400951070,2017,4,North Dakota State,Robert Morris,56,0,fcs,fcs,,,False,-56,North Dakota State
+400950985,2017,4,New Hampshire,Rhode Island,28,14,fcs,fcs,,,False,-14,New Hampshire
+400950866,2017,4,North Dakota,Montana State,21,49,fcs,fcs,,,False,28,Montana State
+400937475,2017,4,Miami,Toledo,52,30,fbs,fbs,1698.0,1618.0,False,-22,Miami
+400935279,2017,4,California,USC,20,30,fbs,fbs,1564.0,1864.0,False,10,USC
+400933869,2017,4,South Carolina,Louisiana Tech,17,16,fbs,fbs,1495.0,1512.0,False,-1,South Carolina
+400937478,2017,4,Appalachian State,Wake Forest,19,20,fbs,fbs,1515.0,1603.0,False,1,Wake Forest
+400937471,2017,4,North Carolina,Duke,17,27,fbs,fbs,1688.0,1532.0,False,10,Duke
+400941804,2017,4,Navy,Cincinnati,42,32,fbs,fbs,1643.0,1380.0,False,-10,Navy
+400933871,2017,4,Vanderbilt,Alabama,0,59,fbs,fbs,1569.0,2057.0,False,59,Alabama
+400951388,2017,4,Western Carolina,Samford,38,34,fcs,fcs,,,False,-4,Western Carolina
+400951360,2017,4,East Tennessee State,Mercer,26,23,fcs,fcs,,,False,-3,East Tennessee State
+400944901,2017,4,Central Michigan,Miami (OH),14,31,fbs,fbs,1290.0,1361.0,False,17,Miami (OH)
+400937470,2017,4,Clemson,Boston College,34,7,fbs,fbs,2078.0,1327.0,False,-27,Clemson
+400935362,2017,4,Nebraska,Rutgers,27,17,fbs,fbs,1508.0,1200.0,False,-10,Nebraska
+400934516,2017,4,Oklahoma State,TCU,31,44,fbs,fbs,1937.0,1700.0,False,13,TCU
+400935364,2017,4,Purdue,Michigan,10,28,fbs,fbs,1465.0,1931.0,False,18,Michigan
+400952264,2017,4,Stetson,Campbell,21,49,fcs,fcs,,,False,28,Campbell
+400952255,2017,4,San Diego,Butler,38,17,fcs,fcs,,,False,-21,San Diego
+400951324,2017,4,UT Martin,Tennessee State,31,16,fcs,fcs,,,False,-15,UT Martin
+400944842,2017,4,Louisiana,Louisiana Monroe,50,56,fbs,fbs,1310.0,1157.0,False,6,Louisiana Monroe
+400951242,2017,4,Bucknell,Sacred Heart,34,31,fcs,fcs,,,False,-3,Bucknell
+400935283,2017,4,Washington State,Nevada,45,7,fbs,fbs,1736.0,1389.0,False,-38,Washington State
+400944818,2017,4,Troy,Akron,22,17,fbs,fbs,1454.0,1175.0,False,-5,Troy
+400952291,2017,4,Marist,Jacksonville,37,44,fcs,fcs,,,False,7,Jacksonville
+400952249,2017,4,Savannah State,Florida A&M,14,20,fcs,fcs,,,False,6,Florida A&M
+400950905,2017,4,Charleston Southern,Point University,66,0,fcs,,,,False,-66,Charleston Southern
+400951355,2017,4,Lafayette,Princeton,17,38,fcs,fcs,,,False,21,Princeton
+400951006,2017,4,Stony Brook,Towson,25,17,fcs,fcs,,,False,-8,Stony Brook
+400951306,2017,4,Eastern Kentucky,Tennessee Tech,24,21,fcs,fcs,,,False,-3,Eastern Kentucky
+400950961,2017,4,Richmond,Elon,33,36,fcs,fcs,,,False,3,Elon
+400938614,2017,4,Charlotte,Georgia State,0,28,fbs,fbs,1090.0,1193.0,False,28,Georgia State
+400944843,2017,4,Coastal Carolina,Western Illinois,10,52,fbs,fcs,,,False,42,Western Illinois
+400938618,2017,4,North Texas,UAB,46,43,fbs,fbs,1208.0,1407.0,False,-3,North Texas
+400934515,2017,4,Baylor,Oklahoma,41,49,fbs,fbs,1501.0,2010.0,False,8,Oklahoma
+400953983,2017,4,Alabama A&M,Texas Southern,30,13,fcs,fcs,,,False,-17,Alabama A&M
+400954006,2017,4,Mississippi Valley State,Grambling,6,38,fcs,fcs,,,False,32,Grambling
+400953998,2017,4,Jackson State,Arkansas-Pine Bluff,27,34,fcs,fcs,,,False,7,Arkansas-Pine Bluff
+400938617,2017,4,Middle Tennessee,Bowling Green,24,13,fbs,fbs,1295.0,1213.0,False,-11,Middle Tennessee
+400951139,2017,4,Eastern Illinois,Southeast Missouri State,19,16,fcs,fcs,,,False,-3,Eastern Illinois
+400951352,2017,4,Dartmouth,Holy Cross,27,26,fcs,fcs,,,False,-1,Dartmouth
+400952324,2017,4,McNeese,Houston Christian,27,12,fcs,fcs,,,False,-15,McNeese
+400951255,2017,4,Murray State,Austin Peay,7,27,fcs,fcs,,,False,20,Austin Peay
+400944903,2017,4,Western Michigan,Wagner,49,14,fbs,fcs,,,False,-35,Western Michigan
+400938616,2017,4,Buffalo,Florida Atlantic,34,31,fbs,fbs,1230.0,1218.0,False,-3,Buffalo
+400950932,2017,4,Jacksonville State,Liberty,31,10,fcs,fcs,,,False,-21,Jacksonville State
+400950947,2017,4,Presbyterian College,Cumberland,27,20,fcs,,,,False,-7,Presbyterian College
+400950901,2017,4,Weber State,UC Davis,41,3,fcs,fcs,,,False,-38,Weber State
+400951402,2017,4,Alcorn State,Southern,48,31,fcs,fcs,,,False,-17,Alcorn State
+400951016,2017,4,Albany,Villanova,19,10,fcs,fcs,,,False,-9,Albany
+400945259,2017,4,Air Force,San Diego State,24,28,fbs,fbs,1559.0,1672.0,False,4,San Diego State
+400933865,2017,4,Georgia,Mississippi State,31,3,fbs,fbs,1659.0,1818.0,False,-28,Georgia
+400938621,2017,4,Western Kentucky,Ball State,33,21,fbs,fbs,1729.0,1380.0,False,-12,Western Kentucky
+400941806,2017,4,SMU,Arkansas State,44,21,fbs,fbs,1374.0,1534.0,False,-23,SMU
+400933867,2017,4,LSU,Syracuse,35,26,fbs,fbs,1773.0,1399.0,False,-9,LSU
+400952231,2017,4,Morgan State,North Carolina A&T,17,49,fcs,fcs,,,False,32,North Carolina A&T
+400951511,2017,4,Sam Houston State,Nicholls,66,17,fcs,fcs,,,False,-49,Sam Houston State
+400951521,2017,4,Abilene Christian,Stephen F. Austin,10,20,fcs,fcs,,,False,10,Stephen F. Austin
+400933868,2017,4,Missouri,Auburn,14,51,fbs,fbs,1301.0,1824.0,False,37,Auburn
+400938620,2017,4,Texas State,UT San Antonio,14,44,fbs,fbs,1034.0,1442.0,False,30,UT San Antonio
+400938615,2017,4,Rice,Florida International,7,13,fbs,fbs,1139.0,1166.0,False,6,Florida International
+400933866,2017,4,Kentucky,Florida,27,28,fbs,fbs,1522.0,1665.0,False,1,Florida
+400935360,2017,4,Iowa,Penn State,19,21,fbs,fbs,1637.0,1957.0,False,2,Penn State
+400945260,2017,4,San José State,Utah State,10,61,fbs,fbs,1072.0,1221.0,False,51,Utah State
+400938619,2017,4,New Mexico State,UTEP,41,14,fbs,fbs,1225.0,1008.0,False,-27,New Mexico State
+400941805,2017,4,Memphis,Southern Illinois,44,31,fbs,fcs,,,False,-13,Memphis
+400934575,2017,4,Michigan State,Notre Dame,18,38,fbs,fbs,1646.0,1772.0,False,20,Notre Dame
+400953991,2017,4,Alabama State,Prairie View,0,34,fcs,fcs,,,False,34,Prairie View
+400950578,2017,4,Montana,Eastern Washington,41,48,fcs,fcs,,,False,7,Eastern Washington
+400952336,2017,4,Southeastern Louisiana,Lamar,49,21,fcs,fcs,,,False,-28,Southeastern Louisiana
+400950894,2017,4,Sacramento State,Southern Utah,54,27,fcs,fcs,,,False,-27,Sacramento State
+400950568,2017,4,Cal Poly,Northern Arizona,10,28,fcs,fcs,,,False,18,Northern Arizona
+400935281,2017,4,Colorado,Washington,10,37,fbs,fbs,1660.0,1896.0,False,27,Washington
+400935278,2017,4,Arizona State,Oregon,37,35,fbs,fbs,1401.0,1592.0,False,-2,Arizona State
+400945261,2017,4,Wyoming,Hawai'i,28,21,fbs,fbs,1306.0,1216.0,False,-7,Wyoming
+400935280,2017,4,Stanford,UCLA,58,34,fbs,fbs,1734.0,1585.0,False,-24,Stanford
+400941838,2017,4,Connecticut,East Carolina,38,41,fbs,fbs,1202.0,1166.0,False,3,East Carolina
+400952248,2017,5,Florida A&M,North Carolina Central,14,21,fcs,fcs,,,False,7,North Carolina Central
+400934521,2017,5,Iowa State,Texas,7,17,fbs,fbs,1566.0,1644.0,False,10,Texas
+400937479,2017,5,Duke,Miami,6,31,fbs,fbs,1567.0,1743.0,False,25,Miami
+400953833,2017,5,Pennsylvania,Dartmouth,13,16,fcs,fcs,,,False,3,Dartmouth
+400935365,2017,5,Illinois,Nebraska,6,28,fbs,fbs,1359.0,1504.0,False,22,Nebraska
+400945262,2017,5,Utah State,BYU,40,24,fbs,fbs,1360.0,1523.0,False,-16,Utah State
+400951403,2017,5,Texas Southern,Alcorn State,17,24,fcs,fcs,,,False,7,Alcorn State
+400935284,2017,5,Washington State,USC,30,27,fbs,fbs,1800.0,1860.0,False,-3,Washington State
+400935367,2017,5,Minnesota,Maryland,24,31,fbs,fbs,1705.0,1347.0,False,7,Maryland
+400941810,2017,5,East Carolina,South Florida,31,61,fbs,fbs,1173.0,1760.0,False,30,South Florida
+400935370,2017,5,Wisconsin,Northwestern,33,24,fbs,fbs,1917.0,1602.0,False,-9,Wisconsin
+400952281,2017,5,Dayton,San Diego,7,23,fcs,fcs,,,False,16,San Diego
+400937486,2017,5,Pittsburgh,Rice,42,10,fbs,fbs,1486.0,1130.0,False,-32,Pittsburgh
+400933875,2017,5,Florida,Vanderbilt,38,24,fbs,fbs,1660.0,1453.0,False,-14,Florida
+400941811,2017,5,Temple,Houston,13,20,fbs,fbs,1472.0,1671.0,False,7,Houston
+400933873,2017,5,Arkansas,New Mexico State,42,24,fbs,fbs,1531.0,1270.0,False,-18,Arkansas
+400937483,2017,5,Georgia Tech,North Carolina,33,7,fbs,fbs,1624.0,1653.0,False,-26,Georgia Tech
+400937485,2017,5,NC State,Syracuse,33,25,fbs,fbs,1594.0,1408.0,False,-8,NC State
+400951021,2017,5,Princeton,Columbia,24,28,fcs,fcs,,,False,4,Columbia
+400937480,2017,5,Boston College,Central Michigan,28,8,fbs,fbs,1334.0,1256.0,False,-20,Boston College
+400953940,2017,5,Jacksonville,Guilford,56,21,fcs,iii,,,False,-35,Jacksonville
+400952256,2017,5,Butler,Drake,16,27,fcs,fcs,,,False,11,Drake
+400952273,2017,5,Davidson,Marist,9,31,fcs,fcs,,,False,22,Marist
+400951361,2017,5,Furman,East Tennessee State,56,35,fcs,fcs,,,False,-21,Furman
+400951353,2017,5,Holy Cross,Lafayette,7,10,fcs,fcs,,,False,3,Lafayette
+400951336,2017,5,Cornell,Colgate,7,21,fcs,fcs,,,False,14,Colgate
+400952265,2017,5,Campbell,Morehead State,38,0,fcs,fcs,,,False,-38,Campbell
+400951030,2017,5,Georgetown,Harvard,2,41,fcs,fcs,,,True,39,Harvard
+400950962,2017,5,Elon,Albany,6,0,fcs,fcs,,,False,-6,Elon
+400952304,2017,5,Valparaiso,Stetson,27,24,fcs,fcs,,,False,-3,Valparaiso
+400951063,2017,5,North Dakota State,Missouri State,38,11,fcs,fcs,,,False,-27,North Dakota State
+400951368,2017,5,Samford,The Citadel,35,14,fcs,fcs,,,False,-21,Samford
+400953984,2017,5,Alabama A&M,Arkansas-Pine Bluff,27,14,fcs,fcs,,,False,-13,Alabama A&M
+400938890,2017,5,UMass,Ohio,50,58,fbs,fbs,1239.0,1389.0,False,8,Ohio
+400937484,2017,5,Louisville,Murray State,55,10,fbs,fcs,,,False,-45,Louisville
+400944986,2017,5,Kent State,Buffalo,13,27,fbs,fbs,1116.0,1231.0,False,14,Buffalo
+400933878,2017,5,Tennessee,Georgia,0,41,fbs,fbs,1636.0,1753.0,False,41,Georgia
+400934566,2017,5,Army,UTEP,35,21,fbs,fbs,1373.0,963.0,False,-14,Army
+400950925,2017,5,Kennesaw State,North Greenville,38,34,fcs,ii,,,False,-4,Kennesaw State
+400950867,2017,5,Montana State,Weber State,17,25,fcs,fcs,,,False,8,Weber State
+400934519,2017,5,Kansas State,Baylor,33,20,fbs,fbs,1724.0,1522.0,False,-13,Kansas State
+400937482,2017,5,Wake Forest,Florida State,19,26,fbs,fbs,1600.0,1700.0,False,7,Florida State
+400941813,2017,5,Tulsa,Navy,21,31,fbs,fbs,1596.0,1642.0,False,10,Navy
+400935368,2017,5,Penn State,Indiana,45,14,fbs,fbs,1943.0,1600.0,False,-31,Penn State
+400950952,2017,5,Delaware,James Madison,10,20,fcs,fcs,,,False,10,James Madison
+400951383,2017,5,Mercer,VMI,49,14,fcs,fcs,,,False,-35,Mercer
+400933876,2017,5,Kentucky,Eastern Michigan,24,20,fbs,fbs,1527.0,1320.0,False,-4,Kentucky
+400951530,2017,5,Bethune-Cookman,Savannah State,24,12,fcs,fcs,,,False,-12,Bethune-Cookman
+400941809,2017,5,SMU,Connecticut,49,28,fbs,fbs,1449.0,1195.0,False,-21,SMU
+400935366,2017,5,Michigan State,Iowa,17,10,fbs,fbs,1609.0,1651.0,False,-7,Michigan State
+400944845,2017,5,Wyoming,Texas State,45,10,fbs,fbs,1311.0,999.0,False,-35,Wyoming
+400951082,2017,5,Western Illinois,South Dakota,33,38,fcs,fcs,,,False,5,South Dakota
+400935285,2017,5,Stanford,Arizona State,34,24,fbs,fbs,1777.0,1404.0,False,-10,Stanford
+400954007,2017,5,Clark Atlanta,Grambling,20,31,ii,fcs,,,False,11,Grambling
+400950569,2017,5,Idaho State,Cal Poly,38,34,fcs,fcs,,,False,-4,Idaho State
+400950579,2017,5,Eastern Washington,Sacramento State,52,31,fcs,fcs,,,False,-21,Eastern Washington
+400950839,2017,5,Portland State,Montana,33,45,fcs,fcs,,,False,12,Montana
+400951221,2017,5,Sacred Heart,Central Connecticut,15,26,fcs,fcs,,,False,11,Central Connecticut
+400953941,2017,5,Prairie View,Jackson State,38,9,fcs,fcs,,,False,-29,Prairie View
+400934576,2017,5,Notre Dame,Miami (OH),52,17,fbs,fbs,1809.0,1395.0,False,-35,Notre Dame
+400933874,2017,5,Auburn,Mississippi State,49,10,fbs,fbs,1866.0,1724.0,False,-39,Auburn
+400952242,2017,5,South Carolina State,North Carolina A&T,7,21,fcs,fcs,,,False,14,North Carolina A&T
+400951007,2017,5,William & Mary,Stony Brook,18,21,fcs,fcs,,,False,3,Stony Brook
+400950941,2017,5,Bucknell,Monmouth,13,35,fcs,fcs,,,False,22,Monmouth
+400951012,2017,5,Towson,Villanova,9,24,fcs,fcs,,,False,15,Villanova
+400951039,2017,5,Fordham,Yale,10,41,fcs,fcs,,,False,31,Yale
+400951250,2017,5,Wagner,Lehigh,37,20,fcs,fcs,,,False,-17,Wagner
+400951397,2017,5,Chattanooga,Western Carolina,7,45,fcs,fcs,,,False,38,Western Carolina
+400950986,2017,5,New Hampshire,Bryant,45,17,fcs,fcs,,,False,-28,New Hampshire
+400950906,2017,5,Charleston Southern,Mississippi Valley State,58,7,fcs,fcs,,,False,-51,Charleston Southern
+400950933,2017,5,Liberty,St Francis (PA),7,13,fcs,fcs,,,False,6,St Francis (PA)
+400944904,2017,5,Bowling Green,Akron,23,34,fbs,fbs,1199.0,1181.0,False,11,Akron
+400951522,2017,5,Stephen F. Austin,McNeese,0,35,fcs,fcs,,,False,35,McNeese
+400938624,2017,5,Louisiana Tech,South Alabama,34,16,fbs,fbs,1511.0,1256.0,False,-18,Louisiana Tech
+400985406,2017,5,UCF,Memphis,40,13,fbs,fbs,1611.0,1622.0,False,-27,UCF
+400938626,2017,5,Southern Mississippi,North Texas,28,43,fbs,fbs,1426.0,1212.0,False,15,North Texas
+400933877,2017,5,LSU,Troy,21,24,fbs,fbs,1764.0,1448.0,False,3,Troy
+400945263,2017,5,New Mexico,Air Force,56,38,fbs,fbs,1446.0,1560.0,False,-18,New Mexico
+400944905,2017,5,Western Michigan,Ball State,55,3,fbs,fbs,1652.0,1383.0,False,-52,Western Michigan
+400950880,2017,5,Northern Arizona,Northern Colorado,48,20,fcs,fcs,,,False,-28,Northern Arizona
+400950948,2017,5,Presbyterian College,Wofford,7,31,fcs,fcs,,,False,24,Wofford
+400950993,2017,5,Brown,Rhode Island,24,21,fcs,fcs,,,False,-3,Brown
+400951076,2017,5,Southern Illinois,Northern Iowa,17,24,fcs,fcs,,,False,7,Northern Iowa
+400951088,2017,5,Youngstown State,South Dakota State,19,7,fcs,fcs,,,False,-12,Youngstown State
+400951140,2017,5,Tennessee State,Eastern Illinois,16,19,fcs,fcs,,,False,3,Eastern Illinois
+400951229,2017,5,Duquesne,WV Wesleyan,38,13,fcs,ii,,,False,-25,Duquesne
+400951256,2017,5,Austin Peay,UT Martin,7,0,fcs,fcs,,,False,-7,Austin Peay
+400951307,2017,5,Southeast Missouri State,Eastern Kentucky,29,10,fcs,fcs,,,False,-19,Southeast Missouri State
+400951318,2017,5,Tennessee Tech,Jacksonville State,7,34,fcs,fcs,,,False,27,Jacksonville State
+400951512,2017,5,Central Arkansas,Sam Houston State,41,30,fcs,fcs,,,False,-11,Central Arkansas
+400952310,2017,5,Incarnate Word,Abilene Christian,20,45,fcs,fcs,,,False,25,Abilene Christian
+400954030,2017,5,Southern,Fort Valley State,31,14,fcs,ii,,,False,-17,Southern
+400938623,2017,5,Florida Atlantic,Middle Tennessee,38,20,fbs,fbs,1217.0,1309.0,False,-18,Florida Atlantic
+400938625,2017,5,Cincinnati,Marshall,21,38,fbs,fbs,1381.0,1334.0,False,17,Marshall
+400944844,2017,5,Louisiana Monroe,Coastal Carolina,51,43,fbs,fbs,1180.0,1442.0,False,-8,Louisiana Monroe
+400938622,2017,5,Florida International,Charlotte,30,29,fbs,fbs,1175.0,1026.0,False,-1,Florida International
+400933879,2017,5,Texas A&M,South Carolina,24,17,fbs,fbs,1672.0,1496.0,False,-7,Texas A&M
+400951048,2017,5,Illinois State,Indiana State,24,13,fcs,fcs,,,False,-11,Illinois State
+400935369,2017,5,Rutgers,Ohio State,0,56,fbs,fbs,1204.0,1990.0,False,56,Ohio State
+400952347,2017,5,Northwestern State,Southeastern Louisiana,20,49,fcs,fcs,,,False,29,Southeastern Louisiana
+400952337,2017,5,Lamar,Nicholls,14,41,fcs,fcs,,,False,27,Nicholls
+400935288,2017,5,Oregon State,Washington,7,42,fbs,fbs,1252.0,1941.0,False,35,Washington
+400934520,2017,5,Texas Tech,Oklahoma State,34,41,fbs,fbs,1472.0,1883.0,False,7,Oklahoma State
+400937481,2017,5,Virginia Tech,Clemson,17,31,fbs,fbs,1879.0,2071.0,False,14,Clemson
+400933872,2017,5,Alabama,Ole Miss,66,3,fbs,fbs,2173.0,1566.0,False,-63,Alabama
+400950874,2017,5,UC Davis,North Dakota,48,24,fcs,fcs,,,False,-24,UC Davis
+400945265,2017,5,Fresno State,Nevada,41,21,fbs,fbs,1195.0,1325.0,False,-20,Fresno State
+400945266,2017,5,UNLV,San José State,41,13,fbs,fbs,1327.0,933.0,False,-28,UNLV
+400935287,2017,5,Oregon,California,45,24,fbs,fbs,1589.0,1568.0,False,-21,Oregon
+400944987,2017,5,San Diego State,Northern Illinois,34,28,fbs,fbs,1671.0,1480.0,False,-6,San Diego State
+400935286,2017,5,UCLA,Colorado,27,23,fbs,fbs,1542.0,1615.0,False,-4,UCLA
+400945264,2017,5,Hawai'i,Colorado State,21,51,fbs,fbs,1211.0,1579.0,False,30,Colorado State
+400944846,2017,6,Georgia Southern,Arkansas State,25,43,fbs,fbs,1304.0,1459.0,False,18,Arkansas State
+400951404,2017,6,Alabama State,Alcorn State,10,24,fcs,fcs,,,False,14,Alcorn State
+400937487,2017,6,NC State,Louisville,39,25,fbs,fbs,1595.0,1753.0,False,-14,NC State
+400941814,2017,6,Connecticut,Memphis,31,70,fbs,fbs,1171.0,1551.0,False,39,Memphis
+400952232,2017,6,South Carolina State,Morgan State,35,14,fcs,fcs,,,False,-21,South Carolina State
+400945267,2017,6,BYU,Boise State,7,24,fbs,fbs,1473.0,1558.0,False,17,Boise State
+400941819,2017,6,Tulane,Tulsa,62,28,fbs,fbs,1284.0,1579.0,False,-34,Tulane
+400952329,2017,6,Southeastern Louisiana,Incarnate Word,49,30,fcs,fcs,,,False,-19,Southeastern Louisiana
+400934525,2017,6,Kansas,Texas Tech,19,65,fbs,fbs,1155.0,1488.0,False,46,Texas Tech
+400941817,2017,6,East Carolina,Temple,10,34,fbs,fbs,1157.0,1474.0,False,24,Temple
+400944991,2017,6,Toledo,Eastern Michigan,20,15,fbs,fbs,1573.0,1323.0,False,-5,Toledo
+400935371,2017,6,Iowa,Illinois,45,16,fbs,fbs,1639.0,1318.0,False,-29,Iowa
+400937489,2017,6,Clemson,Wake Forest,28,14,fbs,fbs,2085.0,1594.0,False,-14,Clemson
+400933880,2017,6,Auburn,Ole Miss,44,23,fbs,fbs,1959.0,1455.0,False,-21,Auburn
+400935374,2017,6,Northwestern,Penn State,7,31,fbs,fbs,1607.0,1986.0,False,24,Penn State
+400933885,2017,6,Vanderbilt,Georgia,14,45,fbs,fbs,1442.0,1860.0,False,31,Georgia
+400951022,2017,6,Marist,Columbia,17,41,fcs,fcs,,,False,24,Columbia
+400952344,2017,6,Nicholls,Northwestern State,14,10,fcs,fcs,,,False,-4,Nicholls
+400934523,2017,6,Oklahoma,Iowa State,31,38,fbs,fbs,1989.0,1552.0,False,7,Iowa State
+400937490,2017,6,Virginia,Duke,28,21,fbs,fbs,1476.0,1521.0,False,-7,Virginia
+400937491,2017,6,Syracuse,Pittsburgh,27,24,fbs,fbs,1407.0,1531.0,False,-3,Syracuse
+400952305,2017,6,Stetson,Brown,17,13,fcs,fcs,,,False,-4,Stetson
+400950979,2017,6,Villanova,Maine,31,0,fcs,fcs,,,False,-31,Villanova
+400950949,2017,6,Presbyterian College,St Francis (PA),26,14,fcs,fcs,,,False,-12,Presbyterian College
+400951337,2017,6,Colgate,Lehigh,38,41,fcs,fcs,,,False,3,Lehigh
+400950868,2017,6,Montana State,Portland State,30,22,fcs,fcs,,,False,-8,Montana State
+400951222,2017,6,Central Connecticut,Pennsylvania,42,21,fcs,fcs,,,False,-21,Central Connecticut
+400951055,2017,6,Indiana State,North Dakota State,0,52,fcs,fcs,,,False,52,North Dakota State
+400951230,2017,6,Duquesne,Wagner,38,0,fcs,fcs,,,False,-38,Duquesne
+400951348,2017,6,Princeton,Georgetown,50,30,fcs,fcs,,,False,-20,Princeton
+400952274,2017,6,Jacksonville,Davidson,35,21,fcs,fcs,,,False,-14,Jacksonville
+400952225,2017,6,Howard,North Carolina Central,7,13,fcs,fcs,,,False,6,North Carolina Central
+400952257,2017,6,Morehead State,Butler,6,44,fcs,fcs,,,False,38,Butler
+400951539,2017,6,North Carolina A&T,Delaware State,44,3,fcs,fcs,,,False,-41,North Carolina A&T
+400950942,2017,6,Holy Cross,Monmouth,36,48,fcs,fcs,,,False,12,Monmouth
+400951040,2017,6,Dartmouth,Yale,28,27,fcs,fcs,,,False,-1,Dartmouth
+400951389,2017,6,VMI,Samford,7,26,fcs,fcs,,,False,19,Samford
+400951398,2017,6,Wofford,Western Carolina,35,28,fcs,fcs,,,False,-7,Wofford
+400951031,2017,6,Cornell,Harvard,17,14,fcs,fcs,,,False,-3,Cornell
+400950916,2017,6,Gardner-Webb,Shorter,42,14,fcs,ii,,,False,-28,Gardner-Webb
+400950963,2017,6,Elon,William & Mary,25,17,fcs,fcs,,,False,-8,Elon
+400944990,2017,6,Ohio,Central Michigan,23,26,fbs,fbs,1393.0,1217.0,False,3,Central Michigan
+400951369,2017,6,The Citadel,Mercer,14,24,fcs,fcs,,,False,10,Mercer
+400951513,2017,6,Stephen F. Austin,Sam Houston State,16,27,fcs,fcs,,,False,11,Sam Houston State
+400951546,2017,6,Savannah State,Hampton,10,17,fcs,fcs,,,False,7,Hampton
+400952237,2017,6,Norfolk State,Florida A&M,35,28,fcs,fcs,,,False,-7,Norfolk State
+400952266,2017,6,Campbell,Valparaiso,49,10,fcs,fcs,,,False,-39,Campbell
+400952282,2017,6,Drake,Dayton,10,20,fcs,fcs,,,False,10,Dayton
+400953985,2017,6,Southern,Alabama A&M,35,14,fcs,fcs,,,False,-21,Southern
+400944989,2017,6,Miami (OH),Bowling Green,29,37,fbs,fbs,1348.0,1174.0,False,8,Bowling Green
+400951000,2017,6,Richmond,Albany,41,38,fcs,fcs,,,False,-3,Richmond
+400951325,2017,6,UT Martin,Murray State,10,13,fcs,fcs,,,False,3,Murray State
+400938628,2017,6,Middle Tennessee,Florida International,37,17,fbs,fbs,1259.0,1171.0,False,-20,Middle Tennessee
+400944849,2017,6,Texas State,Louisiana Monroe,27,45,fbs,fbs,940.0,1210.0,False,18,Louisiana Monroe
+400951083,2017,6,South Dakota,Youngstown State,31,28,fcs,fcs,,,False,-3,South Dakota
+400950875,2017,6,North Dakota,Northern Colorado,48,38,fcs,fcs,,,False,-10,North Dakota
+400934577,2017,6,North Carolina,Notre Dame,10,33,fbs,fbs,1583.0,1856.0,False,23,Notre Dame
+400933882,2017,6,Florida,LSU,16,17,fbs,fbs,1671.0,1739.0,False,1,LSU
+400981507,2017,6,Florida State,Miami,20,24,fbs,fbs,1706.0,1789.0,False,4,Miami
+400951342,2017,6,Lafayette,Fordham,14,10,fcs,fcs,,,False,-4,Lafayette
+400951236,2017,6,East Tennessee State,Robert Morris,16,3,fcs,fcs,,,False,-13,East Tennessee State
+400944850,2017,6,Appalachian State,New Mexico State,45,31,fbs,fbs,1518.0,1254.0,False,-14,Appalachian State
+400944993,2017,6,Buffalo,Western Michigan,68,71,fbs,fbs,1252.0,1773.0,False,3,Western Michigan
+400944992,2017,6,Northern Illinois,Kent State,24,3,fbs,fbs,1482.0,1095.0,False,-21,Northern Illinois
+400944988,2017,6,Akron,Ball State,31,3,fbs,fbs,1206.0,1262.0,False,-28,Akron
+400982707,2017,6,Indiana,Charleston Southern,27,0,fbs,fcs,,,False,-27,Indiana
+400935376,2017,6,Purdue,Minnesota,31,17,fbs,fbs,1466.0,1661.0,False,-14,Purdue
+400941815,2017,6,Navy,Air Force,48,45,fbs,fbs,1659.0,1508.0,False,-3,Navy
+400934522,2017,6,TCU,West Virginia,31,24,fbs,fbs,1754.0,1700.0,False,-7,TCU
+400935290,2017,6,USC,Oregon State,38,10,fbs,fbs,1858.0,1233.0,False,-28,USC
+400938630,2017,6,UAB,Louisiana Tech,23,22,fbs,fbs,1403.0,1527.0,False,-1,UAB
+400935375,2017,6,Ohio State,Maryland,62,14,fbs,fbs,2057.0,1391.0,False,-48,Ohio State
+400933883,2017,6,South Carolina,Arkansas,48,22,fbs,fbs,1496.0,1547.0,False,-26,South Carolina
+400951376,2017,6,Chattanooga,Furman,17,41,fcs,fcs,,,False,24,Furman
+400950831,2017,6,Idaho State,Montana,31,39,fcs,fcs,,,False,8,Montana
+400945268,2017,6,Utah State,Colorado State,14,27,fbs,fbs,1410.0,1618.0,False,13,Colorado State
+400944848,2017,6,Idaho,Louisiana,16,21,fbs,fbs,1324.0,1287.0,False,5,Louisiana
+400954008,2017,6,Prairie View,Grambling,21,34,fcs,fcs,,,False,13,Grambling
+400951257,2017,6,Austin Peay,Jacksonville State,14,34,fcs,fcs,,,False,20,Jacksonville State
+400951077,2017,6,Northern Iowa,Western Illinois,29,38,fcs,fcs,,,False,9,Western Illinois
+400950953,2017,6,Stony Brook,Delaware,20,24,fcs,fcs,,,False,4,Delaware
+400951308,2017,6,Eastern Kentucky,Tennessee State,21,45,fcs,fcs,,,False,24,Tennessee State
+400938629,2017,6,Old Dominion,Florida Atlantic,28,58,fbs,fbs,1328.0,1267.0,False,30,Florida Atlantic
+400938627,2017,6,Charlotte,Marshall,3,14,fbs,fbs,1030.0,1380.0,False,11,Marshall
+400944847,2017,6,Coastal Carolina,Georgia State,21,27,fbs,fbs,1412.0,1257.0,False,6,Georgia State
+400934564,2017,6,Rice,Army,12,49,fbs,fbs,1085.0,1369.0,False,37,Army
+400934524,2017,6,Texas,Kansas State,40,34,fbs,fbs,1658.0,1733.0,False,-6,Texas
+400941818,2017,6,Houston,SMU,35,22,fbs,fbs,1669.0,1473.0,False,-13,Houston
+400938676,2017,6,UT San Antonio,Southern Mississippi,29,31,fbs,fbs,1477.0,1368.0,False,2,Southern Mississippi
+400951089,2017,6,South Dakota State,Southern Illinois,49,14,fcs,fcs,,,False,-35,South Dakota State
+400953999,2017,6,Arkansas-Pine Bluff,Mississippi Valley State,31,38,fcs,fcs,,,False,7,Mississippi Valley State
+400952318,2017,6,Houston Christian,Central Arkansas,7,27,fcs,fcs,,,False,20,Central Arkansas
+400951141,2017,6,Eastern Illinois,Tennessee Tech,24,23,fcs,fcs,,,False,-1,Eastern Illinois
+400950926,2017,6,Kennesaw State,Texas Southern,48,3,fcs,fcs,,,False,-45,Kennesaw State
+400950881,2017,6,Northern Arizona,Illinois State,37,16,fcs,fcs,,,False,-21,Northern Arizona
+400933884,2017,6,Texas A&M,Alabama,19,27,fbs,fbs,1672.0,2284.0,False,8,Alabama
+400937488,2017,6,Boston College,Virginia Tech,10,23,fbs,fbs,1373.0,1865.0,False,13,Virginia Tech
+400945269,2017,6,San José State,Fresno State,10,27,fbs,fbs,904.0,1256.0,False,17,Fresno State
+400935372,2017,6,Michigan,Michigan State,10,14,fbs,fbs,1930.0,1621.0,False,4,Michigan State
+400933881,2017,6,Kentucky,Missouri,40,34,fbs,fbs,1524.0,1259.0,False,-6,Kentucky
+400935373,2017,6,Nebraska,Wisconsin,17,38,fbs,fbs,1545.0,1912.0,False,21,Wisconsin
+400935292,2017,6,Oregon,Washington State,10,33,fbs,fbs,1637.0,1802.0,False,23,Washington State
+400935289,2017,6,Colorado,Arizona,42,45,fbs,fbs,1610.0,1462.0,False,3,Arizona
+400938631,2017,6,UTEP,Western Kentucky,14,15,fbs,fbs,967.0,1726.0,False,1,Western Kentucky
+400941816,2017,6,Cincinnati,UCF,23,51,fbs,fbs,1335.0,1682.0,False,28,UCF
+400950570,2017,6,Southern Utah,Cal Poly,20,14,fcs,fcs,,,False,-6,Southern Utah
+400952311,2017,6,Abilene Christian,McNeese,7,13,fcs,fcs,,,False,6,McNeese
+400950580,2017,6,UC Davis,Eastern Washington,38,41,fcs,fcs,,,False,3,Eastern Washington
+400935291,2017,6,Utah,Stanford,20,23,fbs,fbs,1681.0,1769.0,False,3,Stanford
+400945270,2017,6,Nevada,Hawai'i,35,21,fbs,fbs,1264.0,1172.0,False,-14,Nevada
+400945271,2017,6,UNLV,San Diego State,10,41,fbs,fbs,1356.0,1669.0,False,31,San Diego State
+400935293,2017,6,Washington,California,38,7,fbs,fbs,1960.0,1520.0,False,-31,Washington
+400944851,2017,7,Troy,South Alabama,8,19,fbs,fbs,1473.0,1240.0,False,11,South Alabama
+400944852,2017,7,Louisiana,Texas State,24,7,fbs,fbs,1298.0,923.0,False,-17,Louisiana
+400937493,2017,7,Syracuse,Clemson,27,24,fbs,fbs,1410.0,2075.0,False,-3,Syracuse
+400935294,2017,7,California,Washington State,37,3,fbs,fbs,1487.0,1843.0,False,-34,California
+400935378,2017,7,Illinois,Rutgers,24,35,fbs,fbs,1278.0,1137.0,False,11,Rutgers
+400934527,2017,7,Iowa State,Kansas,45,0,fbs,fbs,1604.0,1061.0,False,-45,Iowa State
+400934567,2017,7,Army,Eastern Michigan,28,27,fbs,fbs,1440.0,1328.0,False,-1,Army
+400941821,2017,7,Temple,Connecticut,24,28,fbs,fbs,1502.0,1106.0,False,4,Connecticut
+400933892,2017,7,Tennessee,South Carolina,9,15,fbs,fbs,1529.0,1569.0,False,6,South Carolina
+400937497,2017,7,Pittsburgh,NC State,17,35,fbs,fbs,1528.0,1638.0,False,18,NC State
+400937495,2017,7,Duke,Florida State,10,17,fbs,fbs,1509.0,1705.0,False,7,Florida State
+400933891,2017,7,Mississippi State,BYU,35,10,fbs,fbs,1631.0,1441.0,False,-25,Mississippi State
+400934529,2017,7,West Virginia,Texas Tech,46,35,fbs,fbs,1693.0,1582.0,False,-11,West Virginia
+400952258,2017,7,Butler,Jacksonville,37,22,fcs,fcs,,,False,-15,Butler
+400951032,2017,7,Harvard,Lafayette,38,10,fcs,fcs,,,False,-28,Harvard
+400950907,2017,7,Presbyterian College,Charleston Southern,0,7,fcs,fcs,,,False,7,Charleston Southern
+400951338,2017,7,Colgate,Fordham,38,12,fcs,fcs,,,False,-26,Colgate
+400935379,2017,7,Indiana,Michigan,20,27,fbs,fbs,1557.0,1901.0,False,7,Michigan
+400937494,2017,7,Louisville,Boston College,42,45,fbs,fbs,1710.0,1386.0,False,3,Boston College
+400953827,2017,7,Brown,Princeton,0,53,fcs,fcs,,,False,53,Princeton
+400951349,2017,7,Lehigh,Georgetown,54,35,fcs,fcs,,,False,-19,Lehigh
+400952267,2017,7,Dayton,Campbell,7,17,fcs,fcs,,,False,10,Campbell
+400952275,2017,7,Stetson,Davidson,28,17,fcs,fcs,,,False,-11,Stetson
+400952233,2017,7,Morgan State,Savannah State,48,28,fcs,fcs,,,False,-20,Morgan State
+400951377,2017,7,Furman,VMI,42,10,fcs,fcs,,,False,-32,Furman
+400951243,2017,7,Sacred Heart,Dartmouth,26,29,fcs,fcs,,,False,3,Dartmouth
+400951214,2017,7,Bryant,St Francis (PA),14,30,fcs,fcs,,,False,16,St Francis (PA)
+400951041,2017,7,Yale,Holy Cross,32,0,fcs,fcs,,,False,-32,Yale
+400951023,2017,7,Columbia,Pennsylvania,34,31,fcs,fcs,,,False,-3,Columbia
+400951329,2017,7,Cornell,Bucknell,18,26,fcs,fcs,,,False,8,Bucknell
+400951540,2017,7,Delaware State,Howard,23,52,fcs,fcs,,,False,29,Howard
+400950917,2017,7,North Carolina Central,Gardner-Webb,24,17,fcs,fcs,,,False,-7,North Carolina Central
+400951313,2017,7,Southeast Missouri State,Tennessee Tech,31,3,fcs,fcs,,,False,-28,Southeast Missouri State
+400951547,2017,7,Norfolk State,Hampton,14,16,fcs,fcs,,,False,2,Hampton
+400952292,2017,7,Valparaiso,Marist,49,15,fcs,fcs,,,False,-34,Valparaiso
+400945272,2017,7,Air Force,UNLV,34,30,fbs,fbs,1509.0,1307.0,False,-4,Air Force
+400938634,2017,7,Marshall,Old Dominion,35,3,fbs,fbs,1374.0,1235.0,False,-32,Marshall
+400950840,2017,7,Montana,North Dakota,41,17,fcs,fcs,,,False,-24,Montana
+400951049,2017,7,Southern Illinois,Illinois State,42,7,fcs,fcs,,,False,-35,Southern Illinois
+400953986,2017,7,Alabama A&M,Mississippi Valley State,49,14,fcs,fcs,,,False,-35,Alabama A&M
+400953992,2017,7,Texas Southern,Alabama State,16,23,fcs,fcs,,,False,7,Alabama State
+400952243,2017,7,Florida A&M,North Carolina A&T,20,31,fcs,fcs,,,False,11,North Carolina A&T
+400934530,2017,7,Kansas State,TCU,6,26,fbs,fbs,1722.0,1761.0,False,20,TCU
+400951056,2017,7,South Dakota,Indiana State,56,6,fcs,fcs,,,False,-50,South Dakota
+400951078,2017,7,South Dakota State,Northern Iowa,18,38,fcs,fcs,,,False,20,Northern Iowa
+400951405,2017,7,Alcorn State,Prairie View,34,21,fcs,fcs,,,False,-13,Alcorn State
+400935382,2017,7,Wisconsin,Purdue,17,9,fbs,fbs,1927.0,1512.0,False,-8,Wisconsin
+400934526,2017,7,Oklahoma State,Baylor,59,16,fbs,fbs,1867.0,1513.0,False,-43,Oklahoma State
+400934528,2017,7,Texas,Oklahoma,24,29,fbs,fbs,1669.0,1937.0,True,5,Oklahoma
+400944995,2017,7,Kent State,Miami (OH),17,14,fbs,fbs,1083.0,1317.0,False,-3,Kent State
+400944996,2017,7,Buffalo,Northern Illinois,13,14,fbs,fbs,1276.0,1494.0,False,1,Northern Illinois
+400944997,2017,7,Bowling Green,Ohio,30,48,fbs,fbs,1205.0,1377.0,False,18,Ohio
+400944998,2017,7,Central Michigan,Toledo,10,30,fbs,fbs,1233.0,1568.0,False,20,Toledo
+400933889,2017,7,LSU,Auburn,27,23,fbs,fbs,1737.0,1961.0,False,-4,LSU
+400937496,2017,7,North Carolina,Virginia,14,20,fbs,fbs,1553.0,1488.0,False,6,Virginia
+400935377,2017,7,Maryland,Northwestern,21,37,fbs,fbs,1335.0,1586.0,False,16,Northwestern
+400981508,2017,7,Miami,Georgia Tech,25,24,fbs,fbs,1790.0,1694.0,False,-1,Miami
+400950954,2017,7,Delaware,William & Mary,17,0,fcs,fcs,,,False,-17,Delaware
+400950972,2017,7,James Madison,Villanova,30,8,fcs,fcs,,,False,-22,James Madison
+400950980,2017,7,Maine,Rhode Island,51,27,fcs,fcs,,,False,-24,Maine
+400951362,2017,7,Western Carolina,East Tennessee State,49,10,fcs,fcs,,,False,-39,Western Carolina
+400951384,2017,7,Mercer,Chattanooga,30,10,fcs,fcs,,,False,-20,Mercer
+400954000,2017,7,Arkansas-Pine Bluff,Central State,35,40,fcs,ii,,,False,5,Central State
+400933890,2017,7,Ole Miss,Vanderbilt,57,35,fbs,fbs,1453.0,1405.0,False,-22,Ole Miss
+400941823,2017,7,Memphis,Navy,30,27,fbs,fbs,1616.0,1658.0,False,-3,Memphis
+400941822,2017,7,Tulsa,Houston,45,17,fbs,fbs,1441.0,1679.0,False,-28,Tulsa
+400951064,2017,7,Western Illinois,Missouri State,49,30,fcs,fcs,,,False,-19,Western Illinois
+400952312,2017,7,Nicholls,Abilene Christian,29,20,fcs,fcs,,,False,-9,Nicholls
+400951531,2017,7,Bethune-Cookman,South Carolina State,12,9,fcs,fcs,,,False,-3,Bethune-Cookman
+400951309,2017,7,Jacksonville State,Eastern Kentucky,41,25,fcs,fcs,,,False,-16,Jacksonville State
+400951142,2017,7,Murray State,Eastern Illinois,24,27,fcs,fcs,,,False,3,Eastern Illinois
+400935298,2017,7,Oregon State,Colorado,33,36,fbs,fbs,1226.0,1596.0,False,3,Colorado
+400951001,2017,7,Towson,Richmond,3,23,fcs,fcs,,,False,20,Richmond
+400950581,2017,7,Eastern Washington,Montana State,31,19,fcs,fcs,,,False,-12,Eastern Washington
+400945276,2017,7,Utah State,Wyoming,23,28,fbs,fbs,1400.0,1370.0,False,5,Wyoming
+400938632,2017,7,Western Kentucky,Charlotte,45,14,fbs,fbs,1696.0,1036.0,False,-31,Western Kentucky
+400951514,2017,7,Sam Houston State,Northwestern State,40,36,fcs,fcs,,,False,-4,Sam Houston State
+400950882,2017,7,Portland State,Northern Arizona,20,42,fcs,fcs,,,False,22,Northern Arizona
+400952296,2017,7,San Diego,Morehead State,56,27,fcs,fcs,,,False,-29,San Diego
+400944856,2017,7,Louisiana Monroe,Georgia State,37,47,fbs,fbs,1227.0,1280.0,False,10,Georgia State
+400944853,2017,7,Idaho,Appalachian State,20,23,fbs,fbs,1313.0,1525.0,False,3,Appalachian State
+400951223,2017,7,Wagner,Central Connecticut,45,51,fcs,fcs,,,False,6,Central Connecticut
+400950927,2017,7,Liberty,Kennesaw State,28,42,fcs,fcs,,,False,14,Kennesaw State
+400951231,2017,7,Robert Morris,Duquesne,14,51,fcs,fcs,,,False,37,Duquesne
+400950987,2017,7,Stony Brook,New Hampshire,38,24,fcs,fcs,,,False,-14,Stony Brook
+400944855,2017,7,Georgia Southern,New Mexico State,27,35,fbs,fbs,1276.0,1247.0,False,8,New Mexico State
+400951370,2017,7,The Citadel,Wofford,16,20,fcs,fcs,,,False,4,Wofford
+400938635,2017,7,UAB,Middle Tennessee,25,23,fbs,fbs,1407.0,1297.0,False,-2,UAB
+400951523,2017,7,Central Arkansas,Stephen F. Austin,24,20,fcs,fcs,,,False,-4,Central Arkansas
+400933887,2017,7,Florida,Texas A&M,17,19,fbs,fbs,1673.0,1700.0,False,2,Texas A&M
+400952325,2017,7,Houston Christian,Southeastern Louisiana,10,56,fcs,fcs,,,False,46,Southeastern Louisiana
+400938637,2017,7,Southern Mississippi,UTEP,24,0,fbs,fbs,1377.0,997.0,False,-24,Southern Mississippi
+400952330,2017,7,Incarnate Word,Lamar,33,24,fcs,fcs,,,False,-9,Incarnate Word
+400938633,2017,7,Florida International,Tulane,23,10,fbs,fbs,1133.0,1422.0,False,-13,Florida International
+400938636,2017,7,North Texas,UT San Antonio,29,26,fbs,fbs,1270.0,1468.0,False,-3,North Texas
+400941820,2017,7,UCF,East Carolina,63,21,fbs,fbs,1718.0,1129.0,False,-42,UCF
+400944854,2017,7,Arkansas State,Coastal Carolina,51,17,fbs,fbs,1487.0,1389.0,False,-34,Arkansas State
+400951071,2017,7,Youngstown State,North Dakota State,24,27,fcs,fcs,,,False,3,North Dakota State
+400951258,2017,7,Tennessee State,Austin Peay,17,21,fcs,fcs,,,False,4,Austin Peay
+400953942,2017,7,Jackson State,Tuskegee,7,33,fcs,ii,,,False,26,Tuskegee
+400933886,2017,7,Alabama,Arkansas,41,9,fbs,fbs,2256.0,1474.0,False,-32,Alabama
+400933888,2017,7,Georgia,Missouri,53,28,fbs,fbs,1897.0,1264.0,False,-25,Georgia
+400941832,2017,7,South Florida,Cincinnati,33,3,fbs,fbs,1776.0,1299.0,False,-30,South Florida
+400935381,2017,7,Nebraska,Ohio State,14,56,fbs,fbs,1530.0,2113.0,False,42,Ohio State
+400935297,2017,7,USC,Utah,28,27,fbs,fbs,1865.0,1682.0,False,-1,USC
+400950898,2017,7,Weber State,Southern Utah,16,32,fcs,fcs,,,False,16,Southern Utah
+400935380,2017,7,Minnesota,Michigan State,27,30,fbs,fbs,1615.0,1650.0,False,3,Michigan State
+400950832,2017,7,Sacramento State,Idaho State,41,21,fcs,fcs,,,False,-20,Sacramento State
+400935295,2017,7,Arizona,UCLA,47,30,fbs,fbs,1476.0,1547.0,False,-17,Arizona
+400945275,2017,7,Fresno State,New Mexico,38,0,fbs,fbs,1262.0,1498.0,False,-38,Fresno State
+400945274,2017,7,Colorado State,Nevada,44,42,fbs,fbs,1628.0,1284.0,False,-2,Colorado State
+400945273,2017,7,San Diego State,Boise State,14,31,fbs,fbs,1718.0,1590.0,False,17,Boise State
+400935296,2017,7,Arizona State,Washington,13,7,fbs,fbs,1412.0,1993.0,False,-6,Arizona State
+400935299,2017,7,Stanford,Oregon,49,7,fbs,fbs,1768.0,1596.0,False,-42,Stanford
+400945277,2017,7,Hawai'i,San José State,37,26,fbs,fbs,1152.0,898.0,False,-11,Hawai'i
+400944994,2017,7,Western Michigan,Akron,13,14,fbs,fbs,1749.0,1286.0,False,1,Akron
+400944857,2017,8,Arkansas State,Louisiana,47,3,fbs,fbs,1569.0,1302.0,False,-44,Arkansas State
+400941824,2017,8,Houston,Memphis,38,42,fbs,fbs,1574.0,1618.0,False,4,Memphis
+400938641,2017,8,Old Dominion,Western Kentucky,31,35,fbs,fbs,1165.0,1707.0,False,4,Western Kentucky
+400938674,2017,8,Middle Tennessee,Marshall,10,38,fbs,fbs,1298.0,1444.0,False,28,Marshall
+400951033,2017,8,Harvard,Princeton,17,52,fcs,fcs,,,False,35,Princeton
+400945278,2017,8,Nevada,Air Force,42,45,fbs,fbs,1288.0,1506.0,False,3,Air Force
+400945280,2017,8,New Mexico,Colorado State,24,27,fbs,fbs,1353.0,1624.0,False,3,Colorado State
+400951232,2017,8,Duquesne,St Francis (PA),24,7,fcs,fcs,,,False,-17,Duquesne
+400951215,2017,8,Central Connecticut,Bryant,31,14,fcs,fcs,,,False,-17,Central Connecticut
+400950964,2017,8,Rhode Island,Elon,34,35,fcs,fcs,,,False,1,Elon
+400937500,2017,8,Florida State,Louisville,28,31,fbs,fbs,1703.0,1684.0,False,3,Louisville
+400941827,2017,8,Connecticut,Tulsa,20,14,fbs,fbs,1141.0,1546.0,False,-6,Connecticut
+400934568,2017,8,Army,Temple,31,28,fbs,fbs,1437.0,1467.0,False,-3,Army
+400951237,2017,8,Robert Morris,Sacred Heart,14,21,fcs,fcs,,,False,7,Sacred Heart
+400944999,2017,8,Toledo,Akron,48,21,fbs,fbs,1583.0,1313.0,False,-27,Toledo
+400933897,2017,8,Missouri,Idaho,68,21,fbs,fbs,1265.0,1321.0,False,-47,Missouri
+400934535,2017,8,Texas,Oklahoma State,10,13,fbs,fbs,1680.0,1946.0,False,3,Oklahoma State
+400935387,2017,8,Rutgers,Purdue,14,12,fbs,fbs,1174.0,1524.0,False,-2,Rutgers
+400952301,2017,8,Jacksonville,San Diego,10,63,fcs,fcs,,,False,53,San Diego
+400935388,2017,8,Wisconsin,Maryland,38,13,fbs,fbs,1915.0,1322.0,False,-25,Wisconsin
+400934531,2017,8,Texas Tech,Iowa State,13,31,fbs,fbs,1571.0,1666.0,False,18,Iowa State
+400935385,2017,8,Northwestern,Iowa,17,10,fbs,fbs,1599.0,1679.0,False,-7,Northwestern
+400951339,2017,8,Holy Cross,Colgate,7,45,fcs,fcs,,,False,38,Colgate
+400937499,2017,8,Duke,Pittsburgh,17,24,fbs,fbs,1511.0,1496.0,False,7,Pittsburgh
+400937498,2017,8,Virginia,Boston College,10,41,fbs,fbs,1504.0,1412.0,False,31,Boston College
+400951024,2017,8,Dartmouth,Columbia,17,22,fcs,fcs,,,False,5,Columbia
+400951532,2017,8,North Carolina A&T,Bethune-Cookman,24,20,fcs,fcs,,,False,-4,North Carolina A&T
+400952226,2017,8,Howard,Morgan State,39,14,fcs,fcs,,,False,-25,Howard
+400952276,2017,8,Davidson,Dayton,22,48,fcs,fcs,,,False,26,Dayton
+400951042,2017,8,Pennsylvania,Yale,19,24,fcs,fcs,,,False,5,Yale
+400952287,2017,8,Marist,Drake,14,19,fcs,fcs,,,False,5,Drake
+400952297,2017,8,Morehead State,Stetson,29,26,fcs,fcs,,,False,-3,Morehead State
+400952259,2017,8,Butler,Campbell,37,23,fcs,fcs,,,False,-14,Butler
+400950934,2017,8,Monmouth,Liberty,56,39,fcs,fcs,,,False,-17,Monmouth
+400951390,2017,8,Wofford,Samford,21,24,fcs,fcs,,,False,3,Samford
+400950876,2017,8,North Dakota,Sacramento State,27,34,fcs,fcs,,,False,7,Sacramento State
+400951394,2017,8,VMI,Western Carolina,7,26,fcs,fcs,,,False,19,Western Carolina
+400951378,2017,8,Furman,Mercer,28,21,fcs,fcs,,,False,-7,Furman
+400944860,2017,8,Georgia State,Troy,10,34,fbs,fbs,1296.0,1427.0,False,24,Troy
+400951371,2017,8,Chattanooga,The Citadel,14,20,fcs,fcs,,,False,6,The Citadel
+400950988,2017,8,New Hampshire,Towson,40,17,fcs,fcs,,,False,-23,New Hampshire
+400951541,2017,8,Delaware State,South Carolina State,17,14,fcs,fcs,,,False,-3,Delaware State
+400951343,2017,8,Georgetown,Fordham,9,17,fcs,fcs,,,False,8,Fordham
+400951079,2017,8,Northern Iowa,Youngstown State,19,14,fcs,fcs,,,False,-5,Northern Iowa
+400951548,2017,8,Hampton,Florida A&M,31,27,fcs,fcs,,,False,-4,Hampton
+400945002,2017,8,Ohio,Kent State,48,3,fbs,fbs,1403.0,1087.0,False,-45,Ohio
+400945004,2017,8,Eastern Michigan,Western Michigan,17,20,fbs,fbs,1331.0,1722.0,False,3,Western Michigan
+400952238,2017,8,North Carolina Central,Norfolk State,21,28,fcs,fcs,,,False,7,Norfolk State
+400945003,2017,8,Bowling Green,Northern Illinois,17,48,fbs,fbs,1179.0,1485.0,False,31,Northern Illinois
+400950869,2017,8,Northern Colorado,Montana State,24,27,fcs,fcs,,,False,3,Montana State
+400945000,2017,8,Miami (OH),Buffalo,24,14,fbs,fbs,1313.0,1285.0,False,-10,Miami (OH)
+400951310,2017,8,Eastern Kentucky,UT Martin,31,21,fcs,fcs,,,False,-10,Eastern Kentucky
+400951057,2017,8,Indiana State,Southern Illinois,24,45,fcs,fcs,,,False,21,Southern Illinois
+400951065,2017,8,Missouri State,South Dakota State,30,62,fcs,fcs,,,False,32,South Dakota State
+400945001,2017,8,Ball State,Central Michigan,9,56,fbs,fbs,1182.0,1218.0,False,47,Central Michigan
+400951143,2017,8,Eastern Illinois,Jacksonville State,14,30,fcs,fcs,,,False,16,Jacksonville State
+400951050,2017,8,Illinois State,South Dakota,37,21,fcs,fcs,,,False,-16,Illinois State
+400951406,2017,8,Grambling,Alcorn State,41,14,fcs,fcs,,,False,-27,Grambling
+400953945,2017,8,Mississippi Valley State,Virginia Lynchburg,53,5,fcs,,,,False,-48,Mississippi Valley State
+400953828,2017,8,Cornell,Brown,34,7,fcs,fcs,,,False,-27,Cornell
+400935384,2017,8,Minnesota,Illinois,24,17,fbs,fbs,1613.0,1241.0,False,-7,Minnesota
+400950955,2017,8,Delaware,Richmond,42,35,fcs,fcs,,,False,-7,Delaware
+400950973,2017,8,William & Mary,James Madison,14,46,fcs,fcs,,,False,32,James Madison
+400950981,2017,8,Albany,Maine,10,12,fcs,fcs,,,False,2,Maine
+400951072,2017,8,North Dakota State,Western Illinois,24,12,fcs,fcs,,,False,-12,North Dakota State
+400951330,2017,8,Lafayette,Bucknell,7,13,fcs,fcs,,,False,6,Bucknell
+400952313,2017,8,Abilene Christian,Southeastern Louisiana,21,56,fcs,fcs,,,False,35,Southeastern Louisiana
+400941825,2017,8,Navy,UCF,21,31,fbs,fbs,1656.0,1766.0,False,10,UCF
+400935383,2017,8,Michigan State,Indiana,17,9,fbs,fbs,1652.0,1569.0,False,-8,Michigan State
+400944858,2017,8,Appalachian State,Coastal Carolina,37,29,fbs,fbs,1517.0,1307.0,False,-8,Appalachian State
+400937503,2017,8,Virginia Tech,North Carolina,59,7,fbs,fbs,1852.0,1537.0,False,-52,Virginia Tech
+400937502,2017,8,Miami,Syracuse,27,19,fbs,fbs,1788.0,1422.0,False,-8,Miami
+400935301,2017,8,Utah,Arizona State,10,30,fbs,fbs,1687.0,1453.0,False,20,Arizona State
+400933893,2017,8,Alabama,Tennessee,45,7,fbs,fbs,2258.0,1521.0,False,-38,Alabama
+400938892,2017,8,UMass,Georgia Southern,55,20,fbs,fbs,1235.0,1258.0,False,-35,UMass
+400941826,2017,8,Cincinnati,SMU,28,31,fbs,fbs,1273.0,1463.0,False,3,SMU
+400935302,2017,8,UCLA,Oregon,31,14,fbs,fbs,1503.0,1496.0,False,-17,UCLA
+400933896,2017,8,Mississippi State,Kentucky,45,7,fbs,fbs,1673.0,1519.0,False,-38,Mississippi State
+400951515,2017,8,Sam Houston State,Lamar,63,27,fcs,fcs,,,False,-36,Sam Houston State
+400951524,2017,8,Stephen F. Austin,Houston Christian,27,10,fcs,fcs,,,False,-17,Stephen F. Austin
+400950833,2017,8,Idaho State,Portland State,59,30,fcs,fcs,,,False,-29,Idaho State
+400934534,2017,8,Kansas State,Oklahoma,35,42,fbs,fbs,1676.0,1926.0,False,7,Oklahoma
+400938639,2017,8,Florida Atlantic,North Texas,69,31,fbs,fbs,1360.0,1274.0,False,-38,Florida Atlantic
+400944859,2017,8,South Alabama,Louisiana Monroe,33,23,fbs,fbs,1286.0,1211.0,False,-10,South Alabama
+400951259,2017,8,Austin Peay,Southeast Missouri State,38,31,fcs,fcs,,,False,-7,Austin Peay
+400950908,2017,8,Charleston Southern,Savannah State,52,27,fcs,fcs,,,False,-25,Charleston Southern
+400945281,2017,8,UNLV,Utah State,28,52,fbs,fbs,1310.0,1389.0,False,24,Utah State
+400938638,2017,8,Charlotte,UAB,25,24,fbs,fbs,1025.0,1406.0,False,-1,Charlotte
+400952319,2017,8,Northwestern State,Central Arkansas,17,45,fcs,fcs,,,False,28,Central Arkansas
+400950918,2017,8,Kennesaw State,Gardner-Webb,17,3,fcs,fcs,,,False,-14,Kennesaw State
+400950883,2017,8,Northern Arizona,UC Davis,45,31,fcs,fcs,,,False,-14,Northern Arizona
+400953943,2017,8,Jackson State,Southern,17,35,fcs,fcs,,,False,18,Southern
+400952331,2017,8,McNeese,Incarnate Word,55,7,fcs,fcs,,,False,-48,McNeese
+400938640,2017,8,Louisiana Tech,Southern Mississippi,27,34,fbs,fbs,1523.0,1397.0,False,7,Southern Mississippi
+400941829,2017,8,Tulane,South Florida,28,34,fbs,fbs,1370.0,1802.0,False,6,South Florida
+400941828,2017,8,East Carolina,BYU,33,17,fbs,fbs,1081.0,1399.0,False,-16,East Carolina
+400938642,2017,8,UT San Antonio,Rice,20,7,fbs,fbs,1464.0,1014.0,False,-13,UT San Antonio
+400950582,2017,8,Southern Utah,Eastern Washington,46,28,fcs,fcs,,,False,-18,Southern Utah
+400933895,2017,8,Ole Miss,LSU,24,40,fbs,fbs,1501.0,1747.0,False,16,LSU
+400935386,2017,8,Penn State,Michigan,42,13,fbs,fbs,2007.0,1889.0,False,-29,Penn State
+400933894,2017,8,Arkansas,Auburn,20,52,fbs,fbs,1472.0,1951.0,False,32,Auburn
+400934578,2017,8,Notre Dame,USC,49,14,fbs,fbs,1886.0,1860.0,False,-35,Notre Dame
+400937501,2017,8,Georgia Tech,Wake Forest,38,24,fbs,fbs,1696.0,1604.0,False,-14,Georgia Tech
+400935300,2017,8,California,Arizona,44,45,fbs,fbs,1634.0,1520.0,False,1,Arizona
+400934532,2017,8,TCU,Kansas,43,0,fbs,fbs,1807.0,999.0,False,-43,TCU
+400934533,2017,8,Baylor,West Virginia,36,38,fbs,fbs,1434.0,1704.0,False,2,West Virginia
+400950571,2017,8,Cal Poly,Weber State,3,17,fcs,fcs,,,False,14,Weber State
+400945279,2017,8,Boise State,Wyoming,24,14,fbs,fbs,1645.0,1381.0,False,-10,Boise State
+400945282,2017,8,San Diego State,Fresno State,3,27,fbs,fbs,1663.0,1407.0,False,24,Fresno State
+400935303,2017,8,Washington State,Colorado,28,0,fbs,fbs,1696.0,1580.0,False,-28,Washington State
+400945006,2017,9,Ball State,Toledo,17,58,fbs,fbs,1040.0,1622.0,False,41,Toledo
+400945005,2017,9,Northern Illinois,Eastern Michigan,30,27,fbs,fbs,1534.0,1348.0,False,-3,Northern Illinois
+400944861,2017,9,Georgia State,South Alabama,21,13,fbs,fbs,1248.0,1298.0,False,-8,Georgia State
+400935304,2017,9,Oregon State,Stanford,14,15,fbs,fbs,1242.0,1868.0,False,1,Stanford
+400937504,2017,9,Boston College,Florida State,35,3,fbs,fbs,1513.0,1697.0,False,-32,Boston College
+400941830,2017,9,Memphis,Tulane,56,26,fbs,fbs,1622.0,1388.0,False,-30,Memphis
+400941831,2017,9,SMU,Tulsa,38,34,fbs,fbs,1456.0,1516.0,False,-4,SMU
+400945007,2017,9,Akron,Buffalo,21,20,fbs,fbs,1274.0,1270.0,False,-1,Akron
+400935393,2017,9,Michigan,Rutgers,35,14,fbs,fbs,1826.0,1179.0,False,-21,Michigan
+400934538,2017,9,Baylor,Texas,7,38,fbs,fbs,1445.0,1691.0,False,31,Texas
+400951034,2017,9,Harvard,Dartmouth,25,22,fcs,fcs,,,False,-3,Harvard
+400951233,2017,9,Sacred Heart,Duquesne,21,37,fcs,fcs,,,False,16,Duquesne
+400951238,2017,9,St Francis (PA),Robert Morris,36,7,fcs,fcs,,,False,-29,St Francis (PA)
+400935390,2017,9,Illinois,Wisconsin,10,24,fbs,fbs,1251.0,1918.0,False,14,Wisconsin
+400950982,2017,9,Maine,William & Mary,23,6,fcs,fcs,,,False,-17,Maine
+400951216,2017,9,Wagner,Bryant,16,31,fcs,fcs,,,False,15,Bryant
+400950919,2017,9,Gardner-Webb,Liberty,17,33,fcs,fcs,,,False,16,Liberty
+400934537,2017,9,West Virginia,Oklahoma State,39,50,fbs,fbs,1693.0,1935.0,False,11,Oklahoma State
+400937508,2017,9,North Carolina,Miami,19,24,fbs,fbs,1422.0,1779.0,False,5,Miami
+400933900,2017,9,Ole Miss,Arkansas,37,38,fbs,fbs,1487.0,1439.0,False,1,Arkansas
+400937507,2017,9,Wake Forest,Louisville,42,32,fbs,fbs,1584.0,1690.0,False,-10,Wake Forest
+400937509,2017,9,Pittsburgh,Virginia,31,14,fbs,fbs,1510.0,1403.0,False,-17,Pittsburgh
+400953829,2017,9,Brown,Pennsylvania,7,17,fcs,fcs,,,False,10,Pennsylvania
+400952260,2017,9,Dayton,Butler,27,22,fcs,fcs,,,False,-5,Dayton
+400952302,2017,9,Stetson,San Diego,7,48,fcs,fcs,,,False,41,San Diego
+400952234,2017,9,Morgan State,Florida A&M,31,34,fcs,fcs,,,False,3,Florida A&M
+400951363,2017,9,East Tennessee State,Wofford,24,31,fcs,fcs,,,False,7,Wofford
+400951344,2017,9,Fordham,Lehigh,45,35,fcs,fcs,,,False,-10,Fordham
+400951331,2017,9,Colgate,Bucknell,40,3,fcs,fcs,,,False,-37,Colgate
+400951025,2017,9,Yale,Columbia,23,6,fcs,fcs,,,False,-17,Yale
+400950994,2017,9,Albany,Rhode Island,14,31,fcs,fcs,,,False,17,Rhode Island
+400951350,2017,9,Holy Cross,Georgetown,24,10,fcs,fcs,,,False,-14,Holy Cross
+400952227,2017,9,South Carolina State,Howard,20,28,fcs,fcs,,,False,8,Howard
+400952277,2017,9,Drake,Davidson,17,12,fcs,fcs,,,False,-5,Drake
+400952268,2017,9,Campbell,Jacksonville,48,54,fcs,fcs,,,False,6,Jacksonville
+400952239,2017,9,Norfolk State,Savannah State,9,27,fcs,fcs,,,False,18,Savannah State
+400951542,2017,9,North Carolina Central,Delaware State,42,14,fcs,fcs,,,False,-28,North Carolina Central
+400951051,2017,9,Youngstown State,Illinois State,0,35,fcs,fcs,,,False,35,Illinois State
+400952298,2017,9,Valparaiso,Morehead State,63,32,fcs,fcs,,,False,-31,Valparaiso
+400951372,2017,9,The Citadel,VMI,21,3,fcs,fcs,,,False,-18,The Citadel
+400951090,2017,9,Western Illinois,South Dakota State,24,52,fcs,fcs,,,False,28,South Dakota State
+400935308,2017,9,Colorado,California,44,28,fbs,fbs,1520.0,1627.0,False,-16,Colorado
+400950928,2017,9,Presbyterian College,Kennesaw State,0,28,fcs,fcs,,,False,28,Kennesaw State
+400951319,2017,9,Tennessee Tech,Tennessee State,30,26,fcs,fcs,,,False,-4,Tennessee Tech
+400950887,2017,9,Northern Colorado,Southern Utah,14,27,fcs,fcs,,,False,13,Southern Utah
+400938643,2017,9,Marshall,Florida International,30,41,fbs,fbs,1503.0,1185.0,False,11,Florida International
+400945283,2017,9,Colorado State,Air Force,28,45,fbs,fbs,1613.0,1498.0,False,17,Air Force
+400945288,2017,9,BYU,San José State,41,20,fbs,fbs,1332.0,897.0,False,-21,BYU
+400934536,2017,9,Kansas,Kansas State,20,30,fbs,fbs,973.0,1681.0,False,10,Kansas State
+400951144,2017,9,UT Martin,Eastern Illinois,27,10,fcs,fcs,,,False,-17,UT Martin
+400951391,2017,9,Samford,Chattanooga,21,23,fcs,fcs,,,False,2,Chattanooga
+400952332,2017,9,Incarnate Word,Nicholls,31,38,fcs,fcs,,,False,7,Nicholls
+400953944,2017,9,Mississippi Valley State,Jackson State,5,24,fcs,fcs,,,False,19,Jackson State
+400954009,2017,9,Grambling,Texas Southern,50,24,fcs,fcs,,,False,-26,Grambling
+400954028,2017,9,Prairie View,Bacone College,34,17,fcs,,,,False,-17,Prairie View
+400951002,2017,9,Richmond,Stony Brook,24,27,fcs,fcs,,,False,3,Stony Brook
+400951058,2017,9,Missouri State,Indiana State,59,20,fcs,fcs,,,False,-39,Missouri State
+400950974,2017,9,James Madison,New Hampshire,21,0,fcs,fcs,,,False,-21,James Madison
+400944864,2017,9,Troy,Georgia Southern,38,16,fbs,fbs,1475.0,1157.0,False,-22,Troy
+400950834,2017,9,Montana State,Idaho State,28,14,fcs,fcs,,,False,-14,Montana State
+400950965,2017,9,Villanova,Elon,14,19,fcs,fcs,,,False,5,Elon
+400951073,2017,9,North Dakota State,Northern Iowa,30,14,fcs,fcs,,,False,-16,North Dakota State
+400951379,2017,9,Western Carolina,Furman,6,28,fcs,fcs,,,False,22,Furman
+400953987,2017,9,Alabama State,Alabama A&M,21,16,fcs,fcs,,,False,-5,Alabama State
+400935394,2017,9,Ohio State,Penn State,39,38,fbs,fbs,2163.0,2070.0,False,-1,Ohio State
+400933898,2017,9,Florida,Georgia,7,42,fbs,fbs,1672.0,1896.0,True,35,Georgia
+400935392,2017,9,Maryland,Indiana,42,39,fbs,fbs,1319.0,1562.0,False,-3,Maryland
+400935307,2017,9,Washington,UCLA,44,23,fbs,fbs,1952.0,1540.0,False,-21,Washington
+400934540,2017,9,Iowa State,TCU,14,7,fbs,fbs,1700.0,1833.0,False,-7,Iowa State
+400934579,2017,9,Notre Dame,NC State,35,14,fbs,fbs,1981.0,1670.0,False,-21,Notre Dame
+400935389,2017,9,Northwestern,Michigan State,39,31,fbs,fbs,1613.0,1659.0,False,-8,Northwestern
+400938893,2017,9,UMass,Appalachian State,30,27,fbs,fbs,1336.0,1516.0,False,-3,UMass
+400938645,2017,9,Rice,Louisiana Tech,28,42,fbs,fbs,1023.0,1500.0,False,14,Louisiana Tech
+400941839,2017,9,South Florida,Houston,24,28,fbs,fbs,1784.0,1570.0,False,4,Houston
+400951314,2017,9,Jacksonville State,Southeast Missouri State,23,7,fcs,fcs,,,False,-16,Jacksonville State
+400951084,2017,9,South Dakota,Southern Illinois,42,0,fcs,fcs,,,False,-42,South Dakota
+400951311,2017,9,Murray State,Eastern Kentucky,13,26,fcs,fcs,,,False,13,Eastern Kentucky
+400950841,2017,9,Weber State,Montana,41,27,fcs,fcs,,,False,-14,Weber State
+400933902,2017,9,South Carolina,Vanderbilt,34,27,fbs,fbs,1577.0,1357.0,False,-7,South Carolina
+400951533,2017,9,Bethune-Cookman,Hampton,24,21,fcs,fcs,,,False,-3,Bethune-Cookman
+400950956,2017,9,Towson,Delaware,18,17,fcs,fcs,,,False,-1,Towson
+400938644,2017,9,Western Kentucky,Florida Atlantic,28,42,fbs,fbs,1682.0,1457.0,False,14,Florida Atlantic
+400986609,2017,9,UCF,Austin Peay,73,33,fbs,fcs,,,False,-40,UCF
+400944865,2017,9,Idaho,Louisiana Monroe,31,23,fbs,fbs,1168.0,1199.0,False,-8,Idaho
+400954001,2017,9,Arkansas-Pine Bluff,Southern,40,47,fcs,fcs,,,False,7,Southern
+400935309,2017,9,Oregon,Utah,41,20,fbs,fbs,1459.0,1608.0,False,-21,Oregon
+400950909,2017,9,Charleston Southern,Monmouth,20,23,fcs,fcs,,,False,3,Monmouth
+400944863,2017,9,Coastal Carolina,Texas State,7,27,fbs,fbs,1308.0,919.0,False,20,Texas State
+400933901,2017,9,Connecticut,Missouri,12,52,fbs,fbs,1171.0,1418.0,False,40,Missouri
+400938646,2017,9,North Texas,Old Dominion,45,38,fbs,fbs,1177.0,1190.0,False,-7,North Texas
+400935391,2017,9,Iowa,Minnesota,17,10,fbs,fbs,1665.0,1603.0,False,-7,Iowa
+400952326,2017,9,Houston Christian,Northwestern State,7,10,fcs,fcs,,,False,3,Northwestern State
+400951525,2017,9,Lamar,Stephen F. Austin,7,34,fcs,fcs,,,False,27,Stephen F. Austin
+400952320,2017,9,Central Arkansas,McNeese,47,17,fcs,fcs,,,False,-30,Central Arkansas
+400950877,2017,9,Portland State,North Dakota,21,48,fcs,fcs,,,False,27,North Dakota
+400953830,2017,9,Princeton,Cornell,28,29,fcs,fcs,,,False,1,Cornell
+400950884,2017,9,Northern Arizona,Sacramento State,37,17,fcs,fcs,,,False,-20,Northern Arizona
+400950572,2017,9,UC Davis,Cal Poly,31,28,fcs,fcs,,,False,-3,UC Davis
+400938647,2017,9,Southern Mississippi,UAB,12,30,fbs,fbs,1420.0,1395.0,False,18,UAB
+400933903,2017,9,Texas A&M,Mississippi State,14,35,fbs,fbs,1701.0,1761.0,False,21,Mississippi State
+400937506,2017,9,Virginia Tech,Duke,24,3,fbs,fbs,1967.0,1497.0,False,-21,Virginia Tech
+400935395,2017,9,Purdue,Nebraska,24,25,fbs,fbs,1519.0,1480.0,False,1,Nebraska
+400933899,2017,9,Kentucky,Tennessee,29,26,fbs,fbs,1431.0,1500.0,False,-3,Kentucky
+400945285,2017,9,Wyoming,New Mexico,42,3,fbs,fbs,1382.0,1364.0,False,-39,Wyoming
+400951516,2017,9,Southeastern Louisiana,Sam Houston State,23,33,fcs,fcs,,,False,10,Sam Houston State
+400934539,2017,9,Oklahoma,Texas Tech,49,27,fbs,fbs,1921.0,1537.0,False,-22,Oklahoma
+400944862,2017,9,New Mexico State,Arkansas State,21,37,fbs,fbs,1265.0,1663.0,False,16,Arkansas State
+400938648,2017,9,UTEP,UT San Antonio,14,31,fbs,fbs,977.0,1455.0,False,17,UT San Antonio
+400937505,2017,9,Clemson,Georgia Tech,24,10,fbs,fbs,2063.0,1716.0,False,-14,Clemson
+400935305,2017,9,Arizona,Washington State,58,37,fbs,fbs,1527.0,1756.0,False,-21,Arizona
+400945286,2017,9,Fresno State,UNLV,16,26,fbs,fbs,1504.0,1256.0,False,10,UNLV
+400945284,2017,9,Utah State,Boise State,14,41,fbs,fbs,1443.0,1644.0,False,27,Boise State
+400935306,2017,9,Arizona State,USC,17,48,fbs,fbs,1532.0,1765.0,False,31,USC
+400945287,2017,9,Hawai'i,San Diego State,7,28,fbs,fbs,1153.0,1566.0,False,21,San Diego State
+400945008,2017,10,Kent State,Bowling Green,16,44,fbs,fbs,996.0,1130.0,False,28,Bowling Green
+400945009,2017,10,Ohio,Miami (OH),45,28,fbs,fbs,1494.0,1328.0,False,-17,Ohio
+400945010,2017,10,Western Michigan,Central Michigan,28,35,fbs,fbs,1705.0,1360.0,False,7,Central Michigan
+400945011,2017,10,Eastern Michigan,Ball State,56,14,fbs,fbs,1349.0,993.0,False,-42,Eastern Michigan
+400945012,2017,10,Toledo,Northern Illinois,27,17,fbs,fbs,1669.0,1533.0,False,-10,Toledo
+400941834,2017,10,Temple,Navy,34,26,fbs,fbs,1466.0,1645.0,False,-8,Temple
+400944866,2017,10,Troy,Idaho,24,21,fbs,fbs,1496.0,1182.0,False,-3,Troy
+400938675,2017,10,Florida Atlantic,Marshall,30,25,fbs,fbs,1513.0,1448.0,False,-5,Florida Atlantic
+400951043,2017,10,Yale,Brown,34,7,fcs,fcs,,,False,-27,Yale
+400941835,2017,10,Tulsa,Memphis,14,41,fbs,fbs,1511.0,1674.0,False,27,Memphis
+400935310,2017,10,Utah,UCLA,48,17,fbs,fbs,1541.0,1530.0,False,-31,Utah
+400941833,2017,10,Houston,East Carolina,52,27,fbs,fbs,1591.0,1148.0,False,-25,Houston
+400933908,2017,10,Mississippi State,UMass,34,23,fbs,fbs,1808.0,1339.0,False,-11,Mississippi State
+400934543,2017,10,Texas Tech,Kansas State,35,42,fbs,fbs,1522.0,1649.0,False,7,Kansas State
+400933912,2017,10,Vanderbilt,Western Kentucky,31,17,fbs,fbs,1359.0,1626.0,False,-14,Vanderbilt
+400952308,2017,10,Jacksonville,Valparaiso,20,17,fcs,fcs,,,False,-3,Jacksonville
+400951332,2017,10,Bucknell,Lehigh,21,42,fcs,fcs,,,False,21,Lehigh
+400951239,2017,10,Wagner,Robert Morris,27,7,fcs,fcs,,,False,-20,Wagner
+400951224,2017,10,Central Connecticut,St Francis (PA),28,10,fcs,fcs,,,False,-18,Central Connecticut
+400951217,2017,10,Bryant,Sacred Heart,48,45,fcs,fcs,,,False,-3,Bryant
+400950975,2017,10,Rhode Island,James Madison,3,38,fcs,fcs,,,False,35,James Madison
+400933909,2017,10,Missouri,Florida,45,16,fbs,fbs,1504.0,1608.0,False,-29,Missouri
+400935399,2017,10,Michigan State,Penn State,27,24,fbs,fbs,1644.0,2072.0,False,-3,Michigan State
+400935396,2017,10,Indiana,Wisconsin,17,45,fbs,fbs,1558.0,1893.0,False,28,Wisconsin
+400933911,2017,10,Texas A&M,Auburn,27,42,fbs,fbs,1654.0,1984.0,False,15,Auburn
+400934541,2017,10,Kansas,Baylor,9,38,fbs,fbs,1005.0,1389.0,False,29,Baylor
+400935401,2017,10,Purdue,Illinois,29,10,fbs,fbs,1516.0,1276.0,False,-19,Purdue
+400937511,2017,10,Florida State,Syracuse,27,24,fbs,fbs,1584.0,1431.0,False,-3,Florida State
+400952240,2017,10,Norfolk State,North Carolina A&T,7,35,fcs,fcs,,,False,28,North Carolina A&T
+400950944,2017,10,Monmouth,Presbyterian College,42,21,fcs,fcs,,,False,-21,Monmouth
+400951003,2017,10,Villanova,Richmond,0,22,fcs,fcs,,,False,22,Richmond
+400951008,2017,10,Stony Brook,Albany,28,21,fcs,fcs,,,False,-7,Stony Brook
+400951026,2017,10,Columbia,Harvard,14,21,fcs,fcs,,,False,7,Harvard
+400951052,2017,10,Illinois State,Western Illinois,14,31,fcs,fcs,,,False,17,Western Illinois
+400951059,2017,10,Indiana State,Youngstown State,24,66,fcs,fcs,,,False,42,Youngstown State
+400951345,2017,10,Fordham,Holy Cross,20,42,fcs,fcs,,,False,22,Holy Cross
+400951549,2017,10,Hampton,North Carolina Central,6,14,fcs,fcs,,,False,8,North Carolina Central
+400952269,2017,10,Davidson,Campbell,29,42,fcs,fcs,,,False,13,Campbell
+400952283,2017,10,Dayton,Marist,36,17,fcs,fcs,,,False,-19,Dayton
+400953835,2017,10,Pennsylvania,Princeton,38,35,fcs,fcs,,,False,-3,Pennsylvania
+400953831,2017,10,Dartmouth,Cornell,10,0,fcs,fcs,,,False,-10,Dartmouth
+400950910,2017,10,Gardner-Webb,Charleston Southern,9,10,fcs,fcs,,,False,1,Charleston Southern
+400951399,2017,10,Wofford,Chattanooga,24,21,fcs,fcs,,,False,-3,Wofford
+400950870,2017,10,Montana State,Kennesaw State,14,16,fcs,fcs,,,False,2,Kennesaw State
+400950957,2017,10,Maine,Delaware,17,31,fcs,fcs,,,False,14,Delaware
+400951066,2017,10,Southern Illinois,Missouri State,28,36,fcs,fcs,,,False,8,Missouri State
+400950989,2017,10,William & Mary,New Hampshire,16,35,fcs,fcs,,,False,19,New Hampshire
+400951080,2017,10,Northern Iowa,South Dakota,34,29,fcs,fcs,,,False,-5,Northern Iowa
+400951145,2017,10,Eastern Illinois,Eastern Kentucky,23,20,fcs,fcs,,,False,-3,Eastern Illinois
+400951315,2017,10,Southeast Missouri State,UT Martin,14,16,fcs,fcs,,,False,2,UT Martin
+400951351,2017,10,Georgetown,Lafayette,0,7,fcs,fcs,,,False,7,Lafayette
+400951373,2017,10,The Citadel,Western Carolina,19,31,fcs,fcs,,,False,12,Western Carolina
+400951508,2017,10,Jacksonville State,Murray State,59,23,fcs,fcs,,,False,-36,Jacksonville State
+400951517,2017,10,Sam Houston State,Incarnate Word,57,20,fcs,fcs,,,False,-37,Sam Houston State
+400954026,2017,10,Mississippi Valley State,Texas Southern,21,38,fcs,fcs,,,False,17,Texas Southern
+400950966,2017,10,Elon,Towson,33,30,fcs,fcs,,,False,-3,Elon
+400951260,2017,10,Tennessee Tech,Austin Peay,28,35,fcs,fcs,,,False,7,Austin Peay
+400953936,2017,10,Tennessee State,Virginia Lynchburg,60,0,fcs,,,,False,-60,Tennessee State
+400953993,2017,10,Jackson State,Alabama State,3,13,fcs,fcs,,,False,10,Alabama State
+400944867,2017,10,Louisiana Monroe,Appalachian State,52,45,fbs,fbs,1185.0,1513.0,False,-7,Louisiana Monroe
+400951074,2017,10,South Dakota State,North Dakota State,33,21,fcs,fcs,,,False,-12,South Dakota State
+400951364,2017,10,East Tennessee State,VMI,24,6,fcs,fcs,,,False,-18,East Tennessee State
+400951407,2017,10,Alcorn State,Alabama A&M,47,22,fcs,fcs,,,False,-25,Alcorn State
+400951385,2017,10,Mercer,Samford,3,20,fcs,fcs,,,False,17,Samford
+400937512,2017,10,Virginia,Georgia Tech,40,36,fbs,fbs,1376.0,1716.0,False,-4,Virginia
+400938653,2017,10,UAB,Rice,52,21,fbs,fbs,1442.0,1033.0,False,-31,UAB
+400944870,2017,10,Texas State,New Mexico State,35,45,fbs,fbs,1018.0,1265.0,False,10,New Mexico State
+400944868,2017,10,Georgia Southern,Georgia State,17,21,fbs,fbs,1136.0,1263.0,False,4,Georgia State
+400934580,2017,10,Notre Dame,Wake Forest,48,37,fbs,fbs,2000.0,1609.0,False,-11,Notre Dame
+400938649,2017,10,Old Dominion,Charlotte,6,0,fbs,fbs,1180.0,1036.0,False,-6,Old Dominion
+400938651,2017,10,Louisiana Tech,North Texas,23,24,fbs,fbs,1490.0,1187.0,False,1,North Texas
+400934569,2017,10,Air Force,Army,0,21,fbs,fbs,1552.0,1438.0,False,21,Army
+400985386,2017,10,Connecticut,South Florida,20,37,fbs,fbs,1085.0,1763.0,False,17,South Florida
+400933906,2017,10,Georgia,South Carolina,24,10,fbs,fbs,1960.0,1575.0,False,-14,Georgia
+400937510,2017,10,NC State,Clemson,31,38,fbs,fbs,1651.0,2063.0,False,7,Clemson
+400934542,2017,10,West Virginia,Iowa State,20,16,fbs,fbs,1690.0,1717.0,False,-4,West Virginia
+400935400,2017,10,Nebraska,Northwestern,24,31,fbs,fbs,1483.0,1628.0,False,7,Northwestern
+400935315,2017,10,Washington State,Stanford,24,21,fbs,fbs,1680.0,1843.0,False,-3,Washington State
+400935402,2017,10,Rutgers,Maryland,31,24,fbs,fbs,1189.0,1323.0,False,-7,Rutgers
+400935397,2017,10,Iowa,Ohio State,55,24,fbs,fbs,1671.0,2161.0,False,-31,Iowa
+400954002,2017,10,Arkansas-Pine Bluff,Grambling,26,31,fcs,fcs,,,False,5,Grambling
+400950935,2017,10,Liberty,Duquesne,27,24,fcs,fcs,,,False,-3,Liberty
+400934544,2017,10,Oklahoma State,Oklahoma,52,62,fbs,fbs,1938.0,1936.0,False,10,Oklahoma
+400952228,2017,10,Florida A&M,Howard,26,37,fcs,fcs,,,False,11,Howard
+400952261,2017,10,Stetson,Butler,6,23,fcs,fcs,,,False,17,Butler
+400951534,2017,10,Bethune-Cookman,Morgan State,41,28,fcs,fcs,,,False,-13,Bethune-Cookman
+400933907,2017,10,Kentucky,Ole Miss,34,37,fbs,fbs,1433.0,1483.0,False,3,Ole Miss
+400944869,2017,10,South Alabama,Louisiana,14,19,fbs,fbs,1283.0,1208.0,False,5,Louisiana
+400941837,2017,10,Tulane,Cincinnati,16,17,fbs,fbs,1336.0,1280.0,False,1,Cincinnati
+400933905,2017,10,Arkansas,Coastal Carolina,39,38,fbs,fbs,1443.0,1209.0,False,-1,Arkansas
+400950583,2017,10,Eastern Washington,Weber State,20,28,fcs,fcs,,,False,8,Weber State
+400952327,2017,10,Nicholls,Houston Christian,23,17,fcs,fcs,,,False,-6,Nicholls
+400950835,2017,10,Idaho State,UC Davis,17,56,fcs,fcs,,,False,39,UC Davis
+400935314,2017,10,California,Oregon State,37,23,fbs,fbs,1582.0,1267.0,False,-14,California
+400952288,2017,10,San Diego,Drake,45,15,fcs,fcs,,,False,-30,San Diego
+400951543,2017,10,Savannah State,Delaware State,35,21,fcs,fcs,,,False,-14,Savannah State
+400952314,2017,10,Northwestern State,Abilene Christian,26,23,fcs,fcs,,,False,-3,Northwestern State
+400954029,2017,10,Southern,Prairie View,37,31,fcs,fcs,,,False,-6,Southern
+400950842,2017,10,Montana,Northern Arizona,17,15,fcs,fcs,,,False,-2,Montana
+400945291,2017,10,New Mexico,Utah State,10,24,fbs,fbs,1254.0,1394.0,False,14,Utah State
+400945293,2017,10,UNLV,Hawai'i,31,23,fbs,fbs,1300.0,1143.0,False,-8,UNLV
+400945290,2017,10,Wyoming,Colorado State,16,13,fbs,fbs,1492.0,1559.0,False,-3,Wyoming
+400945289,2017,10,Boise State,Nevada,41,14,fbs,fbs,1693.0,1296.0,False,-27,Boise State
+400938650,2017,10,Florida International,UT San Antonio,14,7,fbs,fbs,1240.0,1450.0,False,-7,Florida International
+400952341,2017,10,McNeese,Southeastern Louisiana,13,3,fcs,fcs,,,False,-10,McNeese
+400952321,2017,10,Lamar,Central Arkansas,14,42,fcs,fcs,,,False,28,Central Arkansas
+400941836,2017,10,SMU,UCF,24,31,fbs,fbs,1461.0,1777.0,False,7,UCF
+400934545,2017,10,TCU,Texas,24,7,fbs,fbs,1816.0,1747.0,False,-17,TCU
+400933910,2017,10,Tennessee,Southern Mississippi,24,10,fbs,fbs,1498.0,1373.0,False,-14,Tennessee
+400938652,2017,10,Middle Tennessee,UTEP,30,3,fbs,fbs,1239.0,982.0,False,-27,Middle Tennessee
+400937513,2017,10,Miami,Virginia Tech,28,10,fbs,fbs,1764.0,1972.0,False,-18,Miami
+400933904,2017,10,Alabama,LSU,24,10,fbs,fbs,2279.0,1761.0,False,-14,Alabama
+400950878,2017,10,Southern Utah,North Dakota,47,21,fcs,fcs,,,False,-26,Southern Utah
+400935398,2017,10,Michigan,Minnesota,33,10,fbs,fbs,1816.0,1597.0,False,-23,Michigan
+400935312,2017,10,Arizona State,Colorado,41,30,fbs,fbs,1474.0,1565.0,False,-11,Arizona State
+400950888,2017,10,Sacramento State,Northern Colorado,50,21,fcs,fcs,,,False,-29,Sacramento State
+400950573,2017,10,Cal Poly,Portland State,35,28,fcs,fcs,,,False,-7,Cal Poly
+400935313,2017,10,Washington,Oregon,38,3,fbs,fbs,1962.0,1526.0,False,-35,Washington
+400945294,2017,10,San José State,San Diego State,7,52,fbs,fbs,889.0,1576.0,False,45,San Diego State
+400935311,2017,10,USC,Arizona,49,35,fbs,fbs,1823.0,1603.0,False,-14,USC
+400945292,2017,10,Fresno State,BYU,20,13,fbs,fbs,1460.0,1340.0,False,-7,Fresno State
+400945014,2017,11,Buffalo,Bowling Green,38,28,fbs,fbs,1269.0,1190.0,False,-10,Buffalo
+400945013,2017,11,Miami (OH),Akron,24,14,fbs,fbs,1306.0,1275.0,False,-10,Miami (OH)
+400945016,2017,11,Western Michigan,Kent State,48,20,fbs,fbs,1662.0,936.0,False,-28,Western Michigan
+400945017,2017,11,Ohio,Toledo,38,10,fbs,fbs,1516.0,1677.0,False,-28,Ohio
+400945015,2017,11,Central Michigan,Eastern Michigan,42,30,fbs,fbs,1403.0,1424.0,False,-12,Central Michigan
+400945018,2017,11,Northern Illinois,Ball State,63,17,fbs,fbs,1525.0,918.0,False,-46,Northern Illinois
+400944871,2017,11,Appalachian State,Georgia Southern,27,6,fbs,fbs,1483.0,1138.0,False,-21,Appalachian State
+400937514,2017,11,Pittsburgh,North Carolina,31,34,fbs,fbs,1537.0,1437.0,False,3,North Carolina
+400941840,2017,11,Cincinnati,Temple,24,35,fbs,fbs,1284.0,1490.0,False,11,Temple
+400953826,2017,11,Brown,Dartmouth,10,33,fcs,fcs,,,True,23,Dartmouth
+400935316,2017,11,Stanford,Washington,30,22,fbs,fbs,1840.0,2006.0,False,-8,Stanford
+400945299,2017,11,UNLV,BYU,21,31,fbs,fbs,1302.0,1337.0,False,10,BYU
+400934549,2017,11,Baylor,Texas Tech,24,38,fbs,fbs,1424.0,1518.0,True,14,Texas Tech
+400935405,2017,11,Minnesota,Nebraska,54,21,fbs,fbs,1564.0,1481.0,False,-33,Minnesota
+400934565,2017,11,Army,Duke,21,16,fbs,fbs,1505.0,1492.0,False,-5,Army
+400935407,2017,11,Ohio State,Michigan State,48,3,fbs,fbs,2005.0,1651.0,False,-45,Ohio State
+400937515,2017,11,Boston College,NC State,14,17,fbs,fbs,1626.0,1667.0,False,3,NC State
+400935403,2017,11,Illinois,Indiana,14,24,fbs,fbs,1256.0,1521.0,False,10,Indiana
+400941842,2017,11,UCF,Connecticut,49,24,fbs,fbs,1767.0,1106.0,False,-25,UCF
+400933918,2017,11,South Carolina,Florida,28,20,fbs,fbs,1578.0,1518.0,False,-8,South Carolina
+400951035,2017,11,Harvard,Pennsylvania,6,23,fcs,fcs,,,False,17,Pennsylvania
+400933915,2017,11,Ole Miss,Louisiana,50,22,fbs,fbs,1484.0,1222.0,False,-28,Ole Miss
+400952278,2017,11,Davidson,San Diego,7,63,fcs,fcs,,,False,56,San Diego
+400951333,2017,11,Bucknell,Georgetown,12,0,fcs,fcs,,,False,-12,Bucknell
+400934548,2017,11,Iowa State,Oklahoma State,42,49,fbs,fbs,1713.0,1917.0,False,7,Oklahoma State
+400933914,2017,11,LSU,Arkansas,33,10,fbs,fbs,1773.0,1436.0,False,-23,LSU
+400935408,2017,11,Penn State,Rutgers,35,6,fbs,fbs,2065.0,1206.0,False,-29,Penn State
+400950920,2017,11,Monmouth,Gardner-Webb,41,14,fcs,fcs,,,False,-27,Monmouth
+400950995,2017,11,Rhode Island,Villanova,20,6,fcs,fcs,,,False,-14,Rhode Island
+400951225,2017,11,Duquesne,Central Connecticut,27,28,fcs,fcs,,,False,1,Central Connecticut
+400951218,2017,11,Robert Morris,Bryant,17,42,fcs,fcs,,,False,25,Bryant
+400952293,2017,11,Marist,Morehead State,38,31,fcs,fcs,,,False,-7,Marist
+400951244,2017,11,St Francis (PA),Sacred Heart,7,16,fcs,fcs,,,False,9,Sacred Heart
+400937517,2017,11,Georgia Tech,Virginia Tech,28,22,fbs,fbs,1702.0,1910.0,False,-6,Georgia Tech
+400951354,2017,11,Lehigh,Holy Cross,34,21,fcs,fcs,,,False,-13,Lehigh
+400951340,2017,11,Lafayette,Colgate,0,27,fcs,fcs,,,False,27,Colgate
+400951261,2017,11,Eastern Kentucky,Austin Peay,24,31,fcs,fcs,,,False,7,Austin Peay
+400951060,2017,11,Indiana State,Western Illinois,0,45,fcs,fcs,,,False,45,Western Illinois
+400952229,2017,11,Howard,Norfolk State,28,24,fcs,fcs,,,False,-4,Howard
+400952244,2017,11,North Carolina A&T,Savannah State,36,17,fcs,fcs,,,False,-19,North Carolina A&T
+400952262,2017,11,Butler,Valparaiso,28,36,fcs,fcs,,,False,8,Valparaiso
+400952270,2017,11,Campbell,Drake,10,45,fcs,fcs,,,False,35,Drake
+400952306,2017,11,Jacksonville,Stetson,13,10,fcs,fcs,,,False,-3,Jacksonville
+400951009,2017,11,Stony Brook,Wagner,38,10,fcs,fcs,,,False,-28,Stony Brook
+400951044,2017,11,Princeton,Yale,31,35,fcs,fcs,,,False,4,Yale
+400951550,2017,11,South Carolina State,Hampton,33,15,fcs,fcs,,,False,-18,South Carolina State
+400951395,2017,11,VMI,Wofford,14,45,fcs,fcs,,,False,31,Wofford
+400951027,2017,11,Cornell,Columbia,8,18,fcs,fcs,,,False,10,Columbia
+400950967,2017,11,New Hampshire,Elon,16,6,fcs,fcs,,,False,-10,New Hampshire
+400951013,2017,11,William & Mary,Towson,14,26,fcs,fcs,,,False,12,Towson
+400938654,2017,11,Charlotte,Middle Tennessee,21,35,fbs,fbs,1036.0,1280.0,False,14,Middle Tennessee
+400950584,2017,11,North Dakota,Eastern Washington,14,21,fcs,fcs,,,False,7,Eastern Washington
+400951093,2017,11,Southern Illinois,Youngstown State,20,28,fcs,fcs,,,False,8,Youngstown State
+400951320,2017,11,Murray State,Tennessee Tech,31,21,fcs,fcs,,,False,-10,Murray State
+400951374,2017,11,Furman,The Citadel,56,20,fcs,fcs,,,False,-36,Furman
+400951386,2017,11,Western Carolina,Mercer,33,35,fcs,fcs,,,False,2,Mercer
+400951544,2017,11,Delaware State,Morgan State,33,30,fcs,fcs,,,False,-3,Delaware State
+400951535,2017,11,North Carolina Central,Bethune-Cookman,10,13,fcs,fcs,,,False,3,Bethune-Cookman
+400954003,2017,11,Prairie View,Arkansas-Pine Bluff,35,12,fcs,fcs,,,False,-23,Prairie View
+400953988,2017,11,Alabama A&M,Jackson State,7,10,fcs,fcs,,,False,3,Jackson State
+400951067,2017,11,Missouri State,Northern Iowa,10,25,fcs,fcs,,,False,15,Northern Iowa
+400953994,2017,11,Alabama State,Grambling,7,24,fcs,fcs,,,False,17,Grambling
+400951408,2017,11,Alcorn State,Mississippi Valley State,59,0,fcs,fcs,,,False,-59,Alcorn State
+400951326,2017,11,UT Martin,Jacksonville State,7,14,fcs,fcs,,,False,7,Jacksonville State
+400951365,2017,11,Samford,East Tennessee State,42,7,fcs,fcs,,,False,-35,Samford
+400950843,2017,11,Montana,Northern Colorado,44,14,fcs,fcs,,,False,-30,Montana
+400951053,2017,11,South Dakota State,Illinois State,27,24,fcs,fcs,,,False,-3,South Dakota State
+400951316,2017,11,Tennessee State,Southeast Missouri State,23,20,fcs,fcs,,,False,-3,Tennessee State
+400952328,2017,11,Houston Christian,Lamar,16,23,fcs,fcs,,,False,7,Lamar
+400951518,2017,11,Abilene Christian,Sam Houston State,35,44,fcs,fcs,,,False,9,Sam Houston State
+400937519,2017,11,Syracuse,Wake Forest,43,64,fbs,fbs,1432.0,1617.0,False,21,Wake Forest
+400937518,2017,11,Louisville,Virginia,38,21,fbs,fbs,1665.0,1390.0,False,-17,Louisville
+400934547,2017,11,Kansas State,West Virginia,23,28,fbs,fbs,1653.0,1694.0,False,5,West Virginia
+400938659,2017,11,Rice,Southern Mississippi,34,43,fbs,fbs,997.0,1355.0,False,9,Southern Mississippi
+400938656,2017,11,Louisiana Tech,Florida Atlantic,23,48,fbs,fbs,1473.0,1515.0,False,25,Florida Atlantic
+400950911,2017,11,Kennesaw State,Charleston Southern,38,0,fcs,fcs,,,False,-38,Kennesaw State
+400950936,2017,11,Liberty,Presbyterian College,47,28,fcs,fcs,,,False,-19,Liberty
+400950958,2017,11,Delaware,Albany,22,3,fcs,fcs,,,False,-19,Delaware
+400950976,2017,11,James Madison,Richmond,20,13,fcs,fcs,,,False,-7,James Madison
+400951075,2017,11,North Dakota State,South Dakota,49,14,fcs,fcs,,,False,-35,North Dakota State
+400935404,2017,11,Maryland,Michigan,10,35,fbs,fbs,1306.0,1849.0,False,25,Michigan
+400933913,2017,11,Auburn,Georgia,40,17,fbs,fbs,1988.0,1957.0,False,-23,Auburn
+400937516,2017,11,Clemson,Florida State,31,14,fbs,fbs,2047.0,1583.0,False,-17,Clemson
+400935409,2017,11,Wisconsin,Iowa,38,14,fbs,fbs,1930.0,1827.0,False,-24,Wisconsin
+400941841,2017,11,Navy,SMU,43,40,fbs,fbs,1621.0,1471.0,False,-3,Navy
+400933920,2017,11,Vanderbilt,Kentucky,21,44,fbs,fbs,1412.0,1432.0,False,23,Kentucky
+400935319,2017,11,Colorado,USC,24,38,fbs,fbs,1538.0,1833.0,False,14,USC
+400951526,2017,11,Stephen F. Austin,Nicholls,13,34,fcs,fcs,,,False,21,Nicholls
+400944873,2017,11,Texas State,Georgia State,30,33,fbs,fbs,1018.0,1261.0,False,3,Georgia State
+400945298,2017,11,Nevada,San José State,59,14,fbs,fbs,1270.0,843.0,False,-45,Nevada
+400938894,2017,11,UMass,Maine,44,31,fbs,fcs,,,True,-13,UMass
+400944874,2017,11,Coastal Carolina,Troy,17,42,fbs,fbs,1216.0,1493.0,False,25,Troy
+400938658,2017,11,North Texas,UTEP,45,10,fbs,fbs,1204.0,941.0,False,-35,North Texas
+400944872,2017,11,South Alabama,Arkansas State,24,19,fbs,fbs,1269.0,1663.0,False,-5,South Alabama
+400950890,2017,11,Portland State,Weber State,17,63,fcs,fcs,,,False,46,Weber State
+400935320,2017,11,Utah,Washington State,25,33,fbs,fbs,1624.0,1683.0,False,8,Washington State
+400954031,2017,11,Texas Southern,Southern,7,33,fcs,fcs,,,False,26,Southern
+400934546,2017,11,Texas,Kansas,42,27,fbs,fbs,1716.0,970.0,False,-15,Texas
+400938657,2017,11,Marshall,Western Kentucky,30,23,fbs,fbs,1446.0,1573.0,False,-7,Marshall
+400938655,2017,11,Florida International,Old Dominion,30,37,fbs,fbs,1262.0,1180.0,False,7,Old Dominion
+400938660,2017,11,UT San Antonio,UAB,19,24,fbs,fbs,1428.0,1478.0,False,5,UAB
+400941843,2017,11,East Carolina,Tulane,24,31,fbs,fbs,1131.0,1332.0,False,7,Tulane
+400933919,2017,11,Texas A&M,New Mexico,55,14,fbs,fbs,1650.0,1235.0,False,-41,Texas A&M
+400933916,2017,11,Mississippi State,Alabama,24,31,fbs,fbs,1795.0,2267.0,False,7,Alabama
+400952322,2017,11,Incarnate Word,Central Arkansas,10,56,fcs,fcs,,,False,46,Central Arkansas
+400950899,2017,11,UC Davis,Southern Utah,27,47,fcs,fcs,,,False,20,Southern Utah
+400935406,2017,11,Northwestern,Purdue,23,13,fbs,fbs,1630.0,1536.0,False,-10,Northwestern
+400952342,2017,11,McNeese,Northwestern State,44,24,fcs,fcs,,,False,-20,McNeese
+400950871,2017,11,Northern Arizona,Montana State,37,36,fcs,fcs,,,False,-1,Northern Arizona
+400933917,2017,11,Missouri,Tennessee,50,17,fbs,fbs,1594.0,1516.0,False,-33,Missouri
+400934581,2017,11,Miami,Notre Dame,41,8,fbs,fbs,1826.0,1992.0,False,-33,Miami
+400934550,2017,11,Oklahoma,TCU,38,20,fbs,fbs,1957.0,1847.0,False,-18,Oklahoma
+400950574,2017,11,Cal Poly,Sacramento State,14,49,fcs,fcs,,,False,35,Sacramento State
+400935318,2017,11,UCLA,Arizona State,44,37,fbs,fbs,1447.0,1501.0,False,-7,UCLA
+400935317,2017,11,Arizona,Oregon State,49,28,fbs,fbs,1593.0,1264.0,False,-21,Arizona
+400945295,2017,11,Air Force,Wyoming,14,28,fbs,fbs,1485.0,1494.0,False,14,Wyoming
+400945296,2017,11,Colorado State,Boise State,52,59,fbs,fbs,1557.0,1719.0,False,7,Boise State
+400945297,2017,11,Hawai'i,Fresno State,21,31,fbs,fbs,1141.0,1463.0,False,10,Fresno State
+400945020,2017,12,Akron,Ohio,37,34,fbs,fbs,1260.0,1610.0,False,-3,Akron
+400945019,2017,12,Kent State,Central Michigan,23,42,fbs,fbs,938.0,1427.0,False,19,Central Michigan
+400945021,2017,12,Miami (OH),Eastern Michigan,24,27,fbs,fbs,1321.0,1400.0,False,3,Eastern Michigan
+400945023,2017,12,Northern Illinois,Western Michigan,35,31,fbs,fbs,1582.0,1660.0,False,-4,Northern Illinois
+400945022,2017,12,Bowling Green,Toledo,37,66,fbs,fbs,1179.0,1583.0,False,29,Toledo
+400952345,2017,12,Southeastern Louisiana,Nicholls,21,17,fcs,fcs,,,False,-4,Southeastern Louisiana
+400952333,2017,12,Incarnate Word,Prairie View,28,42,fcs,fcs,,,False,14,Prairie View
+400945024,2017,12,Ball State,Buffalo,24,40,fbs,fbs,861.0,1280.0,False,16,Buffalo
+400951509,2017,12,Jacksonville State,Tennessee State,36,6,fcs,fcs,,,False,-30,Jacksonville State
+400941848,2017,12,South Florida,Tulsa,27,20,fbs,fbs,1742.0,1457.0,False,-7,South Florida
+400938665,2017,12,Western Kentucky,Middle Tennessee,41,38,fbs,fbs,1556.0,1289.0,False,-3,Western Kentucky
+400945302,2017,12,New Mexico,UNLV,35,38,fbs,fbs,1170.0,1284.0,False,3,UNLV
+400933921,2017,12,Alabama,Mercer,56,0,fbs,fcs,,,False,-56,Alabama
+400934555,2017,12,Texas Tech,TCU,3,27,fbs,fbs,1534.0,1817.0,False,24,TCU
+400933922,2017,12,Arkansas,Mississippi State,21,28,fbs,fbs,1414.0,1815.0,False,7,Mississippi State
+400937525,2017,12,Miami,Virginia,44,28,fbs,fbs,1940.0,1378.0,False,-16,Miami
+400935410,2017,12,Indiana,Rutgers,41,0,fbs,fbs,1520.0,1218.0,False,-41,Indiana
+400937523,2017,12,Florida State,Delaware State,77,6,fbs,fcs,,,False,-71,Florida State
+400941844,2017,12,Temple,UCF,19,45,fbs,fbs,1496.0,1764.0,False,26,UCF
+400941845,2017,12,East Carolina,Cincinnati,48,20,fbs,fbs,1133.0,1278.0,False,-28,East Carolina
+400951226,2017,12,Central Connecticut,Robert Morris,42,14,fcs,fcs,,,False,-28,Central Connecticut
+400951219,2017,12,Bryant,Duquesne,38,29,fcs,fcs,,,False,-9,Bryant
+400933923,2017,12,Auburn,Louisiana Monroe,42,14,fbs,fbs,2041.0,1215.0,False,-28,Auburn
+400935416,2017,12,Wisconsin,Michigan,24,10,fbs,fbs,1978.0,1857.0,False,-14,Wisconsin
+400951068,2017,12,Youngstown State,Missouri State,38,10,fcs,fcs,,,False,-28,Youngstown State
+400950983,2017,12,Maine,Stony Brook,19,20,fcs,fcs,,,False,1,Stony Brook
+400950968,2017,12,Elon,James Madison,3,31,fcs,fcs,,,False,28,James Madison
+400950912,2017,12,Charleston Southern,Liberty,20,19,fcs,fcs,,,False,-1,Charleston Southern
+400951334,2017,12,Fordham,Bucknell,20,9,fcs,fcs,,,False,-11,Fordham
+400941847,2017,12,Memphis,SMU,66,45,fbs,fbs,1728.0,1472.0,False,-21,Memphis
+400935413,2017,12,Northwestern,Minnesota,39,0,fbs,fbs,1640.0,1644.0,False,-39,Northwestern
+400951245,2017,12,Sacred Heart,Wagner,15,28,fcs,fcs,,,False,13,Wagner
+400934554,2017,12,West Virginia,Texas,14,28,fbs,fbs,1700.0,1690.0,False,14,Texas
+400937528,2017,12,Virginia Tech,Pittsburgh,20,14,fbs,fbs,1892.0,1526.0,False,-6,Virginia Tech
+400937521,2017,12,Clemson,The Citadel,61,3,fbs,fcs,,,False,-58,Clemson
+400951356,2017,12,Lehigh,Lafayette,38,31,fcs,fcs,,,False,-7,Lehigh
+400951036,2017,12,Yale,Harvard,24,3,fcs,fcs,,,False,-21,Yale
+400950959,2017,12,Villanova,Delaware,28,7,fcs,fcs,,,False,-21,Villanova
+400952235,2017,12,Morgan State,Norfolk State,32,45,fcs,fcs,,,False,13,Norfolk State
+400951551,2017,12,Hampton,Howard,20,17,fcs,fcs,,,False,-3,Hampton
+400951341,2017,12,Georgetown,Colgate,10,35,fcs,fcs,,,False,25,Colgate
+400951248,2017,12,Eastern Kentucky,St Francis (PA),14,10,fcs,fcs,,,False,-4,Eastern Kentucky
+400951054,2017,12,Illinois State,North Dakota State,7,20,fcs,fcs,,,False,13,North Dakota State
+400951028,2017,12,Columbia,Brown,24,6,fcs,fcs,,,False,-18,Columbia
+400950990,2017,12,Albany,New Hampshire,15,0,fcs,fcs,,,False,-15,Albany
+400950921,2017,12,Presbyterian College,Gardner-Webb,31,21,fcs,fcs,,,False,-10,Presbyterian College
+400952279,2017,12,Morehead State,Davidson,21,14,fcs,fcs,,,False,-7,Morehead State
+400952245,2017,12,North Carolina A&T,North Carolina Central,24,10,fcs,fcs,,,False,-14,North Carolina A&T
+400952250,2017,12,Savannah State,South Carolina State,34,10,fcs,fcs,,,False,-24,Savannah State
+400953834,2017,12,Dartmouth,Princeton,54,44,fcs,fcs,,,False,-10,Dartmouth
+400950575,2017,12,Northern Colorado,Cal Poly,42,0,fcs,fcs,,,False,-42,Northern Colorado
+400953832,2017,12,Pennsylvania,Cornell,29,22,fcs,fcs,,,False,-7,Pennsylvania
+400938666,2017,12,Old Dominion,Rice,24,21,fbs,fbs,1200.0,1007.0,False,-3,Old Dominion
+400951317,2017,12,Southeast Missouri State,Murray State,21,10,fcs,fcs,,,False,-11,Southeast Missouri State
+400951094,2017,12,Western Illinois,Southern Illinois,28,14,fcs,fcs,,,False,-14,Western Illinois
+400950996,2017,12,Towson,Rhode Island,29,10,fcs,fcs,,,False,-19,Towson
+400950929,2017,12,Kennesaw State,Monmouth,52,21,fcs,fcs,,,False,-31,Kennesaw State
+400950844,2017,12,Montana State,Montana,31,23,fcs,fcs,,,False,-8,Montana State
+400953995,2017,12,Mississippi Valley State,Alabama State,10,16,fcs,fcs,,,False,6,Alabama State
+400952289,2017,12,Drake,Jacksonville,52,7,fcs,fcs,,,False,-45,Drake
+400952284,2017,12,Valparaiso,Dayton,8,7,fcs,fcs,,,False,-1,Valparaiso
+400951536,2017,12,Bethune-Cookman,Florida A&M,29,24,fcs,fcs,,,False,-5,Bethune-Cookman
+400951519,2017,12,Sam Houston State,Houston Christian,53,33,fcs,fcs,,,False,-20,Sam Houston State
+400951366,2017,12,Chattanooga,East Tennessee State,10,3,fcs,fcs,,,False,-7,Chattanooga
+400953989,2017,12,Alabama A&M,Kentucky State,21,13,fcs,ii,,,False,-8,Alabama A&M
+400945304,2017,12,Wyoming,Fresno State,7,13,fbs,fbs,1525.0,1457.0,False,6,Fresno State
+400934551,2017,12,Baylor,Iowa State,13,23,fbs,fbs,1408.0,1715.0,False,10,Iowa State
+400951321,2017,12,Tennessee Tech,UT Martin,0,24,fcs,fcs,,,False,24,UT Martin
+400951085,2017,12,South Dakota,South Dakota State,28,31,fcs,fcs,,,False,3,South Dakota State
+400951409,2017,12,Jackson State,Alcorn State,7,3,fcs,fcs,,,False,-4,Jackson State
+400937526,2017,12,North Carolina,Western Carolina,65,10,fbs,fcs,,,False,-55,North Carolina
+400951004,2017,12,Richmond,William & Mary,27,20,fcs,fcs,,,False,-7,Richmond
+400944877,2017,12,Georgia Southern,South Alabama,52,0,fbs,fbs,1122.0,1292.0,False,-52,Georgia Southern
+400938663,2017,12,UTEP,Louisiana Tech,21,42,fbs,fbs,876.0,1411.0,False,21,Louisiana Tech
+400938661,2017,12,Southern Mississippi,Charlotte,66,21,fbs,fbs,1345.0,1027.0,False,-45,Southern Mississippi
+400938895,2017,12,BYU,UMass,10,16,fbs,fbs,1355.0,1352.0,False,6,UMass
+400944875,2017,12,Arkansas State,Texas State,30,12,fbs,fbs,1640.0,1027.0,False,-18,Arkansas State
+400935322,2017,12,Oregon State,Arizona State,24,40,fbs,fbs,1247.0,1488.0,False,16,Arizona State
+400945303,2017,12,Utah State,Hawai'i,38,0,fbs,fbs,1413.0,1147.0,False,-38,Utah State
+400934553,2017,12,Kansas,Oklahoma,3,41,fbs,fbs,996.0,1987.0,False,38,Oklahoma
+400935411,2017,12,Iowa,Purdue,15,24,fbs,fbs,1779.0,1526.0,False,9,Purdue
+400934552,2017,12,Oklahoma State,Kansas State,40,45,fbs,fbs,1915.0,1647.0,False,5,Kansas State
+400934582,2017,12,Notre Dame,Navy,24,17,fbs,fbs,1878.0,1620.0,False,-7,Notre Dame
+400937522,2017,12,Duke,Georgia Tech,43,20,fbs,fbs,1488.0,1720.0,False,-23,Duke
+400935414,2017,12,Ohio State,Illinois,52,14,fbs,fbs,2091.0,1257.0,False,-38,Ohio State
+400945301,2017,12,Colorado State,San José State,42,14,fbs,fbs,1556.0,767.0,False,-28,Colorado State
+400937524,2017,12,Louisville,Syracuse,56,10,fbs,fbs,1677.0,1399.0,False,-46,Louisville
+400954004,2017,12,Arkansas-Pine Bluff,Texas Southern,10,24,fcs,fcs,,,False,14,Texas Southern
+400933925,2017,12,Georgia,Kentucky,42,13,fbs,fbs,1904.0,1490.0,False,-29,Georgia
+400951380,2017,12,Samford,Furman,26,20,fcs,fcs,,,False,-6,Samford
+400952315,2017,12,Central Arkansas,Abilene Christian,34,0,fcs,fcs,,,False,-34,Central Arkansas
+400951527,2017,12,Northwestern State,Stephen F. Austin,38,21,fcs,fcs,,,False,-17,Northwestern State
+400933927,2017,12,South Carolina,Wofford,31,10,fbs,fcs,,,False,-21,South Carolina
+400950836,2017,12,Weber State,Idaho State,35,7,fcs,fcs,,,False,-28,Weber State
+400933924,2017,12,Florida,UAB,36,7,fbs,fbs,1510.0,1483.0,False,-29,Florida
+400935412,2017,12,Michigan State,Maryland,17,7,fbs,fbs,1565.0,1298.0,False,-10,Michigan State
+400935415,2017,12,Penn State,Nebraska,56,44,fbs,fbs,2053.0,1401.0,False,-12,Penn State
+400941846,2017,12,Tulane,Houston,20,17,fbs,fbs,1330.0,1608.0,False,-3,Tulane
+400950885,2017,12,Southern Utah,Northern Arizona,48,20,fcs,fcs,,,False,-28,Southern Utah
+400952294,2017,12,San Diego,Marist,35,7,fcs,fcs,,,False,-28,San Diego
+400951061,2017,12,Northern Iowa,Indiana State,41,3,fcs,fcs,,,False,-38,Northern Iowa
+400950895,2017,12,Sacramento State,UC Davis,52,47,fcs,fcs,,,False,-5,Sacramento State
+400944878,2017,12,Louisiana,New Mexico State,47,34,fbs,fbs,1179.0,1265.0,False,-13,Louisiana
+400944876,2017,12,Idaho,Coastal Carolina,7,13,fbs,fbs,1185.0,1181.0,False,6,Coastal Carolina
+400951262,2017,12,Austin Peay,Eastern Illinois,28,13,fcs,fcs,,,False,-15,Austin Peay
+400950585,2017,12,Eastern Washington,Portland State,59,33,fcs,fcs,,,False,-26,Eastern Washington
+400934571,2017,12,North Texas,Army,52,49,fbs,fbs,1269.0,1509.0,False,-3,North Texas
+400938662,2017,12,Florida Atlantic,Florida International,52,24,fbs,fbs,1577.0,1242.0,False,-28,Florida Atlantic
+400933928,2017,12,Tennessee,LSU,10,30,fbs,fbs,1435.0,1795.0,False,20,LSU
+400933926,2017,12,Ole Miss,Texas A&M,24,31,fbs,fbs,1527.0,1715.0,False,7,Texas A&M
+400937520,2017,12,Connecticut,Boston College,16,39,fbs,fbs,1109.0,1624.0,True,23,Boston College
+400935321,2017,12,Oregon,Arizona,48,28,fbs,fbs,1482.0,1610.0,False,-20,Oregon
+400938664,2017,12,UT San Antonio,Marshall,9,7,fbs,fbs,1423.0,1463.0,False,-2,UT San Antonio
+400937527,2017,12,Wake Forest,NC State,30,24,fbs,fbs,1650.0,1669.0,False,-6,Wake Forest
+400935323,2017,12,USC,UCLA,28,23,fbs,fbs,1838.0,1460.0,False,-5,USC
+400933929,2017,12,Vanderbilt,Missouri,17,45,fbs,fbs,1354.0,1675.0,False,28,Missouri
+400935325,2017,12,Stanford,California,17,14,fbs,fbs,1863.0,1585.0,False,-3,Stanford
+400952338,2017,12,Lamar,McNeese,3,13,fcs,fcs,,,False,10,McNeese
+400945300,2017,12,Boise State,Air Force,44,19,fbs,fbs,1720.0,1454.0,False,-25,Boise State
+400945305,2017,12,San Diego State,Nevada,42,23,fbs,fbs,1622.0,1346.0,False,-19,San Diego State
+400935324,2017,12,Washington,Utah,33,30,fbs,fbs,1983.0,1613.0,False,-3,Washington
+400945025,2017,13,Eastern Michigan,Bowling Green,34,31,fbs,fbs,1400.0,1147.0,False,-3,Eastern Michigan
+400945026,2017,13,Akron,Kent State,24,14,fbs,fbs,1266.0,939.0,False,-10,Akron
+400945027,2017,13,Ball State,Miami (OH),7,28,fbs,fbs,863.0,1321.0,False,21,Miami (OH)
+401002085,2017,13,Alabama State,Edward Waters,37,3,fcs,ii,,,False,-34,Alabama State
+400933930,2017,13,Mississippi State,Ole Miss,28,31,fbs,fbs,1800.0,1528.0,False,3,Ole Miss
+400945030,2017,13,Toledo,Western Michigan,37,10,fbs,fbs,1615.0,1655.0,False,-27,Toledo
+400934556,2017,13,TCU,Baylor,45,22,fbs,fbs,1848.0,1412.0,False,-23,TCU
+400945028,2017,13,Central Michigan,Northern Illinois,31,24,fbs,fbs,1426.0,1587.0,False,-7,Central Michigan
+400941850,2017,13,Houston,Navy,24,14,fbs,fbs,1603.0,1624.0,False,-10,Houston
+400937529,2017,13,Pittsburgh,Miami,24,14,fbs,fbs,1536.0,1928.0,False,-10,Pittsburgh
+400945029,2017,13,Buffalo,Ohio,31,24,fbs,fbs,1278.0,1604.0,False,-7,Buffalo
+400933931,2017,13,Arkansas,Missouri,45,48,fbs,fbs,1429.0,1714.0,False,3,Missouri
+400945308,2017,13,San Diego State,New Mexico,35,10,fbs,fbs,1639.0,1172.0,False,-25,San Diego State
+400941849,2017,13,UCF,South Florida,49,42,fbs,fbs,1803.0,1736.0,False,-7,UCF
+400935417,2017,13,Nebraska,Iowa,14,56,fbs,fbs,1424.0,1738.0,False,42,Iowa
+400944883,2017,13,Troy,Texas State,62,9,fbs,fbs,1528.0,1040.0,False,-53,Troy
+400938668,2017,13,Florida International,Western Kentucky,41,17,fbs,fbs,1207.0,1554.0,False,-24,Florida International
+400934557,2017,13,Texas,Texas Tech,23,27,fbs,fbs,1723.0,1503.0,False,4,Texas Tech
+400937530,2017,13,Virginia,Virginia Tech,0,10,fbs,fbs,1390.0,1882.0,False,10,Virginia Tech
+400935326,2017,13,UCLA,California,30,27,fbs,fbs,1469.0,1587.0,False,-3,UCLA
+400941852,2017,13,Memphis,East Carolina,70,13,fbs,fbs,1752.0,1225.0,False,-57,Memphis
+400933933,2017,13,Florida,Florida State,22,38,fbs,fbs,1584.0,1586.0,False,16,Florida State
+400941851,2017,13,Cincinnati,Connecticut,22,21,fbs,fbs,1186.0,1109.0,False,-1,Cincinnati
+400933934,2017,13,Georgia Tech,Georgia,7,38,fbs,fbs,1636.0,1934.0,False,31,Georgia
+400935420,2017,13,Michigan,Ohio State,20,31,fbs,fbs,1839.0,2102.0,False,11,Ohio State
+400934559,2017,13,Oklahoma State,Kansas,58,17,fbs,fbs,1886.0,1000.0,False,-41,Oklahoma State
+400933935,2017,13,Kentucky,Louisville,17,44,fbs,fbs,1460.0,1776.0,False,27,Louisville
+400935422,2017,13,Purdue,Indiana,31,24,fbs,fbs,1567.0,1599.0,False,-7,Purdue
+400941854,2017,13,SMU,Tulane,41,38,fbs,fbs,1448.0,1335.0,False,-3,SMU
+400937531,2017,13,Syracuse,Boston College,14,42,fbs,fbs,1300.0,1624.0,False,28,Boston College
+400937532,2017,13,Wake Forest,Duke,23,31,fbs,fbs,1658.0,1572.0,False,8,Duke
+400938672,2017,13,Rice,North Texas,14,30,fbs,fbs,1008.0,1273.0,False,16,North Texas
+401001213,2017,13,Elon,Furman,27,28,fcs,fcs,,,False,1,Furman
+400938673,2017,13,UAB,UTEP,28,7,fbs,fbs,1409.0,877.0,False,-21,UAB
+401001211,2017,13,Kennesaw State,Samford,28,17,fcs,fcs,,,False,-11,Kennesaw State
+401001207,2017,13,Stony Brook,Lehigh,59,29,fcs,fcs,,,False,-30,Stony Brook
+401001210,2017,13,New Hampshire,Central Connecticut,14,0,fcs,fcs,,,False,-14,New Hampshire
+400944879,2017,13,Georgia State,Appalachian State,10,31,fbs,fbs,1252.0,1499.0,False,21,Appalachian State
+400938667,2017,13,Charlotte,Florida Atlantic,12,31,fbs,fbs,937.0,1612.0,False,19,Florida Atlantic
+400938670,2017,13,Marshall,Southern Mississippi,27,28,fbs,fbs,1462.0,1435.0,False,1,Southern Mississippi
+400944880,2017,13,Louisiana Monroe,Arkansas State,50,67,fbs,fbs,1226.0,1627.0,False,17,Arkansas State
+400945311,2017,13,Nevada,UNLV,23,16,fbs,fbs,1329.0,1282.0,False,-7,Nevada
+400938671,2017,13,Middle Tennessee,Old Dominion,41,10,fbs,fbs,1291.0,1199.0,False,-31,Middle Tennessee
+400933932,2017,13,Auburn,Alabama,26,14,fbs,fbs,2030.0,2247.0,False,-12,Auburn
+400935419,2017,13,Maryland,Penn State,3,66,fbs,fbs,1299.0,2030.0,False,63,Penn State
+400945307,2017,13,Fresno State,Boise State,28,17,fbs,fbs,1473.0,1754.0,False,-11,Fresno State
+400937533,2017,13,NC State,North Carolina,33,21,fbs,fbs,1661.0,1448.0,False,-12,NC State
+400935421,2017,13,Minnesota,Wisconsin,0,31,fbs,fbs,1530.0,1996.0,False,31,Wisconsin
+400934558,2017,13,Kansas State,Iowa State,20,19,fbs,fbs,1676.0,1711.0,False,-1,Kansas State
+400934560,2017,13,Oklahoma,West Virginia,59,31,fbs,fbs,1983.0,1667.0,False,-28,Oklahoma
+400935418,2017,13,Illinois,Northwestern,7,42,fbs,fbs,1246.0,1754.0,False,35,Northwestern
+400941853,2017,13,Tulsa,Temple,22,43,fbs,fbs,1463.0,1457.0,False,21,Temple
+400944882,2017,13,New Mexico State,Idaho,17,10,fbs,fbs,1232.0,1174.0,False,-7,New Mexico State
+401001208,2017,13,Weber State,Western Illinois,21,19,fcs,fcs,,,False,-2,Weber State
+401001212,2017,13,Nicholls,South Dakota,31,38,fcs,fcs,,,False,7,South Dakota
+400933938,2017,13,Tennessee,Vanderbilt,24,42,fbs,fbs,1422.0,1315.0,False,18,Vanderbilt
+400935423,2017,13,Rutgers,Michigan State,7,40,fbs,fbs,1139.0,1564.0,False,33,Michigan State
+400935328,2017,13,Arizona State,Arizona,42,30,fbs,fbs,1502.0,1549.0,False,-12,Arizona State
+401001209,2017,13,Northern Iowa,Monmouth,46,7,fcs,fcs,,,False,-39,Northern Iowa
+400954010,2017,13,Grambling,Southern,30,21,fcs,fcs,,,True,-9,Grambling
+400944881,2017,13,Louisiana,Georgia Southern,24,34,fbs,fbs,1212.0,1315.0,False,10,Georgia Southern
+400945309,2017,13,San José State,Wyoming,20,17,fbs,fbs,775.0,1509.0,False,-3,San José State
+400954027,2017,13,Texas Southern,Prairie View,16,30,fcs,fcs,,,False,14,Prairie View
+400935327,2017,13,Oregon,Oregon State,69,10,fbs,fbs,1543.0,1233.0,False,-59,Oregon
+400933937,2017,13,South Carolina,Clemson,10,34,fbs,fbs,1586.0,2044.0,False,24,Clemson
+400938669,2017,13,Louisiana Tech,UT San Antonio,20,6,fbs,fbs,1410.0,1424.0,False,-14,Louisiana Tech
+400933936,2017,13,LSU,Texas A&M,45,21,fbs,fbs,1808.0,1714.0,False,-24,LSU
+400935330,2017,13,Washington,Washington State,41,14,fbs,fbs,1979.0,1694.0,False,-27,Washington
+401001214,2017,13,Northern Arizona,San Diego,10,41,fcs,fcs,,,False,31,San Diego
+400934583,2017,13,Stanford,Notre Dame,38,20,fbs,fbs,1861.0,1874.0,False,-18,Stanford
+400945310,2017,13,Hawai'i,BYU,20,30,fbs,fbs,1073.0,1344.0,False,10,BYU
+400935329,2017,13,Utah,Colorado,34,13,fbs,fbs,1617.0,1533.0,False,-21,Utah
+400945306,2017,13,Air Force,Utah State,38,35,fbs,fbs,1420.0,1487.0,False,-3,Air Force
+400955149,2017,14,USC,Stanford,31,28,fbs,fbs,1829.0,1903.0,True,-3,USC
+400985387,2017,14,Florida International,UMass,63,45,fbs,fbs,1310.0,1363.0,False,-18,Florida International
+400955152,2017,14,Florida Atlantic,North Texas,41,17,fbs,fbs,1595.0,1285.0,False,-24,Florida Atlantic
+401000149,2017,14,Florida State,Louisiana Monroe,42,10,fbs,fbs,1624.0,1224.0,False,-32,Florida State
+400955150,2017,14,Toledo,Akron,45,28,fbs,fbs,1690.0,1261.0,True,-17,Toledo
+400955151,2017,14,UCF,Memphis,62,55,fbs,fbs,1809.0,1854.0,False,-7,UCF
+400955157,2017,14,Oklahoma,TCU,41,17,fbs,fbs,2020.0,1860.0,True,-24,Oklahoma
+400944886,2017,14,Coastal Carolina,Georgia Southern,28,17,fbs,fbs,1192.0,1327.0,False,-11,Coastal Carolina
+400944887,2017,14,Georgia State,Idaho,10,24,fbs,fbs,1225.0,1168.0,False,14,Idaho
+401002482,2017,14,Jacksonville State,Kennesaw State,7,17,fcs,fcs,,,False,10,Kennesaw State
+401002481,2017,14,James Madison,Stony Brook,26,7,fcs,fcs,,,False,-19,James Madison
+401002470,2017,14,Wofford,Furman,28,10,fcs,fcs,,,False,-18,Wofford
+400944884,2017,14,Appalachian State,Louisiana,63,14,fbs,fbs,1526.0,1200.0,False,-49,Appalachian State
+401002487,2017,14,South Dakota State,Northern Iowa,37,22,fcs,fcs,,,False,-15,South Dakota State
+401002488,2017,14,Sam Houston State,South Dakota,54,42,fcs,fcs,,,False,-12,Sam Houston State
+401002469,2017,14,Central Arkansas,New Hampshire,15,21,fcs,fcs,,,False,6,New Hampshire
+401002496,2017,14,North Dakota State,San Diego,38,3,fcs,fcs,,,False,-35,North Dakota State
+400955153,2017,14,Auburn,Georgia,7,28,fbs,fbs,2071.0,1984.0,True,21,Georgia
+400944888,2017,14,New Mexico State,South Alabama,22,17,fbs,fbs,1238.0,1099.0,False,-5,New Mexico State
+401002492,2017,14,Grambling,Alcorn State,40,32,fcs,fcs,,,True,-8,Grambling
+400944885,2017,14,Arkansas State,Troy,25,32,fbs,fbs,1629.0,1622.0,False,7,Troy
+400955154,2017,14,Boise State,Fresno State,17,14,fbs,fbs,1711.0,1516.0,False,-3,Boise State
+400955156,2017,14,Wisconsin,Ohio State,21,27,fbs,fbs,2027.0,2103.0,True,6,Ohio State
+401002486,2017,14,Southern Utah,Weber State,13,30,fcs,fcs,,,False,17,Weber State
+400955155,2017,14,Clemson,Miami,38,3,fbs,fbs,2058.0,1879.0,True,-35,Clemson
+401002978,2017,15,James Madison,Weber State,31,28,fcs,fcs,,,False,-3,James Madison
+401002979,2017,15,North Dakota State,Wofford,42,10,fcs,fcs,,,False,-32,North Dakota State
+400934572,2017,15,Navy,Army,13,14,fbs,fbs,1605.0,1505.0,True,1,Army
+401002980,2017,15,South Dakota State,New Hampshire,56,14,fcs,fcs,,,False,-42,South Dakota State
+401002981,2017,15,Sam Houston State,Kennesaw State,34,27,fcs,fcs,,,False,-7,Sam Houston State

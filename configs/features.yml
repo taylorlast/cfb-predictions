@@ -1,4 +1,6 @@
 FEATURES:
+- home_pregame_elo
+- away_pregame_elo
 - plays_offense_home
 - drives_offense_home
 - ppa_offense_home
@@ -112,4 +114,4 @@ FEATURES:
 - passing_plays.success_rate_defense_away
 - passing_plays.explosiveness_defense_away
 
-TARGET: diff
+TARGET: point_diff

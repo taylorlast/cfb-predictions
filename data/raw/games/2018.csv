@@ -1,0 +1,1512 @@
+id,season,week,home_team,away_team,home_points,away_points,home_division,away_division,home_pregame_elo,away_pregame_elo,neutral_site,point_diff,winner
+401013357,2018,1,UMass,Duquesne,63,15,fbs,fcs,,,False,-48,UMass
+401030241,2018,1,Jacksonville State,North Carolina A&T,17,20,fcs,fcs,,,True,3,North Carolina A&T
+401014972,2018,1,Rice,Prairie View,31,28,fbs,fcs,,,False,-3,Rice
+401022510,2018,1,Colorado State,Hawai'i,34,43,fbs,fbs,1529.0,1217.0,False,9,Hawai'i
+401013437,2018,1,New Mexico State,Wyoming,7,29,fbs,fbs,1339.0,1537.0,False,22,Wyoming
+401030567,2018,1,Wagner,Bowie State,40,23,fcs,ii,,,False,-17,Wagner
+401029895,2018,1,Delaware,Rhode Island,19,21,fcs,fcs,,,False,2,Rhode Island
+401029921,2018,1,Maine,New Hampshire,35,7,fcs,fcs,,,False,-28,Maine
+401030097,2018,1,Indiana State,Quincy,49,0,fcs,ii,,,False,-49,Indiana State
+401030234,2018,1,Eastern Kentucky,Morehead State,49,23,fcs,fcs,,,False,-26,Eastern Kentucky
+401021651,2018,1,Georgia State,Kennesaw State,24,20,fbs,fcs,,,False,-4,Georgia State
+401030248,2018,1,Chattanooga,Tennessee Tech,34,10,fcs,fcs,,,False,-24,Chattanooga
+401029968,2018,1,Campbell,Chowan,49,26,fcs,ii,,,False,-23,Campbell
+401020671,2018,1,Ball State,Central Connecticut,42,6,fbs,fcs,,,False,-36,Ball State
+401013328,2018,1,Minnesota,New Mexico State,48,10,fbs,fbs,1499.0,1304.0,False,-38,Minnesota
+401019470,2018,1,Connecticut,UCF,17,56,fbs,fbs,1241.0,1728.0,False,39,UCF
+401030159,2018,1,Murray State,Southern Illinois,10,49,fcs,fcs,,,False,39,Southern Illinois
+401030402,2018,1,North Dakota,Mississippi Valley State,35,7,fcs,fcs,,,False,-28,North Dakota
+401030318,2018,1,Samford,Shorter,66,9,fcs,ii,,,False,-57,Samford
+401012675,2018,1,Utah,Weber State,41,10,fbs,fcs,,,False,-31,Utah
+401014979,2018,1,UAB,Savannah State,52,0,fbs,fcs,,,True,-52,UAB
+401013489,2018,1,Oklahoma State,Missouri State,58,17,fbs,fcs,,,False,-41,Oklahoma State
+401013342,2018,1,Purdue,Northwestern,27,31,fbs,fbs,1555.0,1691.0,False,4,Northwestern
+401021655,2018,1,Louisiana Monroe,Southeastern Louisiana,34,31,fbs,fcs,,,False,-3,Louisiana Monroe
+401013086,2018,1,Tulane,Wake Forest,17,23,fbs,fbs,1390.0,1591.0,False,6,Wake Forest
+401012258,2018,1,Texas A&M,Northwestern State,59,7,fbs,fcs,,,False,-52,Texas A&M
+401030172,2018,1,Montana State,Western Illinois,26,23,fcs,fcs,,,False,-3,Montana State
+401022511,2018,1,San José State,UC Davis,38,44,fbs,fcs,,,False,6,UC Davis
+401020673,2018,1,Western Michigan,Syracuse,42,55,fbs,fbs,1553.0,1341.0,False,13,Syracuse
+401020672,2018,1,Eastern Michigan,Monmouth,51,17,fbs,fcs,,,False,-34,Eastern Michigan
+401013089,2018,1,Duke,Army,34,14,fbs,fbs,1594.0,1522.0,False,-20,Duke
+401012880,2018,1,Michigan State,Utah State,38,31,fbs,fbs,1623.0,1475.0,False,-7,Michigan State
+401030323,2018,1,Idaho State,Western State,45,10,fcs,ii,,,False,-35,Idaho State
+401013354,2018,1,Wisconsin,Western Kentucky,34,3,fbs,fbs,1852.0,1436.0,False,-31,Wisconsin
+401022517,2018,1,Nevada,Portland State,72,19,fbs,fcs,,,False,-53,Nevada
+401022512,2018,1,Stanford,San Diego State,31,10,fbs,fbs,1757.0,1584.0,False,-21,Stanford
+401012680,2018,1,Colorado State,Colorado,13,45,fbs,fbs,1482.0,1495.0,True,32,Colorado
+401012804,2018,1,Illinois,Kent State,31,24,fbs,fbs,1305.0,1129.0,False,-7,Illinois
+401012256,2018,1,South Carolina,Coastal Carolina,49,15,fbs,fbs,1572.0,1315.0,False,-34,South Carolina
+401012872,2018,1,Maryland,Texas,34,29,fbs,fbs,1302.0,1657.0,True,-5,Maryland
+401013065,2018,1,Oklahoma,Florida Atlantic,63,14,fbs,fbs,1875.0,1642.0,False,-49,Oklahoma
+401012682,2018,1,Ohio State,Oregon State,77,31,fbs,fbs,1915.0,1229.0,False,-46,Ohio State
+401014977,2018,1,Rice,Houston,27,45,fbs,fbs,1164.0,1573.0,False,18,Houston
+401012253,2018,1,Texas Tech,Ole Miss,27,47,fbs,fbs,1518.0,1533.0,True,20,Ole Miss
+401019473,2018,1,Temple,Villanova,17,19,fbs,fcs,,,False,2,Villanova
+401012820,2018,1,Rutgers,Texas State,35,7,fbs,fbs,1231.0,1131.0,False,-28,Rutgers
+401013072,2018,1,TCU,Southern,55,7,fbs,fcs,,,False,-48,TCU
+401013091,2018,1,NC State,James Madison,24,13,fbs,fcs,1632.0,1474.0,False,-11,NC State
+401013088,2018,1,Clemson,Furman,48,7,fbs,fcs,,,False,-41,Clemson
+401030355,2018,1,Lehigh,St Francis (PA),21,19,fcs,fcs,,,False,-2,Lehigh
+401013090,2018,1,Georgia Tech,Alcorn State,41,0,fbs,fcs,,,False,-41,Georgia Tech
+401029889,2018,1,Colgate,Holy Cross,24,17,fcs,fcs,,,False,-7,Colgate
+401030595,2018,1,Marist,Georgetown,14,39,fcs,fcs,,,False,25,Georgetown
+401013087,2018,1,Boston College,UMass,55,21,fbs,fbs,1610.0,1378.0,False,-34,Boston College
+401030589,2018,1,Jacksonville,St. Augustine's,63,14,fcs,ii,,,True,-49,Jacksonville
+401030574,2018,1,Dayton,Robert Morris,49,28,fcs,fcs,,,False,-21,Dayton
+401030551,2018,1,Duquesne,Lock Haven,45,0,fcs,ii,,,False,-45,Duquesne
+401030183,2018,1,Youngstown State,Butler,21,23,fcs,fcs,,,False,2,Butler
+401022514,2018,1,Air Force,Stony Brook,38,0,fbs,fcs,,,False,-38,Air Force
+401020675,2018,1,Ohio,Howard,38,32,fbs,fcs,,,False,-6,Ohio
+401030536,2018,1,Bryant,New Haven,41,31,fcs,ii,,,False,-10,Bryant
+401012250,2018,1,Georgia,Austin Peay,45,0,fbs,fcs,,,False,-45,Georgia
+401029744,2018,1,North Dakota State,Cal Poly,49,3,fcs,fcs,,,False,-46,North Dakota State
+401013092,2018,1,Pittsburgh,Albany,33,7,fbs,fcs,,,False,-26,Pittsburgh
+401012683,2018,1,Wyoming,Washington State,19,41,fbs,fbs,1572.0,1552.0,False,22,Washington State
+401013349,2018,1,Penn State,Appalachian State,45,38,fbs,fbs,1923.0,1652.0,False,-7,Penn State
+401012257,2018,1,Tennessee,West Virginia,14,40,fbs,fbs,1411.0,1568.0,True,26,West Virginia
+401012248,2018,1,Auburn,Washington,21,16,fbs,fbs,1829.0,1839.0,True,-5,Auburn
+401012251,2018,1,Kentucky,Central Michigan,35,20,fbs,fbs,1453.0,1424.0,False,-15,Kentucky
+401012862,2018,1,Iowa,Northern Illinois,33,7,fbs,fbs,1712.0,1515.0,False,-26,Iowa
+401030208,2018,1,Northern Colorado,McNeese,14,17,fcs,fcs,,,False,3,McNeese
+401012255,2018,1,Missouri,UT Martin,51,14,fbs,fcs,,,False,-37,Missouri
+401012247,2018,1,Arkansas,Eastern Illinois,55,20,fbs,fcs,,,False,-35,Arkansas
+401012684,2018,1,California,North Carolina,24,17,fbs,fbs,1556.0,1461.0,False,-7,California
+401012678,2018,1,USC,UNLV,43,21,fbs,fbs,1713.0,1350.0,False,-22,USC
+401037010,2018,1,Eastern Washington,Central Washington,58,13,fcs,ii,,,False,-45,Eastern Washington
+401030604,2018,1,San Diego,Western New Mexico,38,9,fcs,ii,,,False,-29,San Diego
+401030506,2018,1,Florida A&M,Fort Valley State,41,7,fcs,ii,,,False,-34,Florida A&M
+401019472,2018,1,South Florida,Elon,34,14,fbs,fcs,,,False,-20,South Florida
+401030519,2018,1,Norfolk State,Virginia State,34,13,fcs,ii,,,False,-21,Norfolk State
+401030351,2018,1,Sacred Heart,Lafayette,35,6,fcs,fcs,,,False,-29,Sacred Heart
+401013094,2018,1,Virginia,Richmond,42,13,fbs,fcs,,,False,-29,Virginia
+401030321,2018,1,Western Carolina,Newberry,33,26,fcs,ii,,,False,-7,Western Carolina
+401030266,2018,1,Wofford,The Citadel,28,21,fcs,fcs,,,False,-7,Wofford
+401029986,2018,1,Gardner-Webb,Limestone,52,17,fcs,ii,,,False,-35,Gardner-Webb
+401014973,2018,1,Charlotte,Fordham,34,10,fbs,fcs,,,False,-24,Charlotte
+401029879,2018,1,Bucknell,William & Mary,7,14,fcs,fcs,,,False,7,William & Mary
+401034100,2018,1,Hampton,Shaw,38,10,fcs,ii,,,False,-28,Hampton
+401014975,2018,1,Miami (OH),Marshall,28,35,fbs,fbs,1385.0,1476.0,False,7,Marshall
+401021656,2018,1,Troy,Boise State,20,56,fbs,fbs,1594.0,1648.0,False,36,Boise State
+401021653,2018,1,Georgia Southern,South Carolina State,37,6,fbs,fcs,,,False,-31,Georgia Southern
+401020674,2018,1,Buffalo,Delaware State,48,10,fbs,fcs,,,False,-38,Buffalo
+401013448,2018,1,Liberty,Old Dominion,52,10,fbs,fbs,1444.0,1251.0,False,-42,Liberty
+401012851,2018,1,Florida International,Indiana,28,38,fbs,fbs,1377.0,1559.0,False,10,Indiana
+401014978,2018,1,Southern Mississippi,Jackson State,55,7,fbs,fcs,,,False,-48,Southern Mississippi
+401012679,2018,1,UCLA,Cincinnati,17,26,fbs,fbs,1471.0,1289.0,False,9,Cincinnati
+401021652,2018,1,Arkansas State,Southeast Missouri State,48,21,fbs,fcs,,,False,-27,Arkansas State
+401021654,2018,1,Louisiana,Grambling,49,17,fbs,fcs,,,False,-32,Louisiana
+401020676,2018,1,Toledo,VMI,66,3,fbs,fcs,,,False,-63,Toledo
+401014974,2018,1,South Alabama,Louisiana Tech,26,30,fbs,fbs,1233.0,1537.0,False,4,Louisiana Tech
+401013048,2018,1,Kansas,Nicholls,23,26,fbs,fcs,,,False,3,Nicholls
+401019476,2018,1,Tulsa,Central Arkansas,38,27,fbs,fcs,,,False,-11,Tulsa
+401019474,2018,1,Memphis,Mercer,66,14,fbs,fcs,,,False,-52,Memphis
+401030366,2018,1,Davidson,Brevard College,34,13,fcs,iii,,,False,-21,Davidson
+401030192,2018,1,Lamar,Kentucky Christian,70,7,fcs,,,,False,-63,Lamar
+401030175,2018,1,Houston Christian,Southwest Baptist,49,7,fcs,ii,,,False,-42,Houston Christian
+401030606,2018,1,Stetson,Point University,48,7,fcs,,,,False,-41,Stetson
+401013057,2018,1,Kansas State,South Dakota,27,24,fbs,fcs,,,False,-3,Kansas State
+401030286,2018,1,Tennessee State,Bethune-Cookman,34,3,fcs,fcs,,,False,-31,Tennessee State
+401029961,2018,1,Morgan State,Towson,10,36,fcs,fcs,,,False,26,Towson
+401030068,2018,1,Illinois State,St. Xavier (IL),46,0,fcs,,,,False,-46,Illinois State
+401038410,2018,1,East Tennessee State,Mars Hill,28,7,fcs,ii,,,False,-21,East Tennessee State
+401012249,2018,1,Florida,Charleston Southern,53,6,fbs,fcs,,,False,-47,Florida
+401014980,2018,1,UTEP,Northern Arizona,10,30,fbs,fcs,,,False,20,Northern Arizona
+401012888,2018,1,Notre Dame,Michigan,24,17,fbs,fbs,1723.0,1701.0,False,-7,Notre Dame
+401014976,2018,1,North Texas,SMU,46,23,fbs,fbs,1335.0,1388.0,False,-23,North Texas
+401012259,2018,1,Vanderbilt,Middle Tennessee,35,7,fbs,fbs,1414.0,1421.0,False,-28,Vanderbilt
+401012254,2018,1,Mississippi State,Stephen F. Austin,63,6,fbs,fcs,,,False,-57,Mississippi State
+401012681,2018,1,Oregon,Bowling Green,58,24,fbs,fbs,1614.0,1266.0,False,-34,Oregon
+401013026,2018,1,Baylor,Abilene Christian,55,27,fbs,fcs,,,False,-28,Baylor
+401022515,2018,1,New Mexico,Incarnate Word,62,30,fbs,fcs,,,False,-32,New Mexico
+401012246,2018,1,Alabama,Louisville,51,14,fbs,fbs,1986.0,1701.0,True,-37,Alabama
+401030430,2018,1,Southern Utah,North Alabama,30,34,fcs,fcs,,,False,4,North Alabama
+401030426,2018,1,Sacramento State,St. Francis (IL),55,7,fcs,,,,False,-48,Sacramento State
+401030112,2018,1,Montana,Northern Iowa,26,23,fcs,fcs,,,False,-3,Montana
+401022516,2018,1,Fresno State,Idaho,79,13,fbs,fcs,,,False,-66,Fresno State
+401012677,2018,1,Arizona State,UT San Antonio,49,7,fbs,fbs,1498.0,1429.0,False,-42,Arizona State
+401012676,2018,1,Arizona,BYU,23,28,fbs,fbs,1513.0,1395.0,False,5,BYU
+401019475,2018,1,Hawai'i,Navy,59,41,fbs,fbs,1264.0,1633.0,False,-18,Hawai'i
+401021631,2018,1,North Carolina Central,Prairie View,24,40,fcs,fcs,,,True,16,Prairie View
+401079833,2018,1,East Carolina,North Carolina A&T,23,28,fbs,fcs,,,False,5,North Carolina A&T
+401013095,2018,1,LSU,Miami,33,17,fbs,fbs,1736.0,1696.0,True,-16,LSU
+401013096,2018,1,Florida State,Virginia Tech,3,24,fbs,fbs,1648.0,1731.0,False,21,Virginia Tech
+401030106,2018,2,Missouri State,Lincoln (MO),52,24,fcs,ii,,,False,-28,Missouri State
+401029994,2018,2,Tennessee Tech,Kennesaw State,10,49,fcs,fcs,,,False,39,Kennesaw State
+401030545,2018,2,Central Connecticut,Lincoln (PA),55,0,fcs,ii,,,False,-55,Central Connecticut
+401019477,2018,2,SMU,TCU,12,42,fbs,fbs,1326.0,1711.0,False,30,TCU
+401013098,2018,2,Northwestern,Duke,7,21,fbs,fbs,1689.0,1633.0,False,14,Duke
+401030558,2018,2,Robert Morris,Virginia State,22,19,fcs,ii,,,False,-3,Robert Morris
+401012889,2018,2,Michigan,Western Michigan,49,3,fbs,fbs,1693.0,1502.0,False,-46,Michigan
+401030552,2018,2,Duquesne,Valparaiso,23,21,fcs,fcs,,,False,-2,Duquesne
+401013100,2018,2,South Florida,Georgia Tech,49,38,fbs,fbs,1652.0,1557.0,False,-11,South Florida
+401030497,2018,2,St Francis (PA),Delaware State,45,14,fcs,fcs,,,False,-31,St Francis (PA)
+401012726,2018,2,Houston,Arizona,45,18,fbs,fbs,1577.0,1496.0,False,-27,Houston
+401013367,2018,2,Army,Liberty,38,14,fbs,fbs,1483.0,1541.0,False,-24,Army
+401013352,2018,2,Purdue,Eastern Michigan,19,20,fbs,fbs,1557.0,1432.0,False,1,Eastern Michigan
+401013108,2018,2,Wake Forest,Towson,51,20,fbs,fcs,,,False,-31,Wake Forest
+401012266,2018,2,Kansas State,Mississippi State,10,31,fbs,fbs,1629.0,1692.0,False,21,Mississippi State
+401013355,2018,2,Wisconsin,New Mexico,45,14,fbs,fbs,1887.0,1272.0,False,-31,Wisconsin
+401012271,2018,2,Vanderbilt,Nevada,41,10,fbs,fbs,1488.0,1391.0,False,-31,Vanderbilt
+401013104,2018,2,NC State,Georgia State,41,7,fbs,fbs,1640.0,1323.0,False,-34,NC State
+401029969,2018,2,Georgetown,Campbell,8,13,fcs,fcs,,,False,5,Campbell
+401029965,2018,2,Lehigh,Villanova,9,31,fcs,fcs,,,False,22,Villanova
+401013097,2018,2,Boston College,Holy Cross,62,14,fbs,fcs,,,False,-48,Boston College
+401029805,2018,2,Rhode Island,Albany,45,26,fcs,fcs,,,False,-19,Rhode Island
+401012728,2018,2,Oklahoma,UCLA,49,21,fbs,fbs,1991.0,1437.0,False,-28,Oklahoma
+401013107,2018,2,Virginia Tech,William & Mary,62,17,fbs,fcs,,,False,-45,Virginia Tech
+401030282,2018,2,Southeast Missouri State,Dayton,40,21,fcs,fcs,,,False,-19,Southeast Missouri State
+401012731,2018,2,Oregon,Portland State,62,14,fbs,fcs,,,False,-48,Oregon
+401014983,2018,2,Florida Atlantic,Air Force,33,26,fbs,fbs,1526.0,1448.0,False,-7,Florida Atlantic
+401029880,2018,2,Bucknell,Sacred Heart,14,30,fcs,fcs,,,False,16,Sacred Heart
+401030001,2018,2,Monmouth,Hampton,56,28,fcs,fcs,,,False,-28,Monmouth
+401013049,2018,2,Central Michigan,Kansas,7,31,fbs,fbs,1395.0,1158.0,False,24,Kansas
+401030390,2018,2,Montana,Drake,48,16,fcs,fcs,,,False,-32,Montana
+401030118,2018,2,South Dakota,Northern Colorado,43,28,fcs,fcs,,,False,-15,South Dakota
+401013377,2018,2,Notre Dame,Ball State,24,16,fbs,fbs,1731.0,1071.0,False,-8,Notre Dame
+401020678,2018,2,Akron,Morgan State,41,7,fbs,fcs,,,False,-34,Akron
+401013106,2018,2,Syracuse,Wagner,62,10,fbs,fcs,,,False,-52,Syracuse
+401012268,2018,2,South Carolina,Georgia,17,41,fbs,fbs,1634.0,1869.0,False,24,Georgia
+401012260,2018,2,Alabama,Arkansas State,57,7,fbs,fbs,2062.0,1564.0,False,-50,Alabama
+401019478,2018,2,Temple,Buffalo,29,36,fbs,fbs,1535.0,1372.0,False,7,Buffalo
+401020677,2018,2,Kent State,Howard,54,14,fbs,fcs,,,False,-40,Kent State
+401029896,2018,2,Delaware,Lafayette,37,0,fcs,fcs,,,False,-37,Delaware
+401012821,2018,2,Ohio State,Rutgers,52,3,fbs,fbs,1963.0,1292.0,False,-49,Ohio State
+401019479,2018,2,Navy,Memphis,22,21,fbs,fbs,1552.0,1723.0,False,-1,Navy
+401012729,2018,2,Nebraska,Colorado,28,33,fbs,fbs,1394.0,1576.0,False,5,Colorado
+401013103,2018,2,East Carolina,North Carolina,41,19,fbs,fbs,1249.0,1457.0,False,-22,East Carolina
+401012269,2018,2,Tennessee,East Tennessee State,59,3,fbs,fcs,,,False,-56,Tennessee
+401013322,2018,2,Texas Tech,Lamar,77,0,fbs,fcs,,,False,-77,Texas Tech
+401030488,2018,2,Bethune-Cookman,Virginia Lynchburg,79,16,fcs,,,,False,-63,Bethune-Cookman
+401012265,2018,2,Ole Miss,Southern Illinois,76,41,fbs,fcs,,,False,-35,Ole Miss
+401012863,2018,2,Iowa,Iowa State,13,3,fbs,fbs,1756.0,1645.0,False,-10,Iowa
+401030019,2018,2,Idaho,Western New Mexico,56,10,fcs,ii,,,False,-46,Idaho
+401012733,2018,2,Washington,North Dakota,45,3,fbs,fcs,,,False,-42,Washington
+401013358,2018,2,Georgia Southern,UMass,34,13,fbs,fbs,1364.0,1313.0,False,-21,Georgia Southern
+401029956,2018,2,Stony Brook,Bryant,50,21,fcs,fcs,,,False,-29,Stony Brook
+401029912,2018,2,Norfolk State,James Madison,0,17,fcs,fcs,,,False,17,James Madison
+401012873,2018,2,Bowling Green,Maryland,14,45,fbs,fbs,1215.0,1336.0,False,31,Maryland
+401030600,2018,2,Morehead State,Mount St. Joseph,48,19,fcs,iii,,,False,-29,Morehead State
+401029987,2018,2,North Carolina A&T,Gardner-Webb,45,6,fcs,fcs,,,False,-39,North Carolina A&T
+401030528,2018,2,North Carolina Central,St. Augustine's,51,14,fcs,ii,,,False,-37,North Carolina Central
+401030357,2018,2,Taylor,Butler,17,31,,fcs,,,False,14,Butler
+401014981,2018,2,Charlotte,Appalachian State,9,45,fbs,fbs,1136.0,1657.0,False,36,Appalachian State
+401029930,2018,2,New Hampshire,Colgate,3,10,fcs,fcs,,,False,7,Colgate
+401030249,2018,2,The Citadel,Chattanooga,28,29,fcs,fcs,,,False,1,Chattanooga
+401030258,2018,2,Wofford,VMI,59,14,fcs,fcs,,,False,-45,Wofford
+401029903,2018,2,Elon,Furman,45,7,fcs,fcs,,,False,-38,Elon
+401013326,2018,2,West Virginia,Youngstown State,52,17,fbs,fcs,,,False,-35,West Virginia
+401029951,2018,2,Richmond,Fordham,52,7,fcs,fcs,,,False,-45,Richmond
+401030276,2018,2,Mercer,Jacksonville,45,3,fcs,fcs,,,False,-42,Mercer
+401030607,2018,2,Stetson,Waldorf,63,34,fcs,,,,False,-29,Stetson
+401019481,2018,2,UCF,South Carolina State,38,0,fbs,fcs,,,False,-38,UCF
+401013102,2018,2,Miami,Savannah State,77,0,fbs,fcs,,,False,-77,Miami
+401014985,2018,2,Marshall,Eastern Kentucky,32,16,fbs,fcs,,,False,-16,Marshall
+401014986,2018,2,Middle Tennessee,UT Martin,61,37,fbs,fcs,,,False,-24,Middle Tennessee
+401012264,2018,2,LSU,Southeastern Louisiana,31,0,fbs,fcs,,,False,-31,LSU
+401030214,2018,2,Northwestern State,Grambling,34,7,fcs,fcs,,,False,-27,Northwestern State
+401030005,2018,2,Austin Peay,Presbyterian College,24,0,fcs,fcs,,,False,-24,Austin Peay
+401014989,2018,2,Southern Mississippi,Louisiana Monroe,20,21,fbs,fbs,1420.0,1289.0,False,1,Louisiana Monroe
+401030163,2018,2,Central Arkansas,Murray State,26,13,fcs,fcs,,,False,-13,Central Arkansas
+401014984,2018,2,Louisiana Tech,Southern,54,17,fbs,fcs,,,False,-37,Louisiana Tech
+401030176,2018,2,Houston Christian,McNeese,34,51,fcs,fcs,,,False,17,McNeese
+401030155,2018,2,South Dakota State,Montana State,45,14,fcs,fcs,,,False,-31,South Dakota State
+401030225,2018,2,Sam Houston State,Prairie View,41,32,fcs,fcs,,,False,-9,Sam Houston State
+401030242,2018,2,Jacksonville State,Mississippi Valley State,71,0,fcs,fcs,,,False,-71,Jacksonville State
+401021658,2018,2,Troy,Florida A&M,59,7,fbs,fcs,,,False,-52,Troy
+401012267,2018,2,Missouri,Wyoming,40,13,fbs,fbs,1612.0,1513.0,False,-27,Missouri
+401030367,2018,2,Davidson,Chowan,49,28,fcs,ii,,,False,-21,Davidson
+401030410,2018,2,Northern Arizona,Eastern Washington,26,31,fcs,fcs,,,False,5,Eastern Washington
+401030438,2018,2,Alabama A&M,North Alabama,20,25,fcs,fcs,,,False,5,North Alabama
+401030454,2018,2,Alcorn State,Louisiana College,78,0,fcs,iii,,,False,-78,Alcorn State
+401030462,2018,2,Arkansas-Pine Bluff,Cumberland,55,0,fcs,,,,False,-55,Arkansas-Pine Bluff
+401013027,2018,2,UT San Antonio,Baylor,20,37,fbs,fbs,1315.0,1433.0,False,17,Baylor
+401013101,2018,2,Louisville,Indiana State,31,7,fbs,fcs,,,False,-24,Louisville
+401021657,2018,2,Texas State,Texas Southern,36,20,fbs,fcs,,,False,-16,Texas State
+401014990,2018,2,Coastal Carolina,UAB,47,24,fbs,fbs,1253.0,1382.0,False,-23,Coastal Carolina
+401012270,2018,2,Texas A&M,Clemson,26,28,fbs,fbs,1609.0,1907.0,False,2,Clemson
+401030125,2018,2,Abilene Christian,Angelo State,41,24,fcs,ii,,,False,-17,Abilene Christian
+401013099,2018,2,Florida State,Samford,36,26,fbs,fcs,,,False,-10,Florida State
+401030069,2018,2,Illinois State,Eastern Illinois,48,10,fcs,fcs,,,False,-38,Illinois State
+401013329,2018,2,Minnesota,Fresno State,21,14,fbs,fbs,1582.0,1519.0,False,-7,Minnesota
+401014987,2018,2,North Texas,Incarnate Word,58,16,fbs,fcs,,,False,-42,North Texas
+401012805,2018,2,Illinois,Western Illinois,34,14,fbs,fcs,,,False,-20,Illinois
+401012263,2018,2,Florida,Kentucky,16,27,fbs,fbs,1531.0,1482.0,False,11,Kentucky
+401012261,2018,2,Colorado State,Arkansas,34,27,fbs,fbs,1401.0,1461.0,False,-7,Colorado State
+401012730,2018,2,Northern Illinois,Utah,6,17,fbs,fbs,1471.0,1624.0,False,11,Utah
+401014992,2018,2,Western Kentucky,Maine,28,31,fbs,fcs,,,False,3,Maine
+401014982,2018,2,Old Dominion,Florida International,20,28,fbs,fbs,1154.0,1372.0,False,8,Florida International
+401012852,2018,2,Indiana,Virginia,20,16,fbs,fbs,1564.0,1375.0,False,-4,Indiana
+401012262,2018,2,Auburn,Alabama State,63,9,fbs,fcs,,,False,-54,Auburn
+401013438,2018,2,Utah State,New Mexico State,60,13,fbs,fbs,1474.0,1221.0,False,-47,Utah State
+401012732,2018,2,Oregon State,Southern Utah,48,25,fbs,fcs,,,False,-23,Oregon State
+401019480,2018,2,Tulane,Nicholls,42,17,fbs,fcs,,,False,-25,Tulane
+401013105,2018,2,Pittsburgh,Penn State,6,51,fbs,fbs,1557.0,1918.0,False,45,Penn State
+401013490,2018,2,Oklahoma State,South Alabama,55,13,fbs,fbs,1778.0,1245.0,False,-42,Oklahoma State
+401013319,2018,2,Texas,Tulsa,28,21,fbs,fbs,1623.0,1439.0,False,-7,Texas
+401019482,2018,2,Miami (OH),Cincinnati,0,21,fbs,fbs,1379.0,1323.0,False,21,Cincinnati
+401012736,2018,2,Stanford,USC,17,3,fbs,fbs,1789.0,1730.0,False,-14,Stanford
+401022518,2018,2,San Diego State,Sacramento State,28,14,fbs,fcs,,,False,-14,San Diego State
+401014991,2018,2,UNLV,UTEP,52,24,fbs,fbs,1333.0,1085.0,False,-28,UNLV
+401030010,2018,2,Cal Poly,Weber State,17,24,fcs,fcs,,,False,7,Weber State
+401030434,2018,2,UC Davis,San Diego,54,21,fcs,fcs,,,False,-33,UC Davis
+401019483,2018,2,Boise State,Connecticut,62,7,fbs,fbs,1746.0,1189.0,False,-55,Boise State
+401012735,2018,2,BYU,California,18,21,fbs,fbs,1412.0,1560.0,False,3,California
+401012727,2018,2,Arizona State,Michigan State,16,13,fbs,fbs,1612.0,1624.0,False,-3,Arizona State
+401012734,2018,2,Washington State,San José State,31,0,fbs,fbs,1611.0,1025.0,False,-31,Washington State
+401014988,2018,2,Hawai'i,Rice,43,29,fbs,fbs,1345.0,1160.0,False,-14,Hawai'i
+401021659,2018,3,Campbell,Coastal Carolina,21,58,fcs,fbs,,,False,37,Coastal Carolina
+401014993,2018,3,Charlotte,Old Dominion,28,25,fbs,fbs,1097.0,1155.0,False,-3,Charlotte
+401029952,2018,3,St Francis (PA),Richmond,27,35,fcs,fcs,,,False,8,Richmond
+401013109,2018,3,Wake Forest,Boston College,34,41,fbs,fbs,1588.0,1675.0,False,7,Boston College
+401030368,2018,3,Davidson,Guilford,91,61,fcs,iii,,,False,-30,Davidson
+401029913,2018,3,James Madison,Robert Morris,73,7,fcs,fcs,,,False,-66,James Madison
+401022519,2018,3,Utah State,Tennessee Tech,73,12,fbs,fcs,,,False,-61,Utah State
+401030259,2018,3,VMI,East Tennessee State,24,27,fcs,fcs,,,False,3,East Tennessee State
+401029988,2018,3,Gardner-Webb,Western Carolina,10,28,fcs,fcs,,,False,18,Western Carolina
+401019484,2018,3,Memphis,Georgia State,59,22,fbs,fbs,1717.0,1268.0,False,-37,Memphis
+401029826,2018,3,Cal Poly,Brown,44,15,fcs,fcs,,,False,-29,Cal Poly
+401013110,2018,3,Clemson,Georgia Southern,38,7,fbs,fbs,1894.0,1408.0,False,-31,Clemson
+401012276,2018,3,Kentucky,Murray State,48,10,fbs,fcs,,,False,-38,Kentucky
+401012853,2018,3,Indiana,Ball State,38,10,fbs,fbs,1562.0,1095.0,False,-28,Indiana
+401013039,2018,3,Iowa State,Oklahoma,27,37,fbs,fbs,1636.0,2004.0,False,10,Oklahoma
+401013350,2018,3,Penn State,Kent State,63,10,fbs,fbs,2005.0,1129.0,False,-53,Penn State
+401012275,2018,3,Georgia,Middle Tennessee,49,7,fbs,fbs,1906.0,1347.0,False,-42,Georgia
+401030553,2018,3,Duquesne,Dayton,31,26,fcs,fcs,,,False,-5,Duquesne
+401029861,2018,3,Harvard,San Diego,36,14,fcs,fcs,,,False,-22,Harvard
+401013337,2018,3,Nebraska,Troy,19,24,fbs,fbs,1398.0,1496.0,False,5,Troy
+401012822,2018,3,Kansas,Rutgers,55,14,fbs,fbs,1252.0,1233.0,False,-41,Kansas
+401013114,2018,3,Toledo,Miami,24,49,fbs,fbs,1564.0,1658.0,False,25,Miami
+401012281,2018,3,Tennessee,UTEP,24,0,fbs,fbs,1367.0,1040.0,False,-24,Tennessee
+401013111,2018,3,Syracuse,Florida State,30,7,fbs,fbs,1392.0,1604.0,False,-23,Syracuse
+401013368,2018,3,Army,Hawai'i,28,21,fbs,fbs,1550.0,1358.0,False,-7,Army
+401012874,2018,3,Maryland,Temple,14,35,fbs,fbs,1408.0,1508.0,False,21,Temple
+401019486,2018,3,Connecticut,Rhode Island,56,49,fbs,fcs,,,False,-7,Connecticut
+401013112,2018,3,Pittsburgh,Georgia Tech,24,19,fbs,fbs,1470.0,1544.0,False,-5,Pittsburgh
+401014996,2018,3,UAB,Tulane,31,24,fbs,fbs,1311.0,1393.0,False,-7,UAB
+401029876,2018,3,Holy Cross,Yale,31,28,fcs,fcs,,,False,-3,Holy Cross
+401029853,2018,3,Dartmouth,Georgetown,41,0,fcs,fcs,,,False,-41,Dartmouth
+401030582,2018,3,Drake,Missouri S&T,52,12,fcs,ii,,,False,-40,Drake
+401030184,2018,3,Youngstown State,Valparaiso,42,7,fcs,fcs,,,False,-35,Youngstown State
+401012747,2018,3,Stanford,UC Davis,30,10,fbs,fcs,,,False,-20,Stanford
+401012283,2018,3,Notre Dame,Vanderbilt,22,17,fbs,fbs,1707.0,1560.0,False,-5,Notre Dame
+401030397,2018,3,Montana State,Wagner,47,24,fcs,fcs,,,False,-23,Montana State
+401029867,2018,3,Pennsylvania,Bucknell,34,17,fcs,fcs,,,False,-17,Pennsylvania
+401030277,2018,3,Samford,Mercer,24,30,fcs,fcs,,,False,6,Mercer
+401030107,2018,3,Missouri State,Northern Arizona,40,8,fcs,fcs,,,False,-32,Missouri State
+401013356,2018,3,Wisconsin,BYU,21,24,fbs,fbs,1902.0,1416.0,False,3,BYU
+401029745,2018,3,North Dakota State,North Alabama,38,7,fcs,fcs,,,False,-31,North Dakota State
+401029845,2018,3,Delaware,Cornell,27,10,fcs,fcs,,,False,-17,Delaware
+401029962,2018,3,Villanova,Towson,35,45,fcs,fcs,,,False,10,Towson
+401013491,2018,3,Oklahoma State,Boise State,44,21,fbs,fbs,1832.0,1837.0,False,-23,Oklahoma State
+401012273,2018,3,Auburn,LSU,21,22,fbs,fbs,1840.0,1774.0,False,1,LSU
+401013028,2018,3,Baylor,Duke,27,40,fbs,fbs,1462.0,1671.0,False,13,Duke
+401012806,2018,3,Illinois,South Florida,19,25,fbs,fbs,1305.0,1665.0,True,6,South Florida
+401013330,2018,3,Minnesota,Miami (OH),26,3,fbs,fbs,1588.0,1319.0,False,-23,Minnesota
+401020679,2018,3,Northern Illinois,Central Michigan,24,16,fbs,fbs,1461.0,1301.0,False,-8,Northern Illinois
+401019487,2018,3,Navy,Lehigh,51,21,fbs,fcs,,,False,-30,Navy
+401012890,2018,3,Michigan,SMU,45,20,fbs,fbs,1804.0,1289.0,False,-25,Michigan
+401030416,2018,3,Northern Colorado,Sacramento State,25,28,fcs,fcs,,,False,3,Sacramento State
+401012272,2018,3,Arkansas,North Texas,17,44,fbs,fbs,1448.0,1397.0,False,27,North Texas
+401030250,2018,3,UT Martin,Chattanooga,24,34,fcs,fcs,,,False,10,Chattanooga
+401013058,2018,3,Kansas State,UT San Antonio,41,17,fbs,fbs,1582.0,1286.0,False,-24,Kansas State
+401022520,2018,3,Wyoming,Wofford,17,14,fbs,fcs,,,False,-3,Wyoming
+401012274,2018,3,Florida,Colorado State,48,10,fbs,fbs,1503.0,1414.0,False,-38,Florida
+401030173,2018,3,Western Illinois,Montana,31,27,fcs,fcs,,,False,-4,Western Illinois
+401020681,2018,3,Bowling Green,Eastern Kentucky,42,35,fbs,fcs,,,False,-7,Bowling Green
+401013323,2018,3,Texas Tech,Houston,63,49,fbs,fbs,1477.0,1637.0,False,-14,Texas Tech
+401013117,2018,3,Virginia,Ohio,45,31,fbs,fbs,1377.0,1606.0,False,-14,Virginia
+401012741,2018,3,Colorado,New Hampshire,45,14,fbs,fcs,,,False,-31,Colorado
+401030473,2018,3,Florida A&M,Jackson State,16,18,fcs,fcs,,,False,2,Jackson State
+401029995,2018,3,Kennesaw State,Alabama State,62,13,fcs,fcs,,,False,-49,Kennesaw State
+401029836,2018,3,Central Connecticut,Columbia,24,41,fcs,fcs,,,False,17,Columbia
+401012743,2018,3,Oregon,San José State,35,22,fbs,fbs,1665.0,1007.0,False,-13,Oregon
+401030423,2018,3,Portland State,College of Idaho,63,14,fcs,,,,False,-49,Portland State
+401029957,2018,3,Fordham,Stony Brook,6,28,fcs,fcs,,,False,22,Stony Brook
+401014994,2018,3,Florida Atlantic,Bethune-Cookman,49,28,fbs,fcs,,,False,-21,Florida Atlantic
+401020682,2018,3,Buffalo,Eastern Michigan,35,28,fbs,fbs,1399.0,1439.0,False,-7,Buffalo
+401030537,2018,3,Bryant,Marist,37,27,fcs,fcs,,,False,-10,Bryant
+401030199,2018,3,Morehead State,Austin Peay,40,78,fcs,fcs,,,False,38,Austin Peay
+401030002,2018,3,Lafayette,Monmouth,20,24,fcs,fcs,,,False,4,Monmouth
+401029872,2018,3,Butler,Princeton,7,50,fcs,fcs,,,False,43,Princeton
+401012746,2018,3,California,Idaho State,45,23,fbs,fcs,,,False,-22,California
+401030126,2018,3,Houston Christian,Abilene Christian,13,38,fcs,fcs,,,False,25,Abilene Christian
+401029806,2018,3,Albany,Morgan State,30,27,fcs,fcs,,,False,-3,Albany
+401019488,2018,3,Tulsa,Arkansas State,20,29,fbs,fbs,1439.0,1481.0,False,9,Arkansas State
+401030185,2018,3,Incarnate Word,Stephen F. Austin,31,7,fcs,fcs,,,False,-24,Incarnate Word
+401030193,2018,3,Lamar,Northwestern State,48,49,fcs,fcs,,,False,1,Northwestern State
+401030209,2018,3,McNeese,Nicholls,20,10,fcs,fcs,,,False,-10,McNeese
+401030226,2018,3,Sam Houston State,North Dakota,23,24,fcs,fcs,,,False,1,North Dakota
+401030455,2018,3,Alcorn State,Texas Southern,27,15,fcs,fcs,,,False,-12,Alcorn State
+401030482,2018,3,Southern,Langston,33,18,fcs,,,,False,-15,Southern
+401021660,2018,3,South Alabama,Texas State,41,31,fbs,fbs,1191.0,1070.0,False,-10,South Alabama
+401020680,2018,3,Western Michigan,Delaware State,68,0,fbs,fcs,,,False,-68,Western Michigan
+401012277,2018,3,Ole Miss,Alabama,7,62,fbs,fbs,1574.0,2145.0,False,55,Alabama
+401012744,2018,3,Nevada,Oregon State,37,35,fbs,fbs,1319.0,1181.0,False,-2,Nevada
+401019485,2018,3,Cincinnati,Alabama A&M,63,7,fbs,fcs,,,False,-56,Cincinnati
+401030160,2018,3,Southern Illinois,Southeast Missouri State,44,48,fcs,fcs,,,False,4,Southeast Missouri State
+401030156,2018,3,South Dakota State,Arkansas-Pine Bluff,90,6,fcs,fcs,,,False,-84,South Dakota State
+401030098,2018,3,Eastern Illinois,Indiana State,41,55,fcs,fcs,,,False,14,Indiana State
+401012279,2018,3,Purdue,Missouri,37,40,fbs,fbs,1550.0,1670.0,False,3,Missouri
+401013343,2018,3,Northwestern,Akron,34,39,fbs,fbs,1651.0,1277.0,False,5,Akron
+401013113,2018,3,Louisville,Western Kentucky,20,17,fbs,fbs,1625.0,1401.0,False,-3,Louisville
+401012864,2018,3,Iowa,Northern Iowa,38,14,fbs,fcs,,,False,-24,Iowa
+401013359,2018,3,Florida International,UMass,63,24,fbs,fbs,1371.0,1269.0,False,-39,Florida International
+401012278,2018,3,Mississippi State,Louisiana,56,10,fbs,fbs,1739.0,1231.0,False,-46,Mississippi State
+401012282,2018,3,Texas A&M,Louisiana Monroe,48,10,fbs,fbs,1622.0,1297.0,False,-38,Texas A&M
+401012739,2018,3,Texas,USC,37,14,fbs,fbs,1623.0,1707.0,False,-23,Texas
+401013074,2018,3,TCU,Ohio State,28,40,fbs,fbs,1748.0,2022.0,True,12,Ohio State
+401030119,2018,3,Weber State,South Dakota,27,10,fcs,fcs,,,False,-17,Weber State
+401030164,2018,3,Southeastern Louisiana,Central Arkansas,25,33,fcs,fcs,,,False,8,Central Arkansas
+401013439,2018,3,New Mexico State,New Mexico,25,42,fbs,fbs,1115.0,1257.0,False,17,New Mexico
+401012745,2018,3,Washington State,Eastern Washington,59,24,fbs,fcs,,,False,-35,Washington State
+401022521,2018,3,UNLV,Prairie View,46,17,fbs,fcs,,,False,-29,UNLV
+401012742,2018,3,Utah,Washington,7,21,fbs,fbs,1634.0,1828.0,False,14,Washington
+401012738,2018,3,San Diego State,Arizona State,28,21,fbs,fbs,1552.0,1613.0,False,-7,San Diego State
+401012740,2018,3,UCLA,Fresno State,14,38,fbs,fbs,1424.0,1513.0,False,24,Fresno State
+401012737,2018,3,Arizona,Southern Utah,62,31,fbs,fcs,,,False,-31,Arizona
+401019489,2018,4,Temple,Tulsa,31,17,fbs,fbs,1550.0,1424.0,False,-14,Temple
+401019490,2018,4,UCF,Florida Atlantic,56,36,fbs,fbs,1780.0,1531.0,False,-20,UCF
+401029827,2018,4,Brown,Harvard,17,31,fcs,fcs,,,False,14,Harvard
+401012807,2018,4,Illinois,Penn State,24,63,fbs,fbs,1321.0,2051.0,False,39,Penn State
+401012748,2018,4,USC,Washington State,39,36,fbs,fbs,1641.0,1629.0,False,-3,USC
+401012891,2018,4,Michigan,Nebraska,56,10,fbs,fbs,1814.0,1396.0,False,-46,Michigan
+401012289,2018,4,Missouri,Georgia,29,43,fbs,fbs,1667.0,1957.0,False,14,Georgia
+401012875,2018,4,Maryland,Minnesota,42,13,fbs,fbs,1366.0,1616.0,False,-29,Maryland
+401013119,2018,4,Purdue,Boston College,30,13,fbs,fbs,1553.0,1681.0,False,-17,Purdue
+401012288,2018,4,Ole Miss,Kent State,38,17,fbs,fbs,1482.0,1083.0,False,-21,Ole Miss
+401013129,2018,4,Wake Forest,Notre Dame,27,56,fbs,fbs,1582.0,1706.0,False,29,Notre Dame
+401013040,2018,4,Iowa State,Akron,26,13,fbs,fbs,1645.0,1315.0,False,-13,Iowa State
+401019491,2018,4,Cincinnati,Ohio,34,30,fbs,fbs,1383.0,1556.0,False,-4,Cincinnati
+401019495,2018,4,SMU,Navy,31,30,fbs,fbs,1279.0,1558.0,False,-1,SMU
+401012823,2018,4,Rutgers,Buffalo,13,42,fbs,fbs,1115.0,1411.0,False,29,Buffalo
+401020685,2018,4,Toledo,Nevada,63,44,fbs,fbs,1508.0,1318.0,False,-19,Toledo
+401013125,2018,4,North Carolina,Pittsburgh,38,35,fbs,fbs,1380.0,1478.0,False,-3,North Carolina
+401013123,2018,4,Virginia,Louisville,27,3,fbs,fbs,1427.0,1623.0,False,-24,Virginia
+401030369,2018,4,Dayton,Davidson,42,21,fcs,fcs,,,False,-21,Dayton
+401030538,2018,4,Bryant,Robert Morris,49,46,fcs,fcs,,,False,-3,Bryant
+401030596,2018,4,Stetson,Marist,19,14,fcs,fcs,,,False,-5,Stetson
+401029935,2018,4,Colgate,Lafayette,45,0,fcs,fcs,,,False,-45,Colgate
+401030341,2018,4,Fordham,Central Connecticut,13,24,fcs,fcs,,,False,11,Central Connecticut
+401029854,2018,4,Holy Cross,Dartmouth,14,34,fcs,fcs,,,False,20,Dartmouth
+401020686,2018,4,Georgia State,Western Michigan,15,34,fbs,fbs,1219.0,1391.0,False,19,Western Michigan
+401030609,2018,4,Valparaiso,Truman State,20,34,fcs,ii,,,False,14,Truman State
+401029837,2018,4,Georgetown,Columbia,15,23,fcs,fcs,,,False,8,Columbia
+401029746,2018,4,North Dakota State,Delaware,38,10,fcs,fcs,,,False,-28,North Dakota State
+401030489,2018,4,Bethune-Cookman,Howard,35,41,fcs,fcs,,,True,6,Howard
+401030391,2018,4,Montana,Sacramento State,41,34,fcs,fcs,,,False,-7,Montana
+401022523,2018,4,Colorado State,Illinois State,19,35,fbs,fcs,,,False,16,Illinois State
+401030200,2018,4,UT Martin,Austin Peay,37,7,fcs,fcs,,,False,-30,UT Martin
+401029868,2018,4,Pennsylvania,Lehigh,30,10,fcs,fcs,,,False,-20,Pennsylvania
+401029846,2018,4,Cornell,Yale,24,30,fcs,fcs,,,False,6,Yale
+401030227,2018,4,Eastern Illinois,Tennessee State,40,41,fcs,fcs,,,False,1,Tennessee State
+401020811,2018,4,Bowling Green,Miami (OH),23,38,fbs,fbs,1143.0,1291.0,False,15,Miami (OH)
+401020684,2018,4,Central Michigan,Maine,17,5,fbs,fcs,,,False,-12,Central Michigan
+401015000,2018,4,Ball State,Western Kentucky,20,28,fbs,fbs,1073.0,1403.0,False,8,Western Kentucky
+401029914,2018,4,James Madison,William & Mary,51,0,fcs,fcs,,,False,-51,James Madison
+401013360,2018,4,UMass,Charlotte,49,31,fbs,fbs,1170.0,1099.0,False,-18,UMass
+401021661,2018,4,Appalachian State,Gardner-Webb,72,7,fbs,fcs,,,False,-65,Appalachian State
+401013120,2018,4,Georgia Tech,Clemson,21,49,fbs,fbs,1536.0,1922.0,False,28,Clemson
+401030260,2018,4,Western Carolina,VMI,52,50,fcs,fcs,,,False,-2,Western Carolina
+401013128,2018,4,Old Dominion,Virginia Tech,49,35,fbs,fbs,1153.0,1775.0,False,-14,Old Dominion
+401013121,2018,4,Duke,North Carolina Central,55,13,fbs,fcs,,,False,-42,Duke
+401013124,2018,4,Miami,Florida International,31,17,fbs,fbs,1714.0,1470.0,False,-14,Miami
+401013059,2018,4,West Virginia,Kansas State,35,6,fbs,fbs,1612.0,1610.0,False,-29,West Virginia
+401013122,2018,4,Florida State,Northern Illinois,37,19,fbs,fbs,1522.0,1463.0,False,-18,Florida State
+401012284,2018,4,Alabama,Texas A&M,45,23,fbs,fbs,2237.0,1689.0,False,-22,Alabama
+401013346,2018,4,Ohio State,Tulane,49,6,fbs,fbs,2019.0,1379.0,False,-43,Ohio State
+401013029,2018,4,Baylor,Kansas,26,7,fbs,fbs,1452.0,1370.0,False,-19,Baylor
+401030267,2018,4,Mercer,The Citadel,31,38,fcs,fcs,,,False,7,The Citadel
+401012291,2018,4,Vanderbilt,South Carolina,14,37,fbs,fbs,1561.0,1597.0,False,23,South Carolina
+401013127,2018,4,Syracuse,Connecticut,51,21,fbs,fbs,1474.0,1098.0,False,-30,Syracuse
+401030235,2018,4,Eastern Kentucky,Southeast Missouri State,23,14,fcs,fcs,,,False,-9,Eastern Kentucky
+401012750,2018,4,Oregon State,Arizona,14,35,fbs,fbs,1182.0,1436.0,False,21,Arizona
+401030011,2018,4,Eastern Washington,Cal Poly,70,17,fcs,fcs,,,False,-53,Eastern Washington
+401013075,2018,4,Texas,TCU,31,16,fbs,fbs,1689.0,1751.0,False,-15,Texas
+401029873,2018,4,Princeton,Monmouth,51,9,fcs,fcs,,,False,-42,Princeton
+401030324,2018,4,North Dakota,Idaho State,21,25,fcs,fcs,,,False,4,Idaho State
+401030113,2018,4,Northern Iowa,Hampton,44,0,fcs,fcs,,,False,-44,Northern Iowa
+401030439,2018,4,Alabama A&M,Southern,27,29,fcs,fcs,,,False,2,Southern
+401030398,2018,4,Portland State,Montana State,23,43,fcs,fcs,,,False,20,Montana State
+401030222,2018,4,Nicholls,Sam Houston State,27,7,fcs,fcs,,,False,-20,Nicholls
+401013450,2018,4,Liberty,North Texas,7,47,fbs,fbs,1474.0,1477.0,False,40,North Texas
+401029881,2018,4,Villanova,Bucknell,49,7,fcs,fcs,,,False,-42,Villanova
+401029905,2018,4,Charleston Southern,Elon,22,31,fcs,fcs,,,False,9,Elon
+401029953,2018,4,Stony Brook,Richmond,36,10,fcs,fcs,,,False,-26,Stony Brook
+401029970,2018,4,Campbell,Shaw,42,0,fcs,ii,,,False,-42,Campbell
+401029996,2018,4,Kennesaw State,Clark Atlanta,70,13,fcs,ii,,,False,-57,Kennesaw State
+401030507,2018,4,Florida A&M,Savannah State,31,13,fcs,fcs,,,False,-18,Florida A&M
+401030514,2018,4,North Carolina A&T,Morgan State,13,16,fcs,fcs,,,False,3,Morgan State
+401030563,2018,4,Wagner,Sacred Heart,14,41,fcs,fcs,,,False,27,Sacred Heart
+401030520,2018,4,South Carolina State,Norfolk State,7,17,fcs,fcs,,,False,10,Norfolk State
+401016406,2018,4,BYU,McNeese,30,3,fbs,fcs,,,False,-27,BYU
+401030127,2018,4,Stephen F. Austin,Abilene Christian,24,21,fcs,fcs,,,False,-3,Stephen F. Austin
+401030194,2018,4,Lamar,Southeastern Louisiana,24,30,fcs,fcs,,,False,6,Southeastern Louisiana
+401030243,2018,4,Jacksonville State,Tennessee Tech,48,20,fcs,fcs,,,False,-28,Jacksonville State
+401030251,2018,4,Chattanooga,Samford,27,20,fcs,fcs,,,False,-7,Chattanooga
+401013324,2018,4,Oklahoma State,Texas Tech,17,41,fbs,fbs,1889.0,1520.0,False,24,Texas Tech
+401012286,2018,4,Kentucky,Mississippi State,28,7,fbs,fbs,1510.0,1808.0,False,-21,Kentucky
+401012290,2018,4,Tennessee,Florida,21,47,fbs,fbs,1392.0,1600.0,False,26,Florida
+401013126,2018,4,Marshall,NC State,20,37,fbs,fbs,1482.0,1695.0,False,17,NC State
+401014999,2018,4,UT San Antonio,Texas State,25,21,fbs,fbs,1258.0,1061.0,False,-4,UT San Antonio
+401021662,2018,4,Arkansas State,UNLV,27,20,fbs,fbs,1496.0,1378.0,False,-7,Arkansas State
+401012287,2018,4,LSU,Louisiana Tech,38,21,fbs,fbs,1778.0,1525.0,False,-17,LSU
+401013066,2018,4,Oklahoma,Army,28,21,fbs,fbs,1995.0,1549.0,False,-7,Oklahoma
+401021663,2018,4,Louisiana,Coastal Carolina,28,30,fbs,fbs,1162.0,1324.0,False,2,Coastal Carolina
+401029807,2018,4,Albany,St Francis (PA),35,28,fcs,fcs,,,False,-7,Albany
+401021664,2018,4,Louisiana Monroe,Troy,27,35,fbs,fbs,1230.0,1498.0,False,8,Troy
+401030411,2018,4,Northern Arizona,Southern Utah,31,23,fcs,fcs,,,False,-8,Northern Arizona
+401030007,2018,4,Presbyterian College,Bluefield College,41,10,fcs,,,,False,-31,Presbyterian College
+401014998,2018,4,Southern Mississippi,Rice,40,22,fbs,fbs,1412.0,1147.0,False,-18,Southern Mississippi
+401030020,2018,4,UC Davis,Idaho,44,21,fcs,fcs,,,False,-23,UC Davis
+401030448,2018,4,Grambling,Alabama State,34,0,fcs,fcs,,,False,-34,Grambling
+401030568,2018,4,North Alabama,Azusa Pacific,37,35,fcs,ii,,,False,-2,North Alabama
+401030463,2018,4,Arkansas-Pine Bluff,Prairie View,13,62,fcs,fcs,,,False,49,Prairie View
+401030456,2018,4,Mississippi Valley State,Alcorn State,20,56,fcs,fcs,,,False,36,Alcorn State
+401030311,2018,4,East Tennessee State,Furman,29,27,fcs,fcs,,,False,-2,East Tennessee State
+401013440,2018,4,UTEP,New Mexico State,20,27,fbs,fbs,1015.0,1089.0,False,7,New Mexico State
+401012285,2018,4,Auburn,Arkansas,34,3,fbs,fbs,1836.0,1368.0,False,-31,Auburn
+401012854,2018,4,Indiana,Michigan State,21,35,fbs,fbs,1584.0,1623.0,False,14,Michigan State
+401012749,2018,4,Oregon,Stanford,31,38,fbs,fbs,1643.0,1812.0,False,7,Stanford
+401019493,2018,4,Houston,Texas Southern,70,14,fbs,fcs,,,False,-56,Houston
+401019492,2018,4,South Florida,East Carolina,20,13,fbs,fbs,1649.0,1326.0,False,-7,South Florida
+401019494,2018,4,Memphis,South Alabama,52,35,fbs,fbs,1766.0,1200.0,False,-17,Memphis
+401030417,2018,4,Weber State,Northern Colorado,45,28,fcs,fcs,,,False,-17,Weber State
+401012865,2018,4,Iowa,Wisconsin,17,28,fbs,fbs,1765.0,1864.0,False,11,Wisconsin
+401022522,2018,4,Utah State,Air Force,42,32,fbs,fbs,1580.0,1443.0,False,-10,Utah State
+401020683,2018,4,San Diego State,Eastern Michigan,23,20,fbs,fbs,1565.0,1427.0,False,-3,San Diego State
+401012751,2018,4,Washington,Arizona State,27,20,fbs,fbs,1842.0,1600.0,False,-7,Washington
+401022524,2018,4,Hawai'i,Duquesne,42,21,fbs,fcs,,,False,-21,Hawai'i
+401030525,2018,5,North Carolina A&T,South Carolina State,31,16,fcs,fcs,,,False,-15,North Carolina A&T
+401083849,2018,5,Presbyterian College,Lindsey Wilson,10,0,fcs,,,,False,-10,Presbyterian College
+401030099,2018,5,Indiana State,Northern Iowa,0,33,fcs,fcs,,,False,33,Northern Iowa
+401013466,2018,5,Miami,North Carolina,47,10,fbs,fbs,1722.0,1382.0,False,-37,Miami
+401029838,2018,5,Columbia,Princeton,10,45,fcs,fcs,,,False,35,Princeton
+401029927,2018,5,Harvard,Rhode Island,16,23,fcs,fcs,,,False,7,Rhode Island
+401019496,2018,5,Tulane,Memphis,40,24,fbs,fbs,1334.0,1755.0,False,-16,Tulane
+401012752,2018,5,Colorado,UCLA,38,16,fbs,fbs,1572.0,1371.0,False,-22,Colorado
+401013325,2018,5,Texas Tech,West Virginia,34,42,fbs,fbs,1633.0,1689.0,False,8,West Virginia
+401012881,2018,5,Michigan State,Central Michigan,31,20,fbs,fbs,1651.0,1299.0,False,-11,Michigan State
+401012824,2018,5,Rutgers,Indiana,17,24,fbs,fbs,1071.0,1556.0,False,7,Indiana
+401013050,2018,5,Kansas,Oklahoma State,28,48,fbs,fbs,1335.0,1776.0,False,20,Oklahoma State
+401013130,2018,5,Boston College,Temple,45,35,fbs,fbs,1631.0,1568.0,False,-10,Boston College
+401013134,2018,5,Georgia Tech,Bowling Green,63,17,fbs,fbs,1504.0,1123.0,False,-46,Georgia Tech
+401012292,2018,5,Alabama,Louisiana,56,14,fbs,fbs,2237.0,1168.0,False,-42,Alabama
+401013131,2018,5,Clemson,Syracuse,27,23,fbs,fbs,1954.0,1511.0,False,-4,Clemson
+401012293,2018,5,Texas A&M,Arkansas,24,17,fbs,fbs,1689.0,1338.0,True,-7,Texas A&M
+401013369,2018,5,Buffalo,Army,13,42,fbs,fbs,1455.0,1562.0,False,29,Army
+401013135,2018,5,NC State,Virginia,35,21,fbs,fbs,1714.0,1510.0,False,-14,NC State
+401030583,2018,5,Jacksonville,Drake,9,41,fcs,fcs,,,False,32,Drake
+401030003,2018,5,Monmouth,Wagner,54,47,fcs,fcs,,,False,-7,Monmouth
+401030358,2018,5,Butler,Morehead State,24,21,fcs,fcs,,,False,-3,Butler
+401029877,2018,5,Yale,Maine,35,14,fcs,fcs,,,False,-21,Yale
+401029828,2018,5,Brown,Georgetown,35,7,fcs,fcs,,,False,-28,Brown
+401030575,2018,5,Marist,Dayton,28,17,fcs,fcs,,,False,-11,Marist
+401029882,2018,5,Holy Cross,Bucknell,16,19,fcs,fcs,,,False,3,Bucknell
+401029855,2018,5,Dartmouth,Pennsylvania,37,14,fcs,fcs,,,False,-23,Dartmouth
+401029847,2018,5,Cornell,Sacred Heart,43,24,fcs,fcs,,,False,-19,Cornell
+401029906,2018,5,Elon,New Hampshire,30,9,fcs,fcs,,,False,-21,Elon
+401030261,2018,5,VMI,Mercer,38,48,fcs,fcs,,,False,10,Mercer
+401029979,2018,5,Hampton,Charleston Southern,14,48,fcs,fcs,,,False,34,Charleston Southern
+401030403,2018,5,Northern Colorado,North Dakota,13,38,fcs,fcs,,,False,25,North Dakota
+401030370,2018,5,Valparaiso,Davidson,35,40,fcs,fcs,,,False,5,Davidson
+401030315,2018,5,Furman,Western Carolina,44,38,fcs,fcs,,,False,-6,Furman
+401021668,2018,5,Georgia State,Louisiana Monroe,46,14,fbs,fbs,1190.0,1235.0,False,-32,Georgia State
+401013361,2018,5,Ohio,UMass,58,42,fbs,fbs,1548.0,1203.0,False,-16,Ohio
+401020687,2018,5,Ball State,Kent State,52,24,fbs,fbs,1082.0,1072.0,False,-28,Ball State
+401030399,2018,5,Montana State,Eastern Washington,17,34,fcs,fcs,,,False,17,Eastern Washington
+401029915,2018,5,Richmond,James Madison,10,63,fcs,fcs,,,False,53,James Madison
+401030090,2018,5,Missouri State,Illinois State,24,21,fcs,fcs,,,False,-3,Missouri State
+401013060,2018,5,Kansas State,Texas,14,19,fbs,fbs,1533.0,1726.0,False,5,Texas
+401013136,2018,5,UCF,Pittsburgh,45,14,fbs,fbs,1802.0,1476.0,False,-31,UCF
+401029747,2018,5,North Dakota State,South Dakota State,21,17,fcs,fcs,,,False,-4,North Dakota State
+401019497,2018,5,Connecticut,Cincinnati,7,49,fbs,fbs,1061.0,1391.0,False,42,Cincinnati
+401013030,2018,5,Oklahoma,Baylor,66,33,fbs,fbs,1982.0,1487.0,False,-33,Oklahoma
+401013133,2018,5,Louisville,Florida State,24,28,fbs,fbs,1540.0,1557.0,False,4,Florida State
+401012295,2018,5,Georgia,Tennessee,38,12,fbs,fbs,1962.0,1346.0,False,-26,Georgia
+401030195,2018,5,Nicholls,Lamar,50,27,fcs,fcs,,,False,-23,Nicholls
+401013137,2018,5,Wake Forest,Rice,56,24,fbs,fbs,1517.0,1131.0,False,-32,Wake Forest
+401015006,2018,5,East Carolina,Old Dominion,37,35,fbs,fbs,1333.0,1246.0,False,-2,East Carolina
+401013338,2018,5,Nebraska,Purdue,28,42,fbs,fbs,1316.0,1603.0,False,14,Purdue
+401021667,2018,5,Troy,Coastal Carolina,45,21,fbs,fbs,1493.0,1318.0,False,-24,Troy
+401021665,2018,5,Appalachian State,South Alabama,52,7,fbs,fbs,1696.0,1211.0,False,-45,Appalachian State
+401020750,2018,5,Miami (OH),Western Michigan,39,40,fbs,fbs,1311.0,1420.0,False,1,Western Michigan
+401029963,2018,5,Towson,The Citadel,44,27,fcs,fcs,,,False,-17,Towson
+401030508,2018,5,North Carolina Central,Florida A&M,14,55,fcs,fcs,,,False,41,Florida A&M
+401012299,2018,5,Vanderbilt,Tennessee State,31,27,fbs,fcs,,,False,-4,Vanderbilt
+401030498,2018,5,Norfolk State,Delaware State,54,28,fcs,fcs,,,False,-26,Norfolk State
+401030201,2018,5,Jacksonville State,Austin Peay,48,32,fcs,fcs,,,False,-16,Jacksonville State
+401030174,2018,5,Western Illinois,Youngstown State,45,38,fcs,fcs,,,False,-7,Western Illinois
+401030165,2018,5,Sam Houston State,Central Arkansas,34,31,fcs,fcs,,,False,-3,Sam Houston State
+401030565,2018,5,St Francis (PA),WV Wesleyan,59,3,fcs,ii,,,False,-56,St Francis (PA)
+401022525,2018,5,Air Force,Nevada,25,28,fbs,fbs,1436.0,1293.0,False,3,Nevada
+401012294,2018,5,Auburn,Southern Mississippi,24,13,fbs,fbs,1866.0,1428.0,False,-11,Auburn
+401030325,2018,5,Idaho State,Northern Arizona,56,42,fcs,fcs,,,False,-14,Idaho State
+401012892,2018,5,Northwestern,Michigan,17,20,fbs,fbs,1613.0,1894.0,False,3,Michigan
+401030605,2018,5,San Diego,Stetson,49,10,fcs,fcs,,,False,-39,San Diego
+401030021,2018,5,Idaho,Portland State,20,7,fcs,fcs,,,False,-13,Idaho
+401030469,2018,5,Grambling,Prairie View,16,22,fcs,fcs,,,False,6,Prairie View
+401030440,2018,5,Jackson State,Alabama A&M,16,21,fcs,fcs,,,False,5,Alabama A&M
+401029971,2018,5,Campbell,North Alabama,30,7,fcs,fcs,,,False,-23,Campbell
+401030490,2018,5,Savannah State,Bethune-Cookman,20,35,fcs,fcs,,,False,15,Bethune-Cookman
+401030352,2018,5,Lafayette,Central Connecticut,31,24,fcs,fcs,,,False,-7,Lafayette
+401029997,2018,5,Kennesaw State,Samford,24,10,fcs,fcs,,,False,-14,Kennesaw State
+401029989,2018,5,Gardner-Webb,Wofford,14,45,fcs,fcs,,,False,31,Wofford
+401029936,2018,5,William & Mary,Colgate,0,23,fcs,fcs,,,False,23,Colgate
+401029958,2018,5,Stony Brook,Villanova,29,27,fcs,fcs,,,False,-2,Stony Brook
+401020688,2018,5,Eastern Michigan,Northern Illinois,23,26,fbs,fbs,1428.0,1428.0,False,3,Northern Illinois
+401012298,2018,5,Mississippi State,Florida,6,13,fbs,fbs,1723.0,1646.0,False,7,Florida
+401012756,2018,5,Washington State,Utah,28,24,fbs,fbs,1628.0,1620.0,False,-4,Washington State
+401021666,2018,5,Georgia Southern,Arkansas State,28,21,fbs,fbs,1380.0,1499.0,False,-7,Georgia Southern
+401013451,2018,5,New Mexico,Liberty,43,52,fbs,fbs,1283.0,1354.0,False,9,Liberty
+401022527,2018,5,San José State,Hawai'i,41,44,fbs,fbs,1029.0,1359.0,False,3,Hawai'i
+401019498,2018,5,SMU,Houston Christian,63,27,fbs,fcs,,,False,-36,SMU
+401015001,2018,5,UAB,Charlotte,28,7,fbs,fbs,1325.0,1066.0,False,-21,UAB
+401022526,2018,5,Wyoming,Boise State,14,34,fbs,fbs,1455.0,1780.0,False,20,Boise State
+401015003,2018,5,Middle Tennessee,Florida Atlantic,25,24,fbs,fbs,1296.0,1509.0,False,-1,Middle Tennessee
+401013041,2018,5,TCU,Iowa State,17,14,fbs,fbs,1714.0,1645.0,False,-3,TCU
+401030228,2018,5,Tennessee Tech,Eastern Illinois,38,52,fcs,fcs,,,False,14,Eastern Illinois
+401030272,2018,5,Murray State,UT Martin,45,38,fcs,fcs,,,False,-7,Murray State
+401030120,2018,5,Southern Illinois,South Dakota,24,31,fcs,fcs,,,False,7,South Dakota
+401030457,2018,5,Southern,Alcorn State,3,20,fcs,fcs,,,False,17,Alcorn State
+401013132,2018,5,Duke,Virginia Tech,14,31,fbs,fbs,1681.0,1682.0,False,17,Virginia Tech
+401030128,2018,5,Abilene Christian,Incarnate Word,34,44,fcs,fcs,,,False,10,Incarnate Word
+401015007,2018,5,UT San Antonio,UTEP,30,21,fbs,fbs,1255.0,1008.0,False,-9,UT San Antonio
+401030210,2018,5,McNeese,Stephen F. Austin,17,10,fcs,fcs,,,False,-7,McNeese
+401030012,2018,5,Cal Poly,Montana,28,48,fcs,fcs,,,False,20,Montana
+401012758,2018,5,Notre Dame,Stanford,38,17,fbs,fbs,1771.0,1812.0,False,-21,Notre Dame
+401012296,2018,5,Kentucky,South Carolina,24,10,fbs,fbs,1595.0,1653.0,False,-14,Kentucky
+401013347,2018,5,Penn State,Ohio State,26,27,fbs,fbs,2076.0,2064.0,False,1,Ohio State
+401015002,2018,5,Florida International,Arkansas-Pine Bluff,55,9,fbs,fcs,,,False,-46,Florida International
+401030252,2018,5,East Tennessee State,Chattanooga,17,14,fcs,fcs,,,False,-3,East Tennessee State
+401015005,2018,5,Western Kentucky,Marshall,17,20,fbs,fbs,1394.0,1463.0,False,3,Marshall
+401015004,2018,5,North Texas,Louisiana Tech,27,29,fbs,fbs,1597.0,1511.0,False,2,Louisiana Tech
+401030215,2018,5,Southeastern Louisiana,Northwestern State,24,17,fcs,fcs,,,False,-7,Southeastern Louisiana
+401012755,2018,5,Washington,BYU,35,7,fbs,fbs,1839.0,1454.0,False,-28,Washington
+401012297,2018,5,LSU,Ole Miss,45,16,fbs,fbs,1792.0,1493.0,False,-29,LSU
+401012754,2018,5,Arizona State,Oregon State,52,24,fbs,fbs,1603.0,1156.0,False,-28,Arizona State
+401020689,2018,5,Fresno State,Toledo,49,27,fbs,fbs,1566.0,1533.0,False,-22,Fresno State
+401012757,2018,5,California,Oregon,24,42,fbs,fbs,1556.0,1643.0,False,18,Oregon
+401012753,2018,5,Arizona,USC,20,24,fbs,fbs,1462.0,1642.0,False,4,USC
+401021669,2018,6,Troy,Georgia State,37,20,fbs,fbs,1534.0,1283.0,False,-17,Troy
+401019499,2018,6,Houston,Tulsa,41,26,fbs,fbs,1594.0,1406.0,False,-15,Houston
+401029856,2018,6,Yale,Dartmouth,18,41,fcs,fcs,,,False,23,Dartmouth
+401013138,2018,6,Louisville,Georgia Tech,31,66,fbs,fbs,1535.0,1589.0,False,35,Georgia Tech
+401015010,2018,6,Marshall,Middle Tennessee,24,34,fbs,fbs,1463.0,1303.0,False,10,Middle Tennessee
+401016407,2018,6,BYU,Utah State,20,45,fbs,fbs,1424.0,1587.0,False,25,Utah State
+401012882,2018,6,Michigan State,Northwestern,19,29,fbs,fbs,1646.0,1625.0,False,10,Northwestern
+401012876,2018,6,Michigan,Maryland,42,21,fbs,fbs,1882.0,1476.0,False,-21,Michigan
+401012305,2018,6,South Carolina,Missouri,37,35,fbs,fbs,1620.0,1662.0,False,-2,South Carolina
+401019501,2018,6,Cincinnati,Tulane,37,21,fbs,fbs,1472.0,1413.0,False,-16,Cincinnati
+401019503,2018,6,Temple,East Carolina,49,6,fbs,fbs,1555.0,1333.0,False,-43,Temple
+401013051,2018,6,West Virginia,Kansas,38,22,fbs,fbs,1700.0,1330.0,False,-16,West Virginia
+401013067,2018,6,Oklahoma,Texas,45,48,fbs,fbs,2014.0,1722.0,True,3,Texas
+401012300,2018,6,Arkansas,Alabama,31,65,fbs,fbs,1345.0,2235.0,False,34,Alabama
+401012808,2018,6,Rutgers,Illinois,17,38,fbs,fbs,1092.0,1296.0,False,21,Illinois
+401029883,2018,6,Bucknell,Colgate,3,27,fcs,fcs,,,False,24,Colgate
+401020752,2018,6,Central Michigan,Buffalo,24,34,fbs,fbs,1304.0,1388.0,False,10,Buffalo
+401030347,2018,6,New Hampshire,Holy Cross,28,0,fcs,fcs,,,False,-28,New Hampshire
+401020753,2018,6,Western Michigan,Eastern Michigan,27,24,fbs,fbs,1416.0,1424.0,False,-3,Western Michigan
+401030601,2018,6,Morehead State,San Diego,34,51,fcs,fcs,,,False,17,San Diego
+401013142,2018,6,Pittsburgh,Syracuse,44,37,fbs,fbs,1431.0,1520.0,False,-7,Pittsburgh
+401013139,2018,6,NC State,Boston College,28,23,fbs,fbs,1725.0,1644.0,False,-5,NC State
+401030546,2018,6,Robert Morris,Central Connecticut,35,56,fcs,fcs,,,False,21,Central Connecticut
+401030576,2018,6,Dayton,Valparaiso,53,20,fcs,fcs,,,False,-33,Dayton
+401030539,2018,6,Duquesne,Bryant,20,21,fcs,fcs,,,False,1,Bryant
+401030515,2018,6,Morgan State,South Carolina State,18,21,fcs,fcs,,,False,3,South Carolina State
+401030371,2018,6,Davidson,Jacksonville,44,37,fcs,fcs,,,False,-7,Davidson
+401030342,2018,6,Fordham,Georgetown,11,23,fcs,fcs,,,False,12,Georgetown
+401029874,2018,6,Princeton,Lehigh,66,7,fcs,fcs,,,False,-59,Princeton
+401029839,2018,6,Columbia,Marist,34,24,fcs,fcs,,,False,-10,Columbia
+401029829,2018,6,Rhode Island,Brown,48,0,fcs,fcs,,,False,-48,Rhode Island
+401030319,2018,6,Samford,Western Carolina,66,28,fcs,fcs,,,False,-38,Samford
+401029907,2018,6,James Madison,Elon,24,27,fcs,fcs,,,False,3,Elon
+401029848,2018,6,Cornell,Harvard,28,24,fcs,fcs,,,False,-4,Cornell
+401030418,2018,6,Northern Colorado,UC Davis,36,49,fcs,fcs,,,False,13,UC Davis
+401029972,2018,6,Campbell,Wagner,49,3,fcs,fcs,,,False,-46,Campbell
+401029748,2018,6,Northern Iowa,North Dakota State,31,56,fcs,fcs,,,False,25,North Dakota State
+401034101,2018,6,Hampton,Lane,41,8,fcs,ii,,,False,-33,Hampton
+401030359,2018,6,Drake,Butler,36,6,fcs,fcs,,,False,-30,Drake
+401029998,2018,6,Kennesaw State,Presbyterian College,56,0,fcs,fcs,,,False,-56,Kennesaw State
+401030220,2018,6,Sam Houston State,Stephen F. Austin,54,21,fcs,fcs,,,True,-33,Sam Houston State
+401030530,2018,6,North Carolina Central,Howard,40,35,fcs,fcs,,,False,-5,North Carolina Central
+401029869,2018,6,Sacred Heart,Pennsylvania,27,31,fcs,fcs,,,False,4,Pennsylvania
+401020754,2018,6,Ball State,Northern Illinois,16,24,fbs,fbs,1154.0,1432.0,False,8,Northern Illinois
+401030121,2018,6,South Dakota,Missouri State,35,28,fcs,fcs,,,False,-7,South Dakota
+401030091,2018,6,Illinois State,Western Illinois,33,16,fcs,fcs,,,False,-17,Illinois State
+401029897,2018,6,Richmond,Delaware,28,43,fcs,fcs,,,False,15,Delaware
+401030449,2018,6,Alcorn State,Alabama State,25,28,fcs,fcs,,,False,3,Alabama State
+401030253,2018,6,Chattanooga,Wofford,10,21,fcs,fcs,,,False,11,Wofford
+401030431,2018,6,Eastern Washington,Southern Utah,55,17,fcs,fcs,,,False,-38,Eastern Washington
+401022528,2018,6,Boise State,San Diego State,13,19,fbs,fbs,1796.0,1564.0,False,6,San Diego State
+401013141,2018,6,Miami,Florida State,28,27,fbs,fbs,1784.0,1562.0,False,-1,Miami
+401029808,2018,6,William & Mary,Albany,25,22,fcs,fcs,,,False,-3,William & Mary
+401013042,2018,6,Oklahoma State,Iowa State,42,48,fbs,fbs,1781.0,1645.0,False,6,Iowa State
+401012866,2018,6,Minnesota,Iowa,31,48,fbs,fbs,1506.0,1750.0,False,17,Iowa
+401020812,2018,6,Akron,Miami (OH),17,41,fbs,fbs,1315.0,1315.0,False,24,Miami (OH)
+401020755,2018,6,Kent State,Ohio,26,27,fbs,fbs,1000.0,1552.0,False,1,Ohio
+401020751,2018,6,Toledo,Bowling Green,52,36,fbs,fbs,1483.0,1038.0,False,-16,Toledo
+401019504,2018,6,Air Force,Navy,35,7,fbs,fbs,1422.0,1550.0,False,-28,Air Force
+401013140,2018,6,Wake Forest,Clemson,3,63,fbs,fbs,1558.0,1945.0,False,60,Clemson
+401013362,2018,6,UMass,South Florida,42,58,fbs,fbs,1199.0,1642.0,False,16,South Florida
+401012301,2018,6,Florida,LSU,27,19,fbs,fbs,1665.0,1834.0,False,-8,Florida
+401013031,2018,6,Baylor,Kansas State,37,34,fbs,fbs,1455.0,1537.0,False,-3,Baylor
+401021670,2018,6,Georgia Southern,South Alabama,48,13,fbs,fbs,1397.0,1142.0,False,-35,Georgia Southern
+401029922,2018,6,Maine,Villanova,13,10,fcs,fcs,,,False,-3,Maine
+401029990,2018,6,East Tennessee State,Gardner-Webb,45,0,fcs,fcs,,,False,-45,East Tennessee State
+401030464,2018,6,Arkansas-Pine Bluff,Jackson State,27,30,fcs,fcs,,,False,3,Jackson State
+401012761,2018,6,Colorado,Arizona State,28,21,fbs,fbs,1604.0,1627.0,False,-7,Colorado
+401030236,2018,6,Eastern Kentucky,Jacksonville State,7,56,fcs,fcs,,,False,49,Jacksonville State
+401029959,2018,6,Towson,Stony Brook,52,28,fcs,fcs,,,False,-24,Towson
+401030509,2018,6,Florida A&M,Norfolk State,17,0,fcs,fcs,,,False,-17,Florida A&M
+401030491,2018,6,Bethune-Cookman,Mississippi Valley State,41,27,fcs,fcs,,,False,-14,Bethune-Cookman
+401030392,2018,6,Montana,Portland State,20,22,fcs,fcs,,,False,2,Portland State
+401012303,2018,6,Ole Miss,Louisiana Monroe,70,21,fbs,fbs,1451.0,1142.0,False,-49,Ole Miss
+401012855,2018,6,Ohio State,Indiana,49,26,fbs,fbs,2066.0,1535.0,False,-23,Ohio State
+401022530,2018,6,UNLV,New Mexico,14,50,fbs,fbs,1375.0,1271.0,False,36,New Mexico
+401015008,2018,6,Florida Atlantic,Old Dominion,52,33,fbs,fbs,1502.0,1246.0,False,-19,Florida Atlantic
+401030186,2018,6,Incarnate Word,Southeastern Louisiana,52,34,fcs,fcs,,,False,-18,Incarnate Word
+401030412,2018,6,Northern Arizona,Weber State,28,24,fcs,fcs,,,False,-4,Northern Arizona
+401030022,2018,6,Idaho State,Idaho,62,28,fcs,fcs,,,False,-34,Idaho State
+401029980,2018,6,Savannah State,Charleston Southern,23,3,fcs,fcs,,,False,-20,Savannah State
+401030161,2018,6,Youngstown State,Southern Illinois,17,14,fcs,fcs,,,False,-3,Youngstown State
+401030569,2018,6,North Alabama,West Florida,19,24,fcs,ii,,,False,5,West Florida
+401030202,2018,6,Austin Peay,Tennessee State,49,34,fcs,fcs,,,False,-15,Austin Peay
+401030166,2018,6,Central Arkansas,Houston Christian,66,35,fcs,fcs,,,False,-31,Central Arkansas
+401015009,2018,6,Louisiana Tech,UAB,7,28,fbs,fbs,1519.0,1349.0,False,21,UAB
+401021671,2018,6,Texas State,Louisiana,27,42,fbs,fbs,1064.0,1170.0,False,15,Louisiana
+401030129,2018,6,McNeese,Abilene Christian,24,21,fcs,fcs,,,False,-3,McNeese
+401019502,2018,6,Memphis,Connecticut,55,14,fbs,fbs,1676.0,980.0,False,-41,Memphis
+401030100,2018,6,South Dakota State,Indiana State,54,51,fcs,fcs,,,False,-3,South Dakota State
+401073385,2018,6,Grambling,OK Panhandle St,62,7,fcs,ii,,,False,-55,Grambling
+401015012,2018,6,Rice,UT San Antonio,3,20,fbs,fbs,1090.0,1254.0,False,17,UT San Antonio
+401030499,2018,6,Delaware State,North Carolina A&T,6,34,fcs,fcs,,,False,28,North Carolina A&T
+401030441,2018,6,Texas Southern,Alabama A&M,21,42,fcs,fcs,,,False,21,Alabama A&M
+401030283,2018,6,Tennessee Tech,Southeast Missouri State,38,70,fcs,fcs,,,False,32,Southeast Missouri State
+401030229,2018,6,Eastern Illinois,Murray State,41,48,fcs,fcs,,,False,7,Murray State
+401030216,2018,6,Northwestern State,Nicholls,10,28,fcs,fcs,,,False,18,Nicholls
+401012306,2018,6,Texas A&M,Kentucky,20,14,fbs,fbs,1682.0,1628.0,False,-6,Texas A&M
+401019500,2018,6,UCF,SMU,48,20,fbs,fbs,1847.0,1287.0,False,-28,UCF
+401012302,2018,6,Georgia,Vanderbilt,41,13,fbs,fbs,1965.0,1505.0,False,-28,Georgia
+401013339,2018,6,Wisconsin,Nebraska,41,24,fbs,fbs,1879.0,1311.0,False,-17,Wisconsin
+401015011,2018,6,UTEP,North Texas,24,27,fbs,fbs,1009.0,1589.0,False,3,North Texas
+401012760,2018,6,UCLA,Washington,24,31,fbs,fbs,1339.0,1869.0,False,7,Washington
+401012304,2018,6,Mississippi State,Auburn,23,9,fbs,fbs,1704.0,1855.0,False,-14,Mississippi State
+401013143,2018,6,Virginia Tech,Notre Dame,23,45,fbs,fbs,1723.0,1825.0,False,22,Notre Dame
+401013441,2018,6,New Mexico State,Liberty,49,41,fbs,fbs,1096.0,1366.0,False,-8,New Mexico State
+401012762,2018,6,Oregon State,Washington State,37,56,fbs,fbs,1132.0,1631.0,False,19,Washington State
+401030013,2018,6,Sacramento State,Cal Poly,27,41,fcs,fcs,,,False,14,Cal Poly
+401012759,2018,6,Arizona,California,24,17,fbs,fbs,1467.0,1521.0,False,-7,Arizona
+401022529,2018,6,San José State,Colorado State,30,42,fbs,fbs,1043.0,1317.0,False,12,Colorado State
+401012763,2018,6,Stanford,Utah,21,40,fbs,fbs,1758.0,1617.0,False,19,Utah
+401022532,2018,6,Nevada,Fresno State,3,21,fbs,fbs,1307.0,1616.0,False,18,Fresno State
+401022531,2018,6,Hawai'i,Wyoming,17,13,fbs,fbs,1345.0,1439.0,False,-4,Hawai'i
+401021672,2018,7,Arkansas State,Appalachian State,9,35,fbs,fbs,1482.0,1765.0,False,26,Appalachian State
+401013076,2018,7,TCU,Texas Tech,14,17,fbs,fbs,1714.0,1622.0,False,3,Texas Tech
+401021673,2018,7,Texas State,Georgia Southern,13,15,fbs,fbs,1040.0,1462.0,False,2,Georgia Southern
+401019505,2018,7,Tulsa,South Florida,24,25,fbs,fbs,1391.0,1638.0,False,1,South Florida
+401029863,2018,7,Harvard,Holy Cross,33,31,fcs,fcs,,,False,-2,Harvard
+401022533,2018,7,San Diego State,Air Force,21,17,fbs,fbs,1593.0,1512.0,False,-4,San Diego State
+401012764,2018,7,Utah,Arizona,42,10,fbs,fbs,1681.0,1480.0,False,-32,Utah
+401030008,2018,7,Presbyterian College,Hampton,23,24,fcs,fcs,,,False,1,Hampton
+401029849,2018,7,Colgate,Cornell,31,0,fcs,fcs,,,False,-31,Colgate
+401020759,2018,7,Eastern Michigan,Toledo,28,26,fbs,fbs,1423.0,1480.0,False,-2,Eastern Michigan
+401020756,2018,7,Buffalo,Akron,24,6,fbs,fbs,1402.0,1251.0,False,-18,Buffalo
+401012312,2018,7,Vanderbilt,Florida,27,37,fbs,fbs,1482.0,1688.0,False,10,Florida
+401012856,2018,7,Indiana,Iowa,16,42,fbs,fbs,1531.0,1766.0,False,26,Iowa
+401029923,2018,7,Rhode Island,Maine,36,38,fcs,fcs,,,False,2,Maine
+401030566,2018,7,Wagner,St Francis (PA),23,22,fcs,fcs,,,False,-1,Wagner
+401013340,2018,7,Northwestern,Nebraska,34,31,fbs,fbs,1648.0,1322.0,False,-3,Northwestern
+401013061,2018,7,Kansas State,Oklahoma State,31,12,fbs,fbs,1535.0,1760.0,False,-19,Kansas State
+401012309,2018,7,Auburn,Tennessee,24,30,fbs,fbs,1813.0,1343.0,False,6,Tennessee
+401013331,2018,7,Ohio State,Minnesota,30,14,fbs,fbs,2070.0,1490.0,False,-16,Ohio State
+401012825,2018,7,Maryland,Rutgers,34,7,fbs,fbs,1466.0,1061.0,False,-27,Maryland
+401013145,2018,7,Georgia Tech,Duke,14,28,fbs,fbs,1684.0,1640.0,False,14,Duke
+401013144,2018,7,Boston College,Louisville,38,20,fbs,fbs,1642.0,1440.0,False,-18,Boston College
+401030343,2018,7,Lehigh,Fordham,14,43,fcs,fcs,,,False,29,Fordham
+401029878,2018,7,Yale,Mercer,35,28,fcs,fcs,,,False,-7,Yale
+401029916,2018,7,Villanova,James Madison,0,37,fcs,fcs,,,False,37,James Madison
+401030500,2018,7,Howard,Delaware State,55,13,fcs,fcs,,,False,-42,Howard
+401030510,2018,7,North Carolina A&T,Florida A&M,21,22,fcs,fcs,,,False,1,Florida A&M
+401030540,2018,7,Bryant,Central Connecticut,14,48,fcs,fcs,,,False,34,Central Connecticut
+401030591,2018,7,Jacksonville,Marist,17,20,fcs,fcs,,,False,3,Marist
+401030372,2018,7,Davidson,Morehead State,28,35,fcs,fcs,,,False,7,Morehead State
+401029830,2018,7,Princeton,Brown,48,10,fcs,fcs,,,False,-38,Princeton
+401029840,2018,7,Pennsylvania,Columbia,13,10,fcs,fcs,,,False,-3,Pennsylvania
+401029884,2018,7,Monmouth,Bucknell,36,19,fcs,fcs,,,False,-17,Monmouth
+401030316,2018,7,Furman,Wofford,34,14,fcs,fcs,,,False,-20,Furman
+401015018,2018,7,Rice,UAB,0,42,fbs,fbs,1066.0,1423.0,False,42,UAB
+401029991,2018,7,Gardner-Webb,Kennesaw State,17,56,fcs,fcs,,,False,39,Kennesaw State
+401030360,2018,7,Valparaiso,Butler,35,17,fcs,fcs,,,False,-18,Valparaiso
+401030393,2018,7,North Dakota,Montana,41,14,fcs,fcs,,,False,-27,North Dakota
+401030492,2018,7,South Carolina State,Bethune-Cookman,26,28,fcs,fcs,,,False,2,Bethune-Cookman
+401030101,2018,7,Indiana State,Missouri State,26,29,fcs,fcs,,,False,3,Missouri State
+401013452,2018,7,Liberty,Troy,22,16,fbs,fbs,1336.0,1548.0,False,-6,Liberty
+401015017,2018,7,North Texas,Southern Mississippi,30,7,fbs,fbs,1563.0,1439.0,False,-23,North Texas
+401030203,2018,7,Southeast Missouri State,Austin Peay,31,27,fcs,fcs,,,False,-4,Southeast Missouri State
+401030268,2018,7,The Citadel,East Tennessee State,23,26,fcs,fcs,,,False,3,East Tennessee State
+401030273,2018,7,Murray State,Tennessee State,45,21,fcs,fcs,,,False,-24,Murray State
+401030584,2018,7,Drake,Stetson,21,23,fcs,fcs,,,False,2,Stetson
+401020810,2018,7,Miami (OH),Kent State,31,6,fbs,fbs,1379.0,1022.0,False,-25,Miami (OH)
+401013148,2018,7,Notre Dame,Pittsburgh,19,14,fbs,fbs,1870.0,1446.0,False,-5,Notre Dame
+401020760,2018,7,Bowling Green,Western Michigan,35,42,fbs,fbs,1041.0,1417.0,False,7,Western Michigan
+401030442,2018,7,Alabama A&M,Alcorn State,26,35,fcs,fcs,,,False,9,Alcorn State
+401030167,2018,7,Stephen F. Austin,Central Arkansas,17,27,fcs,fcs,,,False,10,Central Arkansas
+401030157,2018,7,South Dakota State,Youngstown State,36,7,fcs,fcs,,,False,-29,South Dakota State
+401030092,2018,7,Illinois State,Southern Illinois,51,3,fcs,fcs,,,False,-48,Illinois State
+401030237,2018,7,UT Martin,Eastern Kentucky,34,35,fcs,fcs,,,False,1,Eastern Kentucky
+401030262,2018,7,Samford,VMI,73,22,fcs,fcs,,,False,-51,Samford
+401020757,2018,7,Central Michigan,Ball State,23,24,fbs,fbs,1290.0,1160.0,False,1,Ball State
+401030474,2018,7,Jackson State,Mississippi Valley State,23,7,fcs,fcs,,,False,-16,Jackson State
+401015016,2018,7,Old Dominion,Marshall,20,42,fbs,fbs,1227.0,1427.0,False,22,Marshall
+401020758,2018,7,Northern Illinois,Ohio,24,21,fbs,fbs,1426.0,1530.0,False,-3,Northern Illinois
+401019508,2018,7,Navy,Temple,17,24,fbs,fbs,1460.0,1651.0,False,7,Temple
+401012311,2018,7,South Carolina,Texas A&M,23,26,fbs,fbs,1621.0,1687.0,False,3,Texas A&M
+401029960,2018,7,New Hampshire,Stony Brook,7,35,fcs,fcs,,,False,28,Stony Brook
+401029898,2018,7,Delaware,Elon,28,16,fcs,fcs,,,False,-12,Delaware
+401019506,2018,7,Memphis,UCF,30,31,fbs,fbs,1709.0,1860.0,False,1,UCF
+401013032,2018,7,Texas,Baylor,23,17,fbs,fbs,1737.0,1457.0,False,-6,Texas
+401012883,2018,7,Penn State,Michigan State,17,21,fbs,fbs,2074.0,1623.0,False,4,Michigan State
+401012766,2018,7,Oregon,Washington,30,27,fbs,fbs,1678.0,1845.0,False,-3,Oregon
+401012310,2018,7,LSU,Georgia,36,16,fbs,fbs,1811.0,1988.0,False,-20,LSU
+401012809,2018,7,Illinois,Purdue,7,46,fbs,fbs,1327.0,1608.0,False,39,Purdue
+401013370,2018,7,San José State,Army,3,52,fbs,fbs,1041.0,1629.0,True,49,Army
+401015013,2018,7,Charlotte,Western Kentucky,40,14,fbs,fbs,1042.0,1394.0,False,-26,Charlotte
+401030353,2018,7,Lafayette,Georgetown,6,13,fcs,fcs,,,False,7,Georgetown
+401030150,2018,7,Abilene Christian,Nicholls,28,12,fcs,fcs,,,False,-16,Abilene Christian
+401030254,2018,7,Western Carolina,Chattanooga,6,26,fcs,fcs,,,False,20,Chattanooga
+401030023,2018,7,Montana State,Idaho,24,23,fcs,fcs,,,False,-1,Montana State
+401029964,2018,7,Towson,William & Mary,29,13,fcs,fcs,,,False,-16,Towson
+401030230,2018,7,Jacksonville State,Eastern Illinois,49,22,fcs,fcs,,,False,-27,Jacksonville State
+401030187,2018,7,Lamar,Incarnate Word,27,21,fcs,fcs,,,False,-6,Lamar
+401022536,2018,7,Utah State,UNLV,59,28,fbs,fbs,1635.0,1254.0,False,-31,Utah State
+401022535,2018,7,Colorado State,New Mexico,20,18,fbs,fbs,1319.0,1392.0,False,-2,Colorado State
+401021675,2018,7,South Alabama,Alabama State,45,7,fbs,fcs,,,False,-38,South Alabama
+401013442,2018,7,Louisiana,New Mexico State,66,38,fbs,fbs,1194.0,1126.0,False,-28,Louisiana
+401030577,2018,7,San Diego,Dayton,36,34,fcs,fcs,,,False,-2,San Diego
+401030419,2018,7,Portland State,Northern Colorado,35,14,fcs,fcs,,,False,-21,Portland State
+401030177,2018,7,Southeastern Louisiana,Houston Christian,62,52,fcs,fcs,,,False,-10,Southeastern Louisiana
+401029981,2018,7,Charleston Southern,Virginia Lynchburg,58,6,fcs,,,,False,-52,Charleston Southern
+401030516,2018,7,Savannah State,Morgan State,11,18,fcs,fcs,,,False,7,Morgan State
+401030436,2018,7,Weber State,Eastern Washington,14,6,fcs,fcs,,,False,-8,Weber State
+401030478,2018,7,Prairie View,Southern,0,38,fcs,fcs,,,False,38,Southern
+401029857,2018,7,Dartmouth,Sacred Heart,42,0,fcs,fcs,,,False,-42,Dartmouth
+401021674,2018,7,Coastal Carolina,Louisiana Monroe,20,45,fbs,fbs,1277.0,1037.0,False,25,Louisiana Monroe
+401012767,2018,7,California,UCLA,7,30,fbs,fbs,1508.0,1363.0,False,23,UCLA
+401012307,2018,7,Alabama,Missouri,39,10,fbs,fbs,2231.0,1661.0,False,-29,Alabama
+401013146,2018,7,Virginia,Miami,16,13,fbs,fbs,1499.0,1778.0,False,-3,Virginia
+401015015,2018,7,UT San Antonio,Louisiana Tech,3,31,fbs,fbs,1278.0,1445.0,False,28,Louisiana Tech
+401013147,2018,7,North Carolina,Virginia Tech,19,22,fbs,fbs,1320.0,1678.0,False,3,Virginia Tech
+401019507,2018,7,East Carolina,Houston,20,42,fbs,fbs,1237.0,1609.0,False,22,Houston
+401030470,2018,7,Texas Southern,Grambling,21,34,fcs,fcs,,,False,13,Grambling
+401029749,2018,7,Western Illinois,North Dakota State,7,34,fcs,fcs,,,False,27,North Dakota State
+401029809,2018,7,Albany,Richmond,24,27,fcs,fcs,,,False,3,Richmond
+401030114,2018,7,South Dakota,Northern Iowa,28,42,fcs,fcs,,,False,14,Northern Iowa
+401030217,2018,7,Northwestern State,Sam Houston State,28,42,fcs,fcs,,,False,14,Sam Houston State
+401030326,2018,7,UC Davis,Idaho State,44,37,fcs,fcs,,,False,-7,UC Davis
+401030554,2018,7,Duquesne,Robert Morris,48,24,fcs,fcs,,,False,-24,Duquesne
+401030570,2018,7,North Alabama,Mississippi College,34,17,fcs,ii,,,False,-17,North Alabama
+401013043,2018,7,Iowa State,West Virginia,30,14,fbs,fbs,1666.0,1702.0,False,-16,Iowa State
+401012308,2018,7,Arkansas,Ole Miss,33,37,fbs,fbs,1349.0,1556.0,False,4,Ole Miss
+401015014,2018,7,Florida International,Middle Tennessee,24,21,fbs,fbs,1462.0,1339.0,False,-3,Florida International
+401012893,2018,7,Michigan,Wisconsin,38,13,fbs,fbs,1892.0,1868.0,False,-25,Michigan
+401030427,2018,7,Southern Utah,Sacramento State,48,27,fcs,fcs,,,False,-21,Southern Utah
+401016408,2018,7,BYU,Hawai'i,49,23,fbs,fbs,1376.0,1351.0,False,-26,BYU
+401022534,2018,7,Nevada,Boise State,27,31,fbs,fbs,1294.0,1767.0,False,4,Boise State
+401012765,2018,7,USC,Colorado,31,20,fbs,fbs,1637.0,1615.0,False,-11,USC
+401022537,2018,7,Fresno State,Wyoming,27,3,fbs,fbs,1629.0,1433.0,False,-24,Fresno State
+401021676,2018,8,Arkansas State,Georgia State,51,35,fbs,fbs,1445.0,1269.0,False,-16,Arkansas State
+401012768,2018,8,Arizona State,Stanford,13,20,fbs,fbs,1616.0,1694.0,False,7,Stanford
+401029870,2018,8,Pennsylvania,Yale,10,23,fcs,fcs,,,False,13,Yale
+401022538,2018,8,Boise State,Colorado State,56,28,fbs,fbs,1745.0,1321.0,False,-28,Boise State
+401022539,2018,8,UNLV,Air Force,35,41,fbs,fbs,1215.0,1511.0,False,6,Air Force
+401012846,2018,8,Rutgers,Northwestern,15,18,fbs,fbs,1036.0,1645.0,False,3,Northwestern
+401012316,2018,8,Ole Miss,Auburn,16,31,fbs,fbs,1549.0,1762.0,False,15,Auburn
+401013371,2018,8,Army,Miami (OH),31,30,fbs,fbs,1692.0,1404.0,False,-1,Army
+401030555,2018,8,St Francis (PA),Duquesne,20,27,fcs,fcs,,,False,7,Duquesne
+401029864,2018,8,Harvard,Princeton,21,29,fcs,fcs,,,False,8,Princeton
+401029885,2018,8,Bucknell,Lafayette,27,29,fcs,fcs,,,False,2,Lafayette
+401012810,2018,8,Wisconsin,Illinois,49,20,fbs,fbs,1808.0,1249.0,False,-29,Wisconsin
+401012884,2018,8,Michigan State,Michigan,7,21,fbs,fbs,1663.0,1952.0,False,14,Michigan
+401013068,2018,8,TCU,Oklahoma,27,52,fbs,fbs,1704.0,1999.0,False,25,Oklahoma
+401019510,2018,8,Temple,Cincinnati,24,17,fbs,fbs,1650.0,1501.0,False,-7,Temple
+401030361,2018,8,Butler,San Diego,13,42,fcs,fcs,,,False,29,San Diego
+401012867,2018,8,Iowa,Maryland,23,0,fbs,fbs,1808.0,1491.0,False,-23,Iowa
+401020763,2018,8,Toledo,Buffalo,17,31,fbs,fbs,1479.0,1428.0,False,14,Buffalo
+401012313,2018,8,Arkansas,Tulsa,23,0,fbs,fbs,1356.0,1401.0,False,-23,Arkansas
+401030559,2018,8,Robert Morris,Central State,49,45,fcs,ii,,,False,-4,Robert Morris
+401013152,2018,8,Syracuse,North Carolina,40,37,fbs,fbs,1505.0,1336.0,False,-3,Syracuse
+401013150,2018,8,Duke,Virginia,14,28,fbs,fbs,1676.0,1504.0,False,14,Virginia
+401030547,2018,8,Central Connecticut,Sacred Heart,25,28,fcs,fcs,,,False,3,Sacred Heart
+401029831,2018,8,Brown,Cornell,16,34,fcs,fcs,,,False,18,Cornell
+401029973,2018,8,Monmouth,Campbell,38,21,fcs,fcs,,,False,-17,Monmouth
+401030344,2018,8,Fordham,Bryant,41,42,fcs,fcs,,,False,1,Bryant
+401030373,2018,8,Marist,Davidson,48,41,fcs,fcs,,,False,-7,Marist
+401030578,2018,8,Dayton,Drake,17,28,fcs,fcs,,,False,11,Drake
+401030312,2018,8,Wofford,East Tennessee State,30,17,fcs,fcs,,,False,-13,Wofford
+401030501,2018,8,South Carolina State,Delaware State,30,19,fcs,fcs,,,False,-11,South Carolina State
+401030263,2018,8,VMI,The Citadel,32,34,fcs,fcs,,,False,2,The Citadel
+401029908,2018,8,Elon,Richmond,38,28,fcs,fcs,,,False,-10,Elon
+401029841,2018,8,Columbia,Dartmouth,12,28,fcs,fcs,,,False,16,Dartmouth
+401030413,2018,8,Northern Colorado,Northern Arizona,42,14,fcs,fcs,,,False,-28,Northern Colorado
+401030356,2018,8,Georgetown,Lehigh,22,16,fcs,fcs,,,False,-6,Georgetown
+401030244,2018,8,Southeast Missouri State,Jacksonville State,37,14,fcs,fcs,,,False,-23,Southeast Missouri State
+401030317,2018,8,Furman,Samford,25,38,fcs,fcs,,,False,13,Samford
+401013453,2018,8,Liberty,Idaho State,48,41,fbs,fcs,,,False,-7,Liberty
+401020762,2018,8,Ohio,Bowling Green,49,14,fbs,fbs,1528.0,1055.0,False,-35,Ohio
+401030602,2018,8,Morehead State,Valparaiso,31,24,fcs,fcs,,,False,-7,Morehead State
+401030521,2018,8,Norfolk State,North Carolina Central,6,36,fcs,fcs,,,False,30,North Carolina Central
+401015021,2018,8,Marshall,Florida Atlantic,31,7,fbs,fbs,1462.0,1521.0,False,-24,Marshall
+401022540,2018,8,Wyoming,Utah State,16,24,fbs,fbs,1395.0,1674.0,False,8,Utah State
+401020764,2018,8,Ball State,Eastern Michigan,20,42,fbs,fbs,1168.0,1424.0,False,22,Eastern Michigan
+401030483,2018,8,Southern,Texas Southern,21,7,fcs,fcs,,,False,-14,Southern
+401030475,2018,8,Jackson State,North Alabama,7,24,fcs,fcs,,,False,17,North Alabama
+401030465,2018,8,Mississippi Valley State,Arkansas-Pine Bluff,48,47,fcs,fcs,,,False,-1,Mississippi Valley State
+401030458,2018,8,Alcorn State,Grambling,33,26,fcs,fcs,,,False,-7,Alcorn State
+401030238,2018,8,Eastern Kentucky,Murray State,6,34,fcs,fcs,,,False,28,Murray State
+401030231,2018,8,Eastern Illinois,UT Martin,24,21,fcs,fcs,,,False,-3,Eastern Illinois
+401015019,2018,8,Middle Tennessee,Charlotte,21,13,fbs,fbs,1340.0,1154.0,False,-8,Middle Tennessee
+401030108,2018,8,Missouri State,Western Illinois,14,31,fcs,fcs,,,False,17,Western Illinois
+401020765,2018,8,Central Michigan,Western Michigan,10,35,fbs,fbs,1282.0,1403.0,False,25,Western Michigan
+401030102,2018,8,Southern Illinois,Indiana State,21,24,fcs,fcs,,,False,3,Indiana State
+401029899,2018,8,New Hampshire,Delaware,14,38,fcs,fcs,,,False,24,Delaware
+401029750,2018,8,North Dakota State,Illinois State,28,14,fcs,fcs,,,False,-14,North Dakota State
+401013151,2018,8,Florida State,Wake Forest,38,17,fbs,fbs,1568.0,1423.0,False,-21,Florida State
+401013332,2018,8,Nebraska,Minnesota,53,28,fbs,fbs,1325.0,1503.0,False,-25,Nebraska
+401013149,2018,8,Clemson,NC State,41,7,fbs,fbs,2080.0,1727.0,False,-34,Clemson
+401019512,2018,8,Navy,Houston,36,49,fbs,fbs,1461.0,1626.0,False,13,Houston
+401013363,2018,8,UMass,Coastal Carolina,13,24,fbs,fbs,1203.0,1178.0,False,11,Coastal Carolina
+401019513,2018,8,Tulane,SMU,23,27,fbs,fbs,1384.0,1274.0,False,4,SMU
+401020761,2018,8,Kent State,Akron,23,24,fbs,fbs,997.0,1225.0,False,1,Akron
+401013052,2018,8,Texas Tech,Kansas,48,16,fbs,fbs,1632.0,1328.0,False,-32,Texas Tech
+401012772,2018,8,Washington,Colorado,27,13,fbs,fbs,1842.0,1597.0,False,-14,Washington
+401029924,2018,8,William & Mary,Maine,27,20,fcs,fcs,,,False,-7,William & Mary
+401029890,2018,8,Albany,Towson,28,56,fcs,fcs,,,False,28,Towson
+401012318,2018,8,Tennessee,Alabama,21,58,fbs,fbs,1394.0,2245.0,False,37,Alabama
+401015022,2018,8,Louisiana Tech,UTEP,31,24,fbs,fbs,1501.0,1035.0,False,-7,Louisiana Tech
+401021677,2018,8,Appalachian State,Louisiana,27,17,fbs,fbs,1802.0,1259.0,False,-10,Appalachian State
+401012857,2018,8,Indiana,Penn State,28,33,fbs,fbs,1489.0,2034.0,False,5,Penn State
+401012317,2018,8,Missouri,Memphis,65,33,fbs,fbs,1647.0,1715.0,False,-32,Missouri
+401030493,2018,8,Bethune-Cookman,North Carolina A&T,10,35,fcs,fcs,,,False,25,North Carolina A&T
+401012771,2018,8,Oregon State,California,7,49,fbs,fbs,1134.0,1430.0,False,42,California
+401030278,2018,8,Mercer,Western Carolina,59,46,fcs,fcs,,,False,-13,Mercer
+401030196,2018,8,Lamar,Sam Houston State,41,23,fcs,fcs,,,False,-18,Lamar
+401030115,2018,8,Northern Iowa,South Dakota State,24,9,fcs,fcs,,,False,-15,Northern Iowa
+401030024,2018,8,Idaho,Southern Utah,31,12,fcs,fcs,,,False,-19,Idaho
+401030289,2018,8,Tennessee State,Tennessee Tech,41,14,fcs,fcs,,,False,-27,Tennessee State
+401029928,2018,8,Stony Brook,Rhode Island,52,14,fcs,fcs,,,False,-38,Stony Brook
+401029982,2018,8,Charleston Southern,Presbyterian College,41,7,fcs,fcs,,,False,-34,Charleston Southern
+401013443,2018,8,New Mexico State,Georgia Southern,31,48,fbs,fbs,1061.0,1444.0,False,17,Georgia Southern
+401030122,2018,8,Youngstown State,South Dakota,29,17,fcs,fcs,,,False,-12,Youngstown State
+401030400,2018,8,Weber State,Montana State,34,24,fcs,fcs,,,False,-10,Weber State
+401030592,2018,8,Stetson,Jacksonville,38,35,fcs,fcs,,,False,-3,Stetson
+401019511,2018,8,South Florida,Connecticut,38,30,fbs,fbs,1628.0,947.0,False,-8,South Florida
+401019509,2018,8,East Carolina,UCF,10,37,fbs,fbs,1220.0,1854.0,False,27,UCF
+401030168,2018,8,Central Arkansas,Northwestern State,38,17,fcs,fcs,,,False,-21,Central Arkansas
+401021678,2018,8,Louisiana Monroe,Texas State,20,14,fbs,fbs,1136.0,1058.0,False,-6,Louisiana Monroe
+401030188,2018,8,Incarnate Word,McNeese,45,17,fcs,fcs,,,False,-28,Incarnate Word
+401012315,2018,8,LSU,Mississippi State,19,3,fbs,fbs,1877.0,1746.0,False,-16,LSU
+401015025,2018,8,Southern Mississippi,UT San Antonio,27,17,fbs,fbs,1396.0,1222.0,False,-10,Southern Mississippi
+401030517,2018,8,Morgan State,Howard,26,35,fcs,fcs,,,False,9,Howard
+401030178,2018,8,Houston Christian,Stephen F. Austin,14,42,fcs,fcs,,,False,28,Stephen F. Austin
+401030014,2018,8,Cal Poly,UC Davis,10,52,fcs,fcs,,,False,42,UC Davis
+401015024,2018,8,Western Kentucky,Old Dominion,34,37,fbs,fbs,1282.0,1192.0,False,3,Old Dominion
+401015020,2018,8,Florida International,Rice,36,17,fbs,fbs,1461.0,988.0,False,-19,Florida International
+401012773,2018,8,Washington State,Oregon,34,20,fbs,fbs,1629.0,1681.0,False,-14,Washington State
+401012314,2018,8,Kentucky,Vanderbilt,14,7,fbs,fbs,1623.0,1479.0,False,-7,Kentucky
+401015023,2018,8,UAB,North Texas,29,21,fbs,fbs,1501.0,1606.0,False,-8,UAB
+401022541,2018,8,New Mexico,Fresno State,7,38,fbs,fbs,1390.0,1667.0,False,31,Fresno State
+401013348,2018,8,Purdue,Ohio State,49,20,fbs,fbs,1686.0,2057.0,False,-29,Purdue
+401030151,2018,8,Southeastern Louisiana,Abilene Christian,27,48,fcs,fcs,,,False,21,Abilene Christian
+401012770,2018,8,Utah,USC,41,28,fbs,fbs,1743.0,1655.0,False,-13,Utah
+401030404,2018,8,Sacramento State,North Dakota,15,41,fcs,fcs,,,False,26,North Dakota
+401012769,2018,8,UCLA,Arizona,31,30,fbs,fbs,1441.0,1418.0,False,-1,UCLA
+401022543,2018,8,San Diego State,San José State,16,13,fbs,fbs,1594.0,978.0,False,-3,San Diego State
+401022542,2018,8,Hawai'i,Nevada,22,40,fbs,fbs,1287.0,1316.0,False,18,Nevada
+401021679,2018,9,South Alabama,Troy,17,38,fbs,fbs,1077.0,1530.0,False,21,Troy
+401013033,2018,9,West Virginia,Baylor,58,14,fbs,fbs,1664.0,1463.0,False,-44,West Virginia
+401020767,2018,9,Western Michigan,Toledo,24,51,fbs,fbs,1455.0,1442.0,False,27,Toledo
+401020766,2018,9,Ohio,Ball State,52,14,fbs,fbs,1568.0,1139.0,False,-38,Ohio
+401013153,2018,9,Virginia Tech,Georgia Tech,28,49,fbs,fbs,1662.0,1648.0,False,21,Georgia Tech
+401021680,2018,9,Georgia Southern,Appalachian State,34,14,fbs,fbs,1448.0,1784.0,False,-20,Georgia Southern
+401015028,2018,9,Florida Atlantic,Louisiana Tech,13,21,fbs,fbs,1454.0,1487.0,False,8,Louisiana Tech
+401013154,2018,9,Boston College,Miami,27,14,fbs,fbs,1663.0,1773.0,False,-13,Boston College
+401012858,2018,9,Minnesota,Indiana,38,31,fbs,fbs,1418.0,1514.0,False,-7,Minnesota
+401022546,2018,9,Colorado State,Wyoming,21,34,fbs,fbs,1295.0,1401.0,False,13,Wyoming
+401012774,2018,9,UCLA,Utah,10,41,fbs,fbs,1441.0,1761.0,False,31,Utah
+401029929,2018,9,Rhode Island,William & Mary,21,10,fcs,fcs,,,False,-11,Rhode Island
+401013044,2018,9,Iowa State,Texas Tech,40,31,fbs,fbs,1704.0,1682.0,False,-9,Iowa State
+401013157,2018,9,Louisville,Wake Forest,35,56,fbs,fbs,1419.0,1388.0,False,21,Wake Forest
+401013372,2018,9,Eastern Michigan,Army,22,37,fbs,fbs,1453.0,1684.0,False,15,Army
+401085385,2018,9,Nebraska,Bethune-Cookman,45,9,fbs,fcs,,,False,-36,Nebraska
+401029933,2018,9,Colgate,Georgetown,38,0,fcs,fcs,,,False,-38,Colgate
+401030362,2018,9,Butler,Dayton,28,38,fcs,fcs,,,False,10,Dayton
+401013155,2018,9,Florida State,Clemson,10,59,fbs,fbs,1603.0,2131.0,False,49,Clemson
+401030548,2018,9,Central Connecticut,Wagner,49,24,fcs,fcs,,,False,-25,Central Connecticut
+401030560,2018,9,Robert Morris,St Francis (PA),7,20,fcs,fcs,,,False,13,St Francis (PA)
+401020768,2018,9,Akron,Central Michigan,17,10,fbs,fbs,1216.0,1230.0,False,-7,Akron
+401012885,2018,9,Michigan State,Purdue,23,13,fbs,fbs,1658.0,1814.0,False,-10,Michigan State
+401013364,2018,9,Connecticut,UMass,17,22,fbs,fbs,972.0,1177.0,False,5,UMass
+401013344,2018,9,Northwestern,Wisconsin,31,17,fbs,fbs,1617.0,1823.0,False,-14,Northwestern
+401012319,2018,9,Arkansas,Vanderbilt,31,45,fbs,fbs,1418.0,1477.0,False,14,Vanderbilt
+401013158,2018,9,Virginia,North Carolina,31,21,fbs,fbs,1554.0,1337.0,False,-10,Virginia
+401029832,2018,9,Brown,Pennsylvania,7,13,fcs,fcs,,,False,6,Pennsylvania
+401030535,2018,9,Howard,South Carolina State,21,27,fcs,fcs,,,False,6,South Carolina State
+401030541,2018,9,Sacred Heart,Bryant,49,26,fcs,fcs,,,False,-23,Sacred Heart
+401029842,2018,9,Columbia,Yale,17,10,fcs,fcs,,,False,-7,Columbia
+401029891,2018,9,Maine,Albany,28,9,fcs,fcs,,,False,-19,Maine
+401030374,2018,9,Davidson,Stetson,53,56,fcs,fcs,,,False,3,Stetson
+401029850,2018,9,Princeton,Cornell,66,0,fcs,fcs,,,False,-66,Princeton
+401030093,2018,9,Illinois State,South Dakota State,28,38,fcs,fcs,,,False,10,South Dakota State
+401030232,2018,9,Eastern Kentucky,Eastern Illinois,31,23,fcs,fcs,,,False,-8,Eastern Kentucky
+401030597,2018,9,Morehead State,Marist,21,48,fcs,fcs,,,False,27,Marist
+401030345,2018,9,Fordham,Lafayette,13,21,fcs,fcs,,,False,8,Lafayette
+401030348,2018,9,Holy Cross,Lehigh,56,0,fcs,fcs,,,False,-56,Holy Cross
+401030279,2018,9,Wofford,Mercer,42,21,fcs,fcs,,,False,-21,Wofford
+401029858,2018,9,Dartmouth,Harvard,24,17,fcs,fcs,,,False,-7,Dartmouth
+401030585,2018,9,Valparaiso,Drake,25,42,fcs,fcs,,,False,17,Drake
+401029966,2018,9,Villanova,New Hampshire,0,34,fcs,fcs,,,False,34,New Hampshire
+401030269,2018,9,The Citadel,Furman,17,28,fcs,fcs,,,False,11,Furman
+401021682,2018,9,Georgia State,Coastal Carolina,34,37,fbs,fbs,1251.0,1204.0,False,3,Coastal Carolina
+401030224,2018,9,Sam Houston State,Southeastern Louisiana,28,25,fcs,fcs,,,False,-3,Sam Houston State
+401030103,2018,9,Youngstown State,Indiana State,17,43,fcs,fcs,,,False,26,Indiana State
+401030116,2018,9,Western Illinois,Northern Iowa,37,17,fcs,fcs,,,False,-20,Western Illinois
+401034102,2018,9,Hampton,Virginia Lynchburg,51,28,fcs,,,,False,-23,Hampton
+401030502,2018,9,Delaware State,North Carolina Central,28,13,fcs,fcs,,,False,-15,Delaware State
+401015026,2018,9,Charlotte,Southern Mississippi,20,17,fbs,fbs,1153.0,1401.0,False,-3,Charlotte
+401030004,2018,9,Presbyterian College,Monmouth,14,24,fcs,fcs,,,False,10,Monmouth
+401030466,2018,9,Grambling,Arkansas-Pine Bluff,45,38,fcs,fcs,,,False,-7,Grambling
+401030459,2018,9,Prairie View,Alcorn State,13,27,fcs,fcs,,,False,14,Alcorn State
+401030405,2018,9,North Dakota,Weber State,30,35,fcs,fcs,,,False,5,Weber State
+401030255,2018,9,Chattanooga,VMI,34,27,fcs,fcs,,,False,-7,Chattanooga
+401030284,2018,9,UT Martin,Southeast Missouri State,33,56,fcs,fcs,,,False,23,Southeast Missouri State
+401030109,2018,9,Missouri State,Southern Illinois,35,49,fcs,fcs,,,False,14,Southern Illinois
+401029751,2018,9,South Dakota,North Dakota State,14,59,fcs,fcs,,,False,45,North Dakota State
+401012777,2018,9,Colorado,Oregon State,34,41,fbs,fbs,1589.0,1048.0,False,7,Oregon State
+401030486,2018,9,Texas Southern,Mississippi Valley State,42,14,fcs,fcs,,,False,-28,Texas Southern
+401013053,2018,9,Kansas,TCU,27,26,fbs,fbs,1278.0,1671.0,False,-1,Kansas
+401030522,2018,9,Savannah State,Norfolk State,32,3,fcs,fcs,,,False,-29,Savannah State
+401030025,2018,9,Eastern Washington,Idaho,38,14,fcs,fcs,,,False,-24,Eastern Washington
+401029917,2018,9,James Madison,Stony Brook,13,10,fcs,fcs,,,False,-3,James Madison
+401029900,2018,9,Delaware,Towson,40,36,fcs,fcs,,,False,-4,Delaware
+401030443,2018,9,Alabama A&M,Alabama State,27,10,fcs,fcs,,,False,-17,Alabama A&M
+401030313,2018,9,East Tennessee State,Western Carolina,45,43,fcs,fcs,,,False,-2,East Tennessee State
+401019514,2018,9,SMU,Cincinnati,20,26,fbs,fbs,1288.0,1500.0,False,6,Cincinnati
+401012811,2018,9,Maryland,Illinois,63,33,fbs,fbs,1468.0,1234.0,False,-30,Maryland
+401012320,2018,9,Georgia,Florida,36,17,fbs,fbs,1922.0,1691.0,True,-19,Georgia
+401013062,2018,9,Oklahoma,Kansas State,51,14,fbs,fbs,2032.0,1603.0,False,-37,Oklahoma
+401012868,2018,9,Penn State,Iowa,30,24,fbs,fbs,2009.0,1831.0,False,-6,Penn State
+401019515,2018,9,Houston,South Florida,57,36,fbs,fbs,1640.0,1603.0,False,-21,Houston
+401012776,2018,9,USC,Arizona State,35,38,fbs,fbs,1637.0,1609.0,False,3,Arizona State
+401015029,2018,9,Old Dominion,Middle Tennessee,17,51,fbs,fbs,1202.0,1341.0,False,34,Middle Tennessee
+401016409,2018,9,BYU,Northern Illinois,6,7,fbs,fbs,1440.0,1428.0,False,1,Northern Illinois
+401013156,2018,9,Pittsburgh,Duke,54,45,fbs,fbs,1457.0,1626.0,False,-9,Pittsburgh
+401015030,2018,9,North Texas,Rice,41,17,fbs,fbs,1587.0,988.0,False,-24,North Texas
+401012322,2018,9,Missouri,Kentucky,14,16,fbs,fbs,1744.0,1625.0,False,2,Kentucky
+401022545,2018,9,Utah State,New Mexico,61,19,fbs,fbs,1668.0,1337.0,False,-42,Utah State
+401030245,2018,9,Murray State,Jacksonville State,15,42,fcs,fcs,,,False,27,Jacksonville State
+401030593,2018,9,San Diego,Jacksonville,59,35,fcs,fcs,,,False,-24,San Diego
+401030511,2018,9,Florida A&M,Morgan State,38,3,fcs,fcs,,,False,-35,Florida A&M
+401030394,2018,9,Montana,UC Davis,21,49,fcs,fcs,,,False,28,UC Davis
+401030197,2018,9,Stephen F. Austin,Lamar,17,24,fcs,fcs,,,False,7,Lamar
+401030189,2018,9,Nicholls,Incarnate Word,48,21,fcs,fcs,,,False,-27,Nicholls
+401029974,2018,9,Campbell,Gardner-Webb,7,35,fcs,fcs,,,False,28,Gardner-Webb
+401030204,2018,9,Austin Peay,Tennessee Tech,41,10,fcs,fcs,,,False,-31,Austin Peay
+401030327,2018,9,Idaho State,Montana State,24,17,fcs,fcs,,,False,-7,Idaho State
+401029983,2018,9,Charleston Southern,Kennesaw State,10,38,fcs,fcs,,,False,28,Kennesaw State
+401012778,2018,9,California,Washington,12,10,fbs,fbs,1516.0,1850.0,False,-2,California
+401022549,2018,9,San José State,UNLV,50,37,fbs,fbs,984.0,1225.0,False,-13,San José State
+401012321,2018,9,Mississippi State,Texas A&M,28,13,fbs,fbs,1724.0,1688.0,False,-15,Mississippi State
+401013159,2018,9,Syracuse,NC State,51,41,fbs,fbs,1504.0,1676.0,False,-10,Syracuse
+401019516,2018,9,Tulsa,Tulane,17,24,fbs,fbs,1339.0,1370.0,False,7,Tulane
+401013444,2018,9,Texas State,New Mexico State,27,20,fbs,fbs,1055.0,1057.0,False,-7,Texas State
+401021681,2018,9,Louisiana,Arkansas State,47,43,fbs,fbs,1277.0,1463.0,False,-4,Louisiana
+401012779,2018,9,Stanford,Washington State,38,41,fbs,fbs,1701.0,1662.0,False,3,Washington State
+401022544,2018,9,Air Force,Boise State,38,48,fbs,fbs,1501.0,1771.0,False,10,Boise State
+401030476,2018,9,Southern,Jackson State,41,7,fcs,fcs,,,False,-34,Southern
+401030169,2018,9,McNeese,Central Arkansas,23,21,fcs,fcs,,,False,-2,McNeese
+401030179,2018,9,Northwestern State,Houston Christian,31,28,fcs,fcs,,,False,-3,Northwestern State
+401030015,2018,9,Northern Arizona,Cal Poly,28,38,fcs,fcs,,,False,10,Cal Poly
+401012323,2018,9,South Carolina,Tennessee,27,24,fbs,fbs,1620.0,1387.0,False,-3,South Carolina
+401015031,2018,9,UTEP,UAB,0,19,fbs,fbs,1049.0,1520.0,False,19,UAB
+401015027,2018,9,Western Kentucky,Florida International,17,38,fbs,fbs,1272.0,1461.0,False,21,Florida International
+401013189,2018,9,Navy,Notre Dame,22,44,fbs,fbs,1447.0,1859.0,True,22,Notre Dame
+401013320,2018,9,Oklahoma State,Texas,38,35,fbs,fbs,1692.0,1731.0,False,-3,Oklahoma State
+401030420,2018,9,Southern Utah,Northern Colorado,39,42,fcs,fcs,,,False,3,Northern Colorado
+401030424,2018,9,Sacramento State,Portland State,14,41,fcs,fcs,,,False,27,Portland State
+401022548,2018,9,Nevada,San Diego State,28,24,fbs,fbs,1357.0,1588.0,False,-4,Nevada
+401012775,2018,9,Arizona,Oregon,44,15,fbs,fbs,1418.0,1648.0,False,-29,Arizona
+401022547,2018,9,Fresno State,Hawai'i,50,20,fbs,fbs,1720.0,1246.0,False,-30,Fresno State
+401020770,2018,10,Buffalo,Miami (OH),51,42,fbs,fbs,1465.0,1412.0,False,-9,Buffalo
+401020769,2018,10,Bowling Green,Kent State,28,35,fbs,fbs,1015.0,1006.0,False,7,Kent State
+401020771,2018,10,Toledo,Ball State,45,13,fbs,fbs,1517.0,1085.0,False,-32,Toledo
+401020773,2018,10,Western Michigan,Ohio,14,59,fbs,fbs,1380.0,1622.0,False,45,Ohio
+401020772,2018,10,Akron,Northern Illinois,26,36,fbs,fbs,1226.0,1430.0,False,10,Northern Illinois
+401019517,2018,10,UCF,Temple,52,40,fbs,fbs,1858.0,1651.0,False,-12,UCF
+401029851,2018,10,Cornell,Pennsylvania,7,20,fcs,fcs,,,False,13,Pennsylvania
+401013160,2018,10,Virginia,Pittsburgh,13,23,fbs,fbs,1556.0,1484.0,False,10,Pittsburgh
+401015034,2018,10,Middle Tennessee,Western Kentucky,29,10,fbs,fbs,1421.0,1239.0,False,-19,Middle Tennessee
+401012780,2018,10,Arizona,Colorado,42,34,fbs,fbs,1525.0,1527.0,False,-8,Arizona
+401013373,2018,10,Army,Air Force,17,14,fbs,fbs,1697.0,1503.0,False,-3,Army
+401013166,2018,10,Wake Forest,Syracuse,24,41,fbs,fbs,1445.0,1534.0,False,17,Syracuse
+401012847,2018,10,Wisconsin,Rutgers,31,17,fbs,fbs,1776.0,1064.0,False,-14,Wisconsin
+401013162,2018,10,Clemson,Louisville,77,16,fbs,fbs,2209.0,1362.0,False,-61,Clemson
+401012328,2018,10,Ole Miss,South Carolina,44,48,fbs,fbs,1535.0,1618.0,False,4,South Carolina
+401019520,2018,10,East Carolina,Memphis,41,59,fbs,fbs,1216.0,1618.0,False,18,Memphis
+401013034,2018,10,Baylor,Oklahoma State,35,31,fbs,fbs,1360.0,1693.0,False,-4,Baylor
+401012877,2018,10,Maryland,Michigan State,3,24,fbs,fbs,1520.0,1687.0,False,21,Michigan State
+401013045,2018,10,Kansas,Iowa State,3,27,fbs,fbs,1289.0,1717.0,False,24,Iowa State
+401029843,2018,10,Harvard,Columbia,52,18,fcs,fcs,,,False,-34,Harvard
+401030363,2018,10,Jacksonville,Butler,48,44,fcs,fcs,,,False,-4,Jacksonville
+401030542,2018,10,St Francis (PA),Bryant,27,14,fcs,fcs,,,False,-13,St Francis (PA)
+401030556,2018,10,Wagner,Duquesne,30,47,fcs,fcs,,,False,17,Duquesne
+401030561,2018,10,Sacred Heart,Robert Morris,38,7,fcs,fcs,,,False,-31,Sacred Heart
+401012324,2018,10,Auburn,Texas A&M,28,24,fbs,fbs,1776.0,1660.0,False,-4,Auburn
+401020774,2018,10,Eastern Michigan,Central Michigan,17,7,fbs,fbs,1440.0,1220.0,False,-10,Eastern Michigan
+401030598,2018,10,Marist,Valparaiso,35,24,fcs,fcs,,,False,-11,Marist
+401013341,2018,10,Ohio State,Nebraska,36,31,fbs,fbs,1929.0,1410.0,False,-5,Ohio State
+401013165,2018,10,North Carolina,Georgia Tech,28,38,fbs,fbs,1335.0,1703.0,False,10,Georgia Tech
+401030349,2018,10,Lafayette,Holy Cross,14,40,fcs,fcs,,,False,26,Holy Cross
+401029886,2018,10,Lehigh,Bucknell,45,17,fcs,fcs,,,False,-28,Lehigh
+401029859,2018,10,Princeton,Dartmouth,14,9,fcs,fcs,,,False,-5,Princeton
+401030603,2018,10,Stetson,Morehead State,48,24,fcs,fcs,,,False,-24,Stetson
+401034103,2018,10,SUNY Maritime,Hampton,10,51,iii,fcs,,,False,41,Hampton
+401030523,2018,10,North Carolina A&T,Norfolk State,37,20,fcs,fcs,,,False,-17,North Carolina A&T
+401029833,2018,10,Yale,Brown,46,16,fcs,fcs,,,False,-30,Yale
+401030256,2018,10,Furman,Chattanooga,16,10,fcs,fcs,,,False,-6,Furman
+401029918,2018,10,New Hampshire,James Madison,35,24,fcs,fcs,,,False,-11,New Hampshire
+401029984,2018,10,Monmouth,Charleston Southern,37,3,fcs,fcs,,,False,-34,Monmouth
+401029934,2018,10,Fordham,Colgate,0,41,fcs,fcs,,,False,41,Colgate
+401030104,2018,10,Indiana State,South Dakota,51,48,fcs,fcs,,,False,-3,Indiana State
+401030512,2018,10,Howard,Florida A&M,31,23,fcs,fcs,,,False,-8,Howard
+401030264,2018,10,VMI,Tusculum,20,11,fcs,ii,,,False,-9,VMI
+401029909,2018,10,Elon,Rhode Island,24,21,fcs,fcs,,,False,-3,Elon
+401029992,2018,10,Gardner-Webb,Presbyterian College,38,20,fcs,fcs,,,False,-18,Gardner-Webb
+401030285,2018,10,Southeast Missouri State,Tennessee State,38,21,fcs,fcs,,,False,-17,Southeast Missouri State
+401022552,2018,10,Wyoming,San José State,24,9,fbs,fbs,1420.0,1031.0,False,-15,Wyoming
+401030428,2018,10,Weber State,Sacramento State,26,14,fcs,fcs,,,False,-12,Weber State
+401030586,2018,10,Drake,San Diego,10,27,fcs,fcs,,,False,17,San Diego
+401021686,2018,10,Georgia State,Texas State,30,40,fbs,fbs,1244.0,1065.0,False,10,Texas State
+401030421,2018,10,Northern Colorado,Eastern Washington,13,48,fcs,fcs,,,False,35,Eastern Washington
+401030162,2018,10,Southern Illinois,Western Illinois,31,34,fcs,fcs,,,False,3,Western Illinois
+401030531,2018,10,North Carolina Central,Edward Waters,52,12,fcs,ii,,,False,-40,North Carolina Central
+401030094,2018,10,Northern Iowa,Illinois State,26,16,fcs,fcs,,,False,-10,Northern Iowa
+401030246,2018,10,Jacksonville State,UT Martin,21,14,fcs,fcs,,,False,-7,Jacksonville State
+401029975,2018,10,Kennesaw State,Campbell,49,0,fcs,fcs,,,False,-49,Kennesaw State
+401030503,2018,10,Delaware State,Savannah State,25,6,fcs,fcs,,,False,-19,Delaware State
+401030274,2018,10,Tennessee Tech,Murray State,27,24,fcs,fcs,,,False,-3,Tennessee Tech
+401030571,2018,10,North Alabama,Shorter,41,14,fcs,ii,,,False,-27,North Alabama
+401030450,2018,10,Alabama State,Texas Southern,30,21,fcs,fcs,,,False,-9,Alabama State
+401029954,2018,10,Richmond,Villanova,21,45,fcs,fcs,,,False,24,Villanova
+401030110,2018,10,South Dakota State,Missouri State,59,7,fcs,fcs,,,False,-52,South Dakota State
+401030152,2018,10,Abilene Christian,Northwestern State,49,47,fcs,fcs,,,False,-2,Abilene Christian
+401030180,2018,10,Houston Christian,Nicholls,20,41,fcs,fcs,,,False,21,Nicholls
+401030190,2018,10,Incarnate Word,Sam Houston State,43,26,fcs,fcs,,,False,-17,Incarnate Word
+401030280,2018,10,Mercer,East Tennessee State,18,21,fcs,fcs,,,False,3,East Tennessee State
+401030320,2018,10,Samford,Wofford,35,20,fcs,fcs,,,False,-15,Samford
+401030395,2018,10,Southern Utah,Montana,14,57,fcs,fcs,,,False,43,Montana
+401030471,2018,10,Grambling,Mississippi Valley State,24,19,fcs,fcs,,,False,-5,Grambling
+401030477,2018,10,Jackson State,Prairie View,34,28,fcs,fcs,,,False,-6,Jackson State
+401021684,2018,10,Arkansas State,South Alabama,38,14,fbs,fbs,1454.0,1070.0,False,-24,Arkansas State
+401021685,2018,10,Louisiana Monroe,Georgia Southern,44,25,fbs,fbs,1139.0,1533.0,False,-19,Louisiana Monroe
+401015033,2018,10,Southern Mississippi,Marshall,26,24,fbs,fbs,1397.0,1529.0,False,-2,Southern Mississippi
+401015035,2018,10,Rice,UTEP,26,34,fbs,fbs,988.0,1049.0,False,8,UTEP
+401019521,2018,10,South Florida,Tulane,15,41,fbs,fbs,1557.0,1381.0,False,26,Tulane
+401019518,2018,10,Cincinnati,Navy,42,0,fbs,fbs,1496.0,1440.0,False,-42,Cincinnati
+401012812,2018,10,Illinois,Minnesota,55,31,fbs,fbs,1182.0,1433.0,False,-24,Illinois
+401013164,2018,10,NC State,Florida State,47,28,fbs,fbs,1646.0,1525.0,False,-19,NC State
+401012869,2018,10,Purdue,Iowa,38,36,fbs,fbs,1785.0,1832.0,False,-2,Purdue
+401012326,2018,10,Kentucky,Georgia,17,34,fbs,fbs,1635.0,1950.0,False,17,Georgia
+401013063,2018,10,TCU,Kansas State,14,13,fbs,fbs,1660.0,1552.0,False,-1,TCU
+401013365,2018,10,UMass,Liberty,62,59,fbs,fbs,1172.0,1354.0,False,-3,UMass
+401013188,2018,10,Texas,West Virginia,41,42,fbs,fbs,1730.0,1767.0,False,1,West Virginia
+401021687,2018,10,Troy,Louisiana,26,16,fbs,fbs,1537.0,1286.0,False,-10,Troy
+401029752,2018,10,North Dakota State,Youngstown State,17,7,fcs,fcs,,,False,-10,North Dakota State
+401030270,2018,10,Western Carolina,The Citadel,24,38,fcs,fcs,,,False,14,The Citadel
+401029892,2018,10,Albany,Delaware,16,21,fcs,fcs,,,False,5,Delaware
+401030211,2018,10,Southeastern Louisiana,McNeese,23,6,fcs,fcs,,,False,-17,Southeastern Louisiana
+401030444,2018,10,Arkansas-Pine Bluff,Alabama A&M,14,45,fcs,fcs,,,False,31,Alabama A&M
+401013161,2018,10,Virginia Tech,Boston College,21,31,fbs,fbs,1607.0,1698.0,False,10,Boston College
+401012894,2018,10,Michigan,Penn State,42,7,fbs,fbs,1957.0,2008.0,False,-35,Michigan
+401013445,2018,10,New Mexico State,Alcorn State,52,42,fbs,fcs,,,False,-10,New Mexico State
+401012325,2018,10,Florida,Missouri,17,38,fbs,fbs,1663.0,1734.0,False,21,Missouri
+401012781,2018,10,Arizona State,Utah,38,20,fbs,fbs,1615.0,1809.0,False,-18,Arizona State
+401012330,2018,10,Tennessee,Charlotte,14,3,fbs,fbs,1389.0,1157.0,False,-11,Tennessee
+401030016,2018,10,Montana State,Cal Poly,49,42,fcs,fcs,,,False,-7,Montana State
+401030414,2018,10,UC Davis,Northern Arizona,42,20,fcs,fcs,,,False,-22,UC Davis
+401030494,2018,10,Morgan State,Bethune-Cookman,28,30,fcs,fcs,,,False,2,Bethune-Cookman
+401029925,2018,10,Towson,Maine,28,35,fcs,fcs,,,False,7,Maine
+401030026,2018,10,Idaho,North Dakota,31,27,fcs,fcs,,,False,-4,Idaho
+401030205,2018,10,Austin Peay,Eastern Kentucky,13,17,fcs,fcs,,,False,4,Eastern Kentucky
+401021683,2018,10,Coastal Carolina,Appalachian State,7,23,fbs,fbs,1211.0,1699.0,False,16,Appalachian State
+401019522,2018,10,SMU,Houston,45,31,fbs,fbs,1292.0,1686.0,False,-14,SMU
+401019519,2018,10,Tulsa,Connecticut,49,19,fbs,fbs,1328.0,977.0,False,-30,Tulsa
+401013163,2018,10,Miami,Duke,12,20,fbs,fbs,1738.0,1599.0,False,8,Duke
+401030170,2018,10,Central Arkansas,Lamar,24,38,fcs,fcs,,,False,14,Lamar
+401013345,2018,10,Northwestern,Notre Dame,21,31,fbs,fbs,1664.0,1866.0,False,10,Notre Dame
+401015032,2018,10,Florida International,Florida Atlantic,14,49,fbs,fbs,1494.0,1441.0,False,35,Florida Atlantic
+401012329,2018,10,Mississippi State,Louisiana Tech,45,3,fbs,fbs,1752.0,1500.0,False,-42,Mississippi State
+401012782,2018,10,Oregon,UCLA,42,21,fbs,fbs,1541.0,1393.0,False,-21,Oregon
+401015036,2018,10,UAB,UT San Antonio,52,3,fbs,fbs,1520.0,1217.0,False,-49,UAB
+401012327,2018,10,LSU,Alabama,0,29,fbs,fbs,1899.0,2252.0,False,29,Alabama
+401013069,2018,10,Texas Tech,Oklahoma,46,51,fbs,fbs,1669.0,2083.0,False,5,Oklahoma
+401012784,2018,10,Washington,Stanford,27,23,fbs,fbs,1845.0,1694.0,False,-4,Washington
+401012783,2018,10,Oregon State,USC,21,38,fbs,fbs,1110.0,1631.0,False,17,USC
+401030328,2018,10,Portland State,Idaho State,45,48,fcs,fcs,,,False,3,Idaho State
+401016410,2018,10,Boise State,BYU,21,16,fbs,fbs,1769.0,1438.0,False,-5,Boise State
+401022550,2018,10,New Mexico,San Diego State,23,31,fbs,fbs,1258.0,1578.0,False,8,San Diego State
+401022553,2018,10,UNLV,Fresno State,3,48,fbs,fbs,1178.0,1746.0,False,45,Fresno State
+401012785,2018,10,Washington State,California,19,13,fbs,fbs,1669.0,1521.0,False,-6,Washington State
+401022551,2018,10,Hawai'i,Utah State,17,56,fbs,fbs,1220.0,1747.0,False,39,Utah State
+401020775,2018,11,Buffalo,Kent State,48,14,fbs,fbs,1476.0,1020.0,False,-34,Buffalo
+401020776,2018,11,Miami (OH),Ohio,30,28,fbs,fbs,1401.0,1725.0,False,-2,Miami (OH)
+401020777,2018,11,Northern Illinois,Toledo,38,15,fbs,fbs,1434.0,1553.0,False,-23,Northern Illinois
+401030495,2018,11,Bethune-Cookman,North Carolina Central,28,25,fcs,fcs,,,False,-3,Bethune-Cookman
+401013167,2018,11,NC State,Wake Forest,23,27,fbs,fbs,1677.0,1413.0,False,4,Wake Forest
+401013168,2018,11,Syracuse,Louisville,54,23,fbs,fbs,1566.0,1289.0,False,-31,Syracuse
+401022556,2018,11,Boise State,Fresno State,24,17,fbs,fbs,1761.0,1807.0,False,-7,Boise State
+401029999,2018,11,Monmouth,Kennesaw State,14,51,fcs,fcs,,,False,37,Kennesaw State
+401012886,2018,11,Michigan State,Ohio State,6,26,fbs,fbs,1722.0,1915.0,False,20,Ohio State
+401013351,2018,11,Penn State,Wisconsin,22,10,fbs,fbs,1903.0,1751.0,False,-12,Penn State
+401012337,2018,11,Texas A&M,Ole Miss,38,24,fbs,fbs,1660.0,1534.0,False,-14,Texas A&M
+401012813,2018,11,Nebraska,Illinois,54,35,fbs,fbs,1424.0,1272.0,False,-19,Nebraska
+401012859,2018,11,Indiana,Maryland,34,32,fbs,fbs,1499.0,1485.0,False,-2,Indiana
+401013054,2018,11,Kansas State,Kansas,21,17,fbs,fbs,1555.0,1273.0,False,-4,Kansas State
+401013366,2018,11,UMass,BYU,16,35,fbs,fbs,1175.0,1446.0,False,19,BYU
+401019525,2018,11,Connecticut,SMU,50,62,fbs,fbs,938.0,1359.0,False,12,SMU
+401019528,2018,11,Memphis,Tulsa,47,21,fbs,fbs,1622.0,1367.0,False,-26,Memphis
+401013077,2018,11,West Virginia,TCU,47,10,fbs,fbs,1766.0,1657.0,False,-37,West Virginia
+401019523,2018,11,UCF,Navy,35,24,fbs,fbs,1865.0,1324.0,False,-11,UCF
+401012333,2018,11,Florida,South Carolina,35,31,fbs,fbs,1617.0,1619.0,False,-4,Florida
+401020778,2018,11,Eastern Michigan,Akron,27,7,fbs,fbs,1442.0,1222.0,False,-20,Eastern Michigan
+401012335,2018,11,Missouri,Vanderbilt,33,28,fbs,fbs,1780.0,1503.0,False,-5,Missouri
+401013374,2018,11,Army,Lafayette,31,13,fbs,fcs,,,False,-18,Army
+401030557,2018,11,Duquesne,Sacred Heart,28,24,fcs,fcs,,,False,-4,Duquesne
+401030549,2018,11,St Francis (PA),Central Connecticut,14,30,fcs,fcs,,,False,16,Central Connecticut
+401030364,2018,11,Butler,Stetson,28,23,fcs,fcs,,,False,-5,Butler
+401030275,2018,11,Murray State,Southeast Missouri State,40,38,fcs,fcs,,,False,-2,Murray State
+401030117,2018,11,Youngstown State,Northern Iowa,31,10,fcs,fcs,,,False,-21,Youngstown State
+401029976,2018,11,Presbyterian College,Campbell,6,34,fcs,fcs,,,False,28,Campbell
+401029910,2018,11,Elon,Towson,10,41,fcs,fcs,,,False,31,Towson
+401029834,2018,11,Brown,Columbia,20,42,fcs,fcs,,,False,22,Columbia
+401030346,2018,11,Holy Cross,Fordham,17,13,fcs,fcs,,,False,-4,Holy Cross
+401013170,2018,11,Duke,North Carolina,42,35,fbs,fbs,1626.0,1344.0,False,-7,Duke
+401029932,2018,11,Lehigh,Colgate,6,48,fcs,fcs,,,False,42,Colgate
+401029887,2018,11,Georgetown,Bucknell,14,3,fcs,fcs,,,False,-11,Georgetown
+401029875,2018,11,Yale,Princeton,43,59,fcs,fcs,,,False,16,Princeton
+401021689,2018,11,Georgia Southern,Troy,21,35,fbs,fbs,1445.0,1537.0,False,14,Troy
+401029865,2018,11,Pennsylvania,Harvard,7,29,fcs,fcs,,,False,22,Harvard
+401029893,2018,11,New Hampshire,Albany,24,10,fcs,fcs,,,False,-14,New Hampshire
+401029901,2018,11,Stony Brook,Delaware,17,3,fcs,fcs,,,False,-14,Stony Brook
+401029967,2018,11,Villanova,William & Mary,17,24,fcs,fcs,,,False,7,William & Mary
+401030095,2018,11,Indiana State,Illinois State,28,23,fcs,fcs,,,False,-5,Indiana State
+401030239,2018,11,Eastern Kentucky,Robert Morris,40,39,fcs,fcs,,,False,-1,Eastern Kentucky
+401030257,2018,11,Chattanooga,Mercer,9,13,fcs,fcs,,,False,4,Mercer
+401030504,2018,11,Morgan State,Delaware State,9,0,fcs,fcs,,,False,-9,Morgan State
+401030524,2018,11,Norfolk State,Howard,29,17,fcs,fcs,,,False,-12,Norfolk State
+401030526,2018,11,Savannah State,North Carolina A&T,12,28,fcs,fcs,,,False,16,North Carolina A&T
+401030579,2018,11,Dayton,Morehead State,63,20,fcs,fcs,,,False,-43,Dayton
+401030594,2018,11,Valparaiso,Jacksonville,48,30,fcs,fcs,,,False,-18,Valparaiso
+401030543,2018,11,Bryant,Wagner,36,52,fcs,fcs,,,False,16,Wagner
+401030265,2018,11,VMI,Furman,13,49,fcs,fcs,,,False,36,Furman
+401029852,2018,11,Cornell,Dartmouth,24,35,fcs,fcs,,,False,11,Dartmouth
+401029919,2018,11,James Madison,Rhode Island,48,31,fcs,fcs,,,False,-17,James Madison
+401030271,2018,11,The Citadel,Samford,42,27,fcs,fcs,,,False,-15,The Citadel
+401030206,2018,11,Eastern Illinois,Austin Peay,52,21,fcs,fcs,,,False,-31,Eastern Illinois
+401030123,2018,11,South Dakota,Western Illinois,17,12,fcs,fcs,,,False,-5,South Dakota
+401030158,2018,11,Southern Illinois,South Dakota State,38,57,fcs,fcs,,,False,19,South Dakota State
+401030445,2018,11,Alabama A&M,Grambling,16,29,fcs,fcs,,,False,13,Grambling
+401034104,2018,11,Mississippi Valley State,Hampton,39,54,fcs,fcs,,,False,15,Hampton
+401030587,2018,11,Drake,Marist,13,10,fcs,fcs,,,False,-3,Drake
+401012786,2018,11,Arizona State,UCLA,31,28,fbs,fbs,1676.0,1358.0,False,-3,Arizona State
+401030572,2018,11,North Alabama,North Greenville,31,28,fcs,ii,,,False,-3,North Alabama
+401015037,2018,11,Marshall,Charlotte,30,13,fbs,fbs,1527.0,1154.0,False,-17,Marshall
+401015041,2018,11,UTEP,Middle Tennessee,32,48,fbs,fbs,1060.0,1447.0,False,16,Middle Tennessee
+401013174,2018,11,Virginia,Liberty,45,24,fbs,fbs,1529.0,1351.0,False,-21,Virginia
+401020779,2018,11,Central Michigan,Bowling Green,13,24,fbs,fbs,1218.0,1001.0,False,11,Bowling Green
+401030247,2018,11,Tennessee State,Jacksonville State,14,41,fcs,fcs,,,False,27,Jacksonville State
+401029985,2018,11,Charleston Southern,Gardner-Webb,16,0,fcs,fcs,,,False,-16,Charleston Southern
+401029753,2018,11,Missouri State,North Dakota State,7,48,fcs,fcs,,,False,41,North Dakota State
+401030292,2018,11,UT Martin,Tennessee Tech,38,13,fcs,fcs,,,False,-25,UT Martin
+401029926,2018,11,Richmond,Maine,9,28,fcs,fcs,,,False,19,Maine
+401030406,2018,11,North Dakota,Portland State,17,10,fcs,fcs,,,False,-7,North Dakota
+401030451,2018,11,Alabama State,Jackson State,2,20,fcs,fcs,,,False,18,Jackson State
+401030401,2018,11,Montana State,Northern Colorado,35,7,fcs,fcs,,,False,-28,Montana State
+401030322,2018,11,Western Carolina,Wofford,23,38,fcs,fcs,,,False,15,Wofford
+401030153,2018,11,Sam Houston State,Abilene Christian,10,17,fcs,fcs,,,False,7,Abilene Christian
+401013333,2018,11,Minnesota,Purdue,41,10,fbs,fbs,1343.0,1786.0,False,-31,Minnesota
+401012848,2018,11,Rutgers,Michigan,7,42,fbs,fbs,1089.0,2062.0,False,35,Michigan
+401013070,2018,11,Oklahoma,Oklahoma State,48,47,fbs,fbs,2065.0,1679.0,False,-1,Oklahoma
+401012870,2018,11,Iowa,Northwestern,10,14,fbs,fbs,1831.0,1660.0,False,4,Northwestern
+401013035,2018,11,Iowa State,Baylor,28,14,fbs,fbs,1733.0,1374.0,False,-14,Iowa State
+401013173,2018,11,Pittsburgh,Virginia Tech,52,22,fbs,fbs,1511.0,1594.0,False,-30,Pittsburgh
+401015042,2018,11,Old Dominion,North Texas,34,31,fbs,fbs,1122.0,1587.0,False,-3,Old Dominion
+401022554,2018,11,Air Force,New Mexico,42,24,fbs,fbs,1504.0,1267.0,False,-18,Air Force
+401012788,2018,11,Colorado,Washington State,7,31,fbs,fbs,1515.0,1669.0,False,24,Washington State
+401012336,2018,11,Tennessee,Kentucky,24,7,fbs,fbs,1392.0,1625.0,False,-17,Tennessee
+401012331,2018,11,Alabama,Mississippi State,24,0,fbs,fbs,2290.0,1841.0,False,-24,Alabama
+401019526,2018,11,Tulane,East Carolina,24,18,fbs,fbs,1475.0,1212.0,False,-6,Tulane
+401021702,2018,11,Texas State,Appalachian State,7,38,fbs,fbs,1102.0,1692.0,False,31,Appalachian State
+401022557,2018,11,Utah State,San José State,62,24,fbs,fbs,1794.0,1032.0,False,-38,Utah State
+401030171,2018,11,Central Arkansas,Incarnate Word,27,40,fcs,fcs,,,False,13,Incarnate Word
+401030513,2018,11,Florida A&M,South Carolina State,21,44,fcs,fcs,,,False,23,South Carolina State
+401030221,2018,11,Nicholls,Stephen F. Austin,47,14,fcs,fcs,,,False,-33,Nicholls
+401030181,2018,11,Lamar,Houston Christian,38,9,fcs,fcs,,,False,-29,Lamar
+401030435,2018,11,Eastern Washington,UC Davis,59,20,fcs,fcs,,,False,-39,Eastern Washington
+401030467,2018,11,Southern,Arkansas-Pine Bluff,56,24,fcs,fcs,,,False,-32,Southern
+401030375,2018,11,San Diego,Davidson,56,52,fcs,fcs,,,False,-4,San Diego
+401021688,2018,11,Coastal Carolina,Arkansas State,16,44,fbs,fbs,1218.0,1474.0,False,28,Arkansas State
+401021691,2018,11,South Alabama,Louisiana Monroe,10,38,fbs,fbs,1050.0,1227.0,False,28,Louisiana Monroe
+401015039,2018,11,Florida Atlantic,Western Kentucky,34,15,fbs,fbs,1551.0,1213.0,False,-19,Florida Atlantic
+401021690,2018,11,Louisiana,Georgia State,36,22,fbs,fbs,1286.0,1207.0,False,-14,Louisiana
+401012789,2018,11,Utah,Oregon,32,25,fbs,fbs,1748.0,1576.0,False,-7,Utah
+401030027,2018,11,Idaho,Montana,27,46,fcs,fcs,,,False,19,Montana
+401030212,2018,11,Northwestern State,McNeese,37,34,fcs,fcs,,,False,-3,Northwestern State
+401030432,2018,11,Southern Utah,Weber State,18,31,fcs,fcs,,,False,13,Weber State
+401019527,2018,11,Houston,Temple,49,59,fbs,fbs,1619.0,1644.0,False,10,Temple
+401012334,2018,11,Georgia,Auburn,27,10,fbs,fbs,1960.0,1776.0,False,-17,Georgia
+401013172,2018,11,Georgia Tech,Miami,27,21,fbs,fbs,1694.0,1711.0,False,-6,Georgia Tech
+401015038,2018,11,UT San Antonio,Florida International,7,45,fbs,fbs,1111.0,1384.0,False,38,Florida International
+401015040,2018,11,Louisiana Tech,Rice,28,13,fbs,fbs,1411.0,977.0,False,-15,Louisiana Tech
+401019524,2018,11,Cincinnati,South Florida,35,23,fbs,fbs,1612.0,1463.0,False,-12,Cincinnati
+401030017,2018,11,Cal Poly,Idaho State,37,14,fcs,fcs,,,False,-23,Cal Poly
+401013171,2018,11,Notre Dame,Florida State,42,13,fbs,fbs,1870.0,1494.0,False,-29,Notre Dame
+401013321,2018,11,Texas Tech,Texas,34,41,fbs,fbs,1687.0,1731.0,False,7,Texas
+401012332,2018,11,Arkansas,LSU,17,24,fbs,fbs,1392.0,1861.0,False,7,LSU
+401015043,2018,11,UAB,Southern Mississippi,26,23,fbs,fbs,1626.0,1399.0,False,-3,UAB
+401013169,2018,11,Boston College,Clemson,7,27,fbs,fbs,1711.0,2282.0,False,20,Clemson
+401012790,2018,11,Stanford,Oregon State,48,17,fbs,fbs,1695.0,1118.0,False,-31,Stanford
+401022555,2018,11,Nevada,Colorado State,49,10,fbs,fbs,1367.0,1276.0,False,-39,Nevada
+401012787,2018,11,USC,California,14,15,fbs,fbs,1623.0,1521.0,False,1,California
+401022558,2018,11,San Diego State,UNLV,24,27,fbs,fbs,1569.0,1117.0,False,3,UNLV
+401020780,2018,12,Ball State,Western Michigan,42,41,fbs,fbs,1049.0,1277.0,False,-1,Ball State
+401020781,2018,12,Ohio,Buffalo,52,17,fbs,fbs,1721.0,1515.0,False,-35,Ohio
+401020782,2018,12,Northern Illinois,Miami (OH),7,13,fbs,fbs,1504.0,1405.0,False,6,Miami (OH)
+401020783,2018,12,Kent State,Toledo,34,56,fbs,fbs,981.0,1483.0,False,22,Toledo
+401030218,2018,12,Stephen F. Austin,Northwestern State,23,35,fcs,fcs,,,False,12,Northwestern State
+401030223,2018,12,Nicholls,Southeastern Louisiana,44,0,fcs,fcs,,,False,-44,Nicholls
+401019529,2018,12,Houston,Tulane,48,17,fbs,fbs,1600.0,1470.0,False,-31,Houston
+401015045,2018,12,North Texas,Florida Atlantic,41,38,fbs,fbs,1579.0,1563.0,False,-3,North Texas
+401019530,2018,12,SMU,Memphis,18,28,fbs,fbs,1349.0,1660.0,False,10,Memphis
+401022560,2018,12,New Mexico,Boise State,14,45,fbs,fbs,1249.0,1773.0,False,31,Boise State
+401030425,2018,12,Portland State,Eastern Washington,23,74,fcs,fcs,,,False,51,Eastern Washington
+401029902,2018,12,Delaware,Villanova,21,42,fcs,fcs,,,False,21,Villanova
+401035274,2018,12,Harvard,Yale,45,27,fcs,fcs,,,True,-18,Harvard
+401030446,2018,12,Mississippi Valley State,Alabama A&M,14,42,fcs,fcs,,,False,28,Alabama A&M
+401012344,2018,12,Mississippi State,Arkansas,52,6,fbs,fbs,1827.0,1412.0,False,-46,Mississippi State
+401012342,2018,12,Kentucky,Middle Tennessee,34,23,fbs,fbs,1564.0,1448.0,False,-11,Kentucky
+401012878,2018,12,Maryland,Ohio State,51,52,fbs,fbs,1485.0,1945.0,False,1,Ohio State
+401019533,2018,12,Temple,South Florida,27,17,fbs,fbs,1663.0,1452.0,False,-10,Temple
+401013181,2018,12,Wake Forest,Pittsburgh,13,34,fbs,fbs,1438.0,1602.0,False,21,Pittsburgh
+401012338,2018,12,Alabama,The Citadel,50,17,fbs,fcs,,,False,-33,Alabama
+401013036,2018,12,Baylor,TCU,9,16,fbs,fbs,1375.0,1566.0,False,7,TCU
+401012887,2018,12,Nebraska,Michigan State,9,6,fbs,fbs,1453.0,1692.0,False,-3,Nebraska
+401013334,2018,12,Minnesota,Northwestern,14,24,fbs,fbs,1491.0,1678.0,False,10,Northwestern
+401012849,2018,12,Rutgers,Penn State,7,20,fbs,fbs,1098.0,1914.0,False,13,Penn State
+401012340,2018,12,Florida,Idaho,63,10,fbs,fcs,,,False,-53,Florida
+401029950,2018,12,Rhode Island,New Hampshire,24,21,fcs,fcs,,,False,-3,Rhode Island
+401029911,2018,12,Maine,Elon,27,26,fcs,fcs,,,False,-1,Maine
+401030550,2018,12,Central Connecticut,Duquesne,31,38,fcs,fcs,,,False,7,Duquesne
+401030562,2018,12,Robert Morris,Wagner,7,41,fcs,fcs,,,False,34,Wagner
+401030564,2018,12,Sacred Heart,St Francis (PA),13,7,fcs,fcs,,,False,-6,Sacred Heart
+401030599,2018,12,Marist,San Diego,14,31,fcs,fcs,,,False,17,San Diego
+401013375,2018,12,Army,Colgate,28,14,fbs,fcs,,,False,-14,Army
+401013178,2018,12,Louisville,NC State,10,52,fbs,fbs,1239.0,1652.0,False,42,NC State
+401030354,2018,12,Lafayette,Lehigh,3,34,fcs,fcs,,,False,31,Lehigh
+401030350,2018,12,Georgetown,Holy Cross,31,32,fcs,fcs,,,False,1,Holy Cross
+401029844,2018,12,Columbia,Cornell,24,21,fcs,fcs,,,False,-3,Columbia
+401029871,2018,12,Princeton,Pennsylvania,42,14,fcs,fcs,,,False,-28,Princeton
+401030096,2018,12,Illinois State,Youngstown State,35,28,fcs,fcs,,,False,-7,Illinois State
+401030314,2018,12,East Tennessee State,Samford,27,38,fcs,fcs,,,False,11,Samford
+401030365,2018,12,Davidson,Butler,41,38,fcs,fcs,,,False,-3,Davidson
+401030518,2018,12,Norfolk State,Morgan State,27,44,fcs,fcs,,,False,17,Morgan State
+401030544,2018,12,Howard,Bryant,55,56,fcs,fcs,,,False,1,Bryant
+401030608,2018,12,Stetson,Valparaiso,45,31,fcs,fcs,,,False,-14,Stetson
+401030580,2018,12,Jacksonville,Dayton,7,34,fcs,fcs,,,True,27,Dayton
+401030588,2018,12,Morehead State,Drake,6,43,fcs,fcs,,,False,37,Drake
+401029888,2018,12,Bucknell,Fordham,14,17,fcs,fcs,,,False,3,Fordham
+401030009,2018,12,Wofford,Presbyterian College,45,21,fcs,fcs,,,False,-24,Wofford
+401029993,2018,12,Gardner-Webb,Monmouth,42,56,fcs,fcs,,,False,14,Monmouth
+401030534,2018,12,South Carolina State,Savannah State,21,17,fcs,fcs,,,False,-4,South Carolina State
+401029835,2018,12,Dartmouth,Brown,49,7,fcs,fcs,,,False,-42,Dartmouth
+401012792,2018,12,Colorado,Utah,7,30,fbs,fbs,1469.0,1748.0,False,23,Utah
+401015044,2018,12,Charlotte,Florida International,35,42,fbs,fbs,1150.0,1460.0,False,7,Florida International
+401022561,2018,12,Colorado State,Utah State,24,29,fbs,fbs,1176.0,1812.0,False,5,Utah State
+401030105,2018,12,Western Illinois,Indiana State,13,15,fcs,fcs,,,False,2,Indiana State
+401030505,2018,12,Delaware State,Virginia Lynchburg,41,7,fcs,,,,False,-34,Delaware State
+401030452,2018,12,Prairie View,Alabama State,66,13,fcs,fcs,,,False,-53,Prairie View
+401030396,2018,12,Montana,Montana State,25,29,fcs,fcs,,,False,4,Montana State
+401029955,2018,12,William & Mary,Richmond,6,10,fcs,fcs,,,False,4,Richmond
+401029920,2018,12,Towson,James Madison,17,38,fcs,fcs,,,False,21,James Madison
+401030496,2018,12,Florida A&M,Bethune-Cookman,19,33,fcs,fcs,,,True,14,Bethune-Cookman
+401030527,2018,12,North Carolina Central,North Carolina A&T,0,45,fcs,fcs,,,False,45,North Carolina A&T
+401015048,2018,12,Old Dominion,VMI,77,14,fbs,fcs,,,False,-63,Old Dominion
+401030233,2018,12,Southeast Missouri State,Eastern Illinois,38,32,fcs,fcs,,,True,-6,Southeast Missouri State
+401029977,2018,12,Campbell,Charleston Southern,7,12,fcs,fcs,,,False,5,Charleston Southern
+401030240,2018,12,Tennessee Tech,Eastern Kentucky,6,37,fcs,fcs,,,False,31,Eastern Kentucky
+401013182,2018,12,Notre Dame,Syracuse,36,3,fbs,fbs,1904.0,1616.0,True,-33,Notre Dame
+401015047,2018,12,Marshall,UT San Antonio,23,0,fbs,fbs,1531.0,1035.0,False,-23,Marshall
+401021692,2018,12,Appalachian State,Georgia State,45,17,fbs,fbs,1710.0,1186.0,False,-28,Appalachian State
+401022562,2018,12,San José State,Nevada,12,21,fbs,fbs,1014.0,1467.0,False,9,Nevada
+401021693,2018,12,Arkansas State,Louisiana Monroe,31,17,fbs,fbs,1520.0,1282.0,False,-14,Arkansas State
+401030460,2018,12,Alcorn State,Jackson State,24,3,fcs,fcs,,,False,-21,Alcorn State
+401030154,2018,12,Abilene Christian,Central Arkansas,7,16,fcs,fcs,,,False,9,Central Arkansas
+401030000,2018,12,Kennesaw State,Jacksonville State,60,52,fcs,fcs,,,True,-8,Kennesaw State
+401030182,2018,12,Houston Christian,Sam Houston State,20,42,fcs,fcs,,,False,22,Sam Houston State
+401030429,2018,12,UC Davis,Sacramento State,56,13,fcs,fcs,,,True,-43,UC Davis
+401030290,2018,12,Tennessee State,UT Martin,31,28,fcs,fcs,,,False,-3,Tennessee State
+401030281,2018,12,Mercer,Furman,30,35,fcs,fcs,,,False,5,Furman
+401013180,2018,12,North Carolina,Western Carolina,49,26,fbs,fcs,,,False,-23,North Carolina
+401030124,2018,12,South Dakota State,South Dakota,49,27,fcs,fcs,,,False,-22,South Dakota State
+401029754,2018,12,North Dakota State,Southern Illinois,65,17,fcs,fcs,,,False,-48,North Dakota State
+401029894,2018,12,Albany,Stony Brook,25,23,fcs,fcs,,,False,-2,Albany
+401015046,2018,12,Southern Mississippi,Louisiana Tech,21,20,fbs,fbs,1401.0,1407.0,False,-1,Southern Mississippi
+401021696,2018,12,Troy,Texas State,12,7,fbs,fbs,1560.0,1084.0,False,-5,Troy
+401013353,2018,12,Purdue,Wisconsin,44,47,fbs,fbs,1638.0,1740.0,False,3,Wisconsin
+401013327,2018,12,Oklahoma State,West Virginia,45,41,fbs,fbs,1691.0,1857.0,False,-4,Oklahoma State
+401013177,2018,12,Georgia Tech,Virginia,30,27,fbs,fbs,1702.0,1561.0,False,-3,Georgia Tech
+401013064,2018,12,Kansas State,Texas Tech,21,6,fbs,fbs,1550.0,1677.0,False,-15,Kansas State
+401012814,2018,12,Illinois,Iowa,0,63,fbs,fbs,1243.0,1813.0,False,63,Iowa
+401012791,2018,12,UCLA,USC,34,27,fbs,fbs,1361.0,1617.0,False,-7,UCLA
+401013175,2018,12,Florida State,Boston College,22,21,fbs,fbs,1460.0,1717.0,False,-1,Florida State
+401020784,2018,12,Akron,Bowling Green,6,21,fbs,fbs,1197.0,1046.0,False,15,Bowling Green
+401019534,2018,12,Navy,Tulsa,37,29,fbs,fbs,1341.0,1329.0,False,-8,Navy
+401012346,2018,12,Tennessee,Missouri,17,50,fbs,fbs,1453.0,1774.0,False,33,Missouri
+401013179,2018,12,Virginia Tech,Miami,14,38,fbs,fbs,1503.0,1703.0,False,24,Miami
+401022559,2018,12,Wyoming,Air Force,35,27,fbs,fbs,1419.0,1522.0,False,-8,Wyoming
+401012860,2018,12,Michigan,Indiana,31,20,fbs,fbs,2053.0,1499.0,False,-11,Michigan
+401012341,2018,12,Georgia,UMass,66,27,fbs,fbs,1980.0,1156.0,False,-39,Georgia
+401012339,2018,12,Auburn,Liberty,53,0,fbs,fbs,1756.0,1319.0,False,-53,Auburn
+401030198,2018,12,McNeese,Lamar,17,21,fcs,fcs,,,False,4,Lamar
+401030407,2018,12,Northern Arizona,North Dakota,31,16,fcs,fcs,,,False,-15,Northern Arizona
+401012794,2018,12,Washington,Oregon State,42,23,fbs,fbs,1844.0,1099.0,False,-19,Washington
+401030329,2018,12,Idaho State,Weber State,13,26,fcs,fcs,,,False,13,Weber State
+401030111,2018,12,Northern Iowa,Missouri State,37,0,fcs,fcs,,,False,-37,Northern Iowa
+401030207,2018,12,Austin Peay,Murray State,48,23,fcs,fcs,,,False,-25,Austin Peay
+401021694,2018,12,Coastal Carolina,Georgia Southern,17,41,fbs,fbs,1172.0,1422.0,False,24,Georgia Southern
+401021695,2018,12,Louisiana,South Alabama,48,38,fbs,fbs,1307.0,995.0,False,-10,Louisiana
+401019532,2018,12,East Carolina,Connecticut,55,21,fbs,fbs,1217.0,948.0,False,-34,East Carolina
+401012347,2018,12,Texas A&M,UAB,41,20,fbs,fbs,1678.0,1624.0,False,-21,Texas A&M
+401013176,2018,12,Clemson,Duke,35,6,fbs,fbs,2276.0,1621.0,False,-29,Clemson
+401030018,2018,12,Cal Poly,Southern Utah,38,24,fcs,fcs,,,False,-14,Cal Poly
+401012345,2018,12,South Carolina,Chattanooga,49,9,fbs,fcs,,,False,-40,South Carolina
+401012348,2018,12,Vanderbilt,Ole Miss,36,29,fbs,fbs,1509.0,1516.0,False,-7,Vanderbilt
+401015049,2018,12,Western Kentucky,UTEP,40,16,fbs,fbs,1201.0,1059.0,False,-24,Western Kentucky
+401013055,2018,12,Oklahoma,Kansas,55,40,fbs,fbs,2053.0,1278.0,False,-15,Oklahoma
+401012343,2018,12,LSU,Rice,42,10,fbs,fbs,1841.0,981.0,False,-32,LSU
+401013046,2018,12,Texas,Iowa State,24,10,fbs,fbs,1741.0,1732.0,False,-14,Texas
+401019531,2018,12,UCF,Cincinnati,38,13,fbs,fbs,1848.0,1623.0,False,-25,UCF
+401030487,2018,12,Texas Southern,Arkansas-Pine Bluff,10,15,fcs,fcs,,,False,5,Arkansas-Pine Bluff
+401013446,2018,12,BYU,New Mexico State,45,10,fbs,fbs,1465.0,1047.0,False,-35,BYU
+401012795,2018,12,Washington State,Arizona,69,28,fbs,fbs,1715.0,1537.0,False,-41,Washington State
+401012793,2018,12,Oregon,Arizona State,31,29,fbs,fbs,1576.0,1673.0,False,-2,Oregon
+401022563,2018,12,Fresno State,San Diego State,23,14,fbs,fbs,1795.0,1533.0,False,-9,Fresno State
+401022564,2018,12,Hawai'i,UNLV,35,28,fbs,fbs,1173.0,1153.0,False,-7,Hawai'i
+401020785,2018,13,Miami (OH),Ball State,42,21,fbs,fbs,1423.0,1056.0,False,-21,Miami (OH)
+401020786,2018,13,Western Michigan,Northern Illinois,28,21,fbs,fbs,1270.0,1486.0,False,-7,Western Michigan
+401030453,2018,13,Alabama State,Mississippi Valley State,31,24,fcs,fcs,,,False,-7,Alabama State
+401022565,2018,13,Air Force,Colorado State,27,19,fbs,fbs,1503.0,1206.0,False,-8,Air Force
+401012349,2018,13,Ole Miss,Mississippi State,3,35,fbs,fbs,1506.0,1908.0,False,32,Mississippi State
+401019537,2018,13,Memphis,Houston,52,31,fbs,fbs,1655.0,1668.0,False,-21,Memphis
+401012871,2018,13,Iowa,Nebraska,31,28,fbs,fbs,1931.0,1457.0,False,-3,Iowa
+401020790,2018,13,Kent State,Eastern Michigan,20,28,fbs,fbs,977.0,1467.0,False,8,Eastern Michigan
+401020787,2018,13,Ohio,Akron,49,28,fbs,fbs,1792.0,1146.0,False,-21,Ohio
+401013056,2018,13,Kansas,Texas,17,24,fbs,fbs,1306.0,1768.0,False,7,Texas
+401020788,2018,13,Bowling Green,Buffalo,14,44,fbs,fbs,1097.0,1444.0,False,30,Buffalo
+401020789,2018,13,Toledo,Central Michigan,51,13,fbs,fbs,1487.0,1173.0,False,-38,Toledo
+401012354,2018,13,Missouri,Arkansas,38,0,fbs,fbs,1828.0,1331.0,False,-38,Missouri
+401021699,2018,13,South Alabama,Coastal Carolina,31,28,fbs,fbs,999.0,1137.0,False,-3,South Alabama
+401019536,2018,13,Cincinnati,East Carolina,56,6,fbs,fbs,1585.0,1278.0,False,-50,Cincinnati
+401013183,2018,13,Virginia Tech,Virginia,34,31,fbs,fbs,1463.0,1562.0,False,-3,Virginia Tech
+401012797,2018,13,Oregon State,Oregon,15,55,fbs,fbs,1120.0,1578.0,False,40,Oregon
+401019535,2018,13,South Florida,UCF,10,38,fbs,fbs,1449.0,1886.0,False,28,UCF
+401013071,2018,13,West Virginia,Oklahoma,56,59,fbs,fbs,1849.0,2025.0,False,3,Oklahoma
+401012798,2018,13,Washington State,Washington,15,28,fbs,fbs,1810.0,1823.0,False,13,Washington
+401012895,2018,13,Ohio State,Michigan,62,39,fbs,fbs,1926.0,2035.0,False,-23,Ohio State
+401012351,2018,13,Florida State,Florida,14,41,fbs,fbs,1468.0,1620.0,False,27,Florida
+401015051,2018,13,Florida International,Marshall,25,28,fbs,fbs,1451.0,1538.0,False,3,Marshall
+401012861,2018,13,Indiana,Purdue,21,28,fbs,fbs,1517.0,1640.0,False,7,Purdue
+401013184,2018,13,Boston College,Syracuse,21,42,fbs,fbs,1709.0,1553.0,False,21,Syracuse
+401012352,2018,13,Georgia,Georgia Tech,45,21,fbs,fbs,1995.0,1701.0,False,-24,Georgia
+401019539,2018,13,Tulane,Navy,29,28,fbs,fbs,1402.0,1352.0,False,-1,Tulane
+401015052,2018,13,Louisiana Tech,Western Kentucky,15,30,fbs,fbs,1406.0,1245.0,False,15,Western Kentucky
+401013037,2018,13,Texas Tech,Baylor,24,35,fbs,fbs,1634.0,1376.0,True,11,Baylor
+401013187,2018,13,North Carolina,NC State,28,34,fbs,fbs,1349.0,1723.0,False,6,NC State
+401013185,2018,13,Duke,Wake Forest,7,59,fbs,fbs,1615.0,1403.0,False,52,Wake Forest
+401015055,2018,13,Rice,Old Dominion,27,13,fbs,fbs,986.0,1130.0,False,-14,Rice
+401082033,2018,13,South Carolina State,North Carolina Central,17,21,fcs,fcs,,,False,4,North Carolina Central
+401030479,2018,13,Prairie View,Texas Southern,60,14,fcs,fcs,,,False,-46,Prairie View
+401100042,2018,13,Southeast Missouri State,Stony Brook,28,14,fcs,fcs,,,False,-14,Southeast Missouri State
+401021700,2018,13,Georgia State,Georgia Southern,14,35,fbs,fbs,1170.0,1457.0,False,21,Georgia Southern
+401100038,2018,13,Wofford,Elon,19,7,fcs,fcs,,,False,-12,Wofford
+401100037,2018,13,Towson,Duquesne,10,31,fcs,fcs,,,False,21,Duquesne
+401013447,2018,13,Liberty,New Mexico State,28,21,fbs,fbs,1218.0,1001.0,False,-7,Liberty
+401021697,2018,13,Appalachian State,Troy,21,10,fbs,fbs,1726.0,1547.0,False,-11,Appalachian State
+401022567,2018,13,New Mexico,Wyoming,3,31,fbs,fbs,1224.0,1438.0,False,28,Wyoming
+401015056,2018,13,UTEP,Southern Mississippi,7,39,fbs,fbs,1015.0,1402.0,False,32,Southern Mississippi
+401015053,2018,13,Middle Tennessee,UAB,27,3,fbs,fbs,1437.0,1580.0,False,-24,Middle Tennessee
+401012801,2018,13,UCLA,Stanford,42,49,fbs,fbs,1386.0,1714.0,False,7,Stanford
+401021701,2018,13,Louisiana Monroe,Louisiana,28,31,fbs,fbs,1273.0,1303.0,False,3,Louisiana
+401100035,2018,13,Montana State,Incarnate Word,35,14,fcs,fcs,,,False,-21,Montana State
+401100036,2018,13,James Madison,Delaware,20,6,fcs,fcs,,,False,-14,James Madison
+401019538,2018,13,Connecticut,Temple,7,57,fbs,fbs,887.0,1666.0,False,50,Temple
+401012799,2018,13,Arizona,Arizona State,40,41,fbs,fbs,1442.0,1671.0,False,1,Arizona State
+401013335,2018,13,Wisconsin,Minnesota,15,37,fbs,fbs,1738.0,1486.0,False,22,Minnesota
+401019540,2018,13,Tulsa,SMU,27,24,fbs,fbs,1318.0,1354.0,False,-3,Tulsa
+401013186,2018,13,Miami,Pittsburgh,24,3,fbs,fbs,1743.0,1637.0,False,-21,Miami
+401012815,2018,13,Northwestern,Illinois,24,16,fbs,fbs,1683.0,1125.0,False,-8,Northwestern
+401012879,2018,13,Penn State,Maryland,38,3,fbs,fbs,1877.0,1504.0,False,-35,Penn State
+401012350,2018,13,Alabama,Auburn,52,21,fbs,fbs,2304.0,1857.0,False,-31,Alabama
+401012850,2018,13,Michigan State,Rutgers,14,10,fbs,fbs,1688.0,1135.0,False,-4,Michigan State
+401021698,2018,13,Texas State,Arkansas State,7,33,fbs,fbs,1097.0,1529.0,False,26,Arkansas State
+401100039,2018,13,Nicholls,San Diego,49,30,fcs,fcs,,,False,-19,Nicholls
+401012357,2018,13,Vanderbilt,Tennessee,38,13,fbs,fbs,1519.0,1399.0,False,-25,Vanderbilt
+401100040,2018,13,Northern Iowa,Lamar,16,13,fcs,fcs,,,False,-3,Northern Iowa
+401030472,2018,13,Southern,Grambling,38,28,fcs,fcs,,,True,-10,Southern
+401015050,2018,13,Florida Atlantic,Charlotte,24,27,fbs,fbs,1562.0,1159.0,False,3,Charlotte
+401022570,2018,13,Fresno State,San José State,31,13,fbs,fbs,1793.0,1031.0,False,-18,Fresno State
+401013047,2018,13,Iowa State,Kansas State,42,38,fbs,fbs,1705.0,1593.0,False,-4,Iowa State
+401012353,2018,13,Louisville,Kentucky,10,56,fbs,fbs,1168.0,1575.0,False,46,Kentucky
+401012803,2018,13,California,Colorado,33,21,fbs,fbs,1527.0,1440.0,False,-12,California
+401012355,2018,13,Clemson,South Carolina,56,35,fbs,fbs,2282.0,1616.0,False,-21,Clemson
+401015054,2018,13,UT San Antonio,North Texas,21,24,fbs,fbs,1028.0,1580.0,False,3,North Texas
+401100041,2018,13,Jacksonville State,East Tennessee State,34,27,fcs,fcs,,,False,-7,Jacksonville State
+401012356,2018,13,Texas A&M,LSU,74,72,fbs,fbs,1722.0,1836.0,False,-2,Texas A&M
+401013078,2018,13,TCU,Oklahoma State,31,24,fbs,fbs,1565.0,1699.0,False,-7,TCU
+401012800,2018,13,USC,Notre Dame,17,24,fbs,fbs,1592.0,1967.0,False,7,Notre Dame
+401022569,2018,13,UNLV,Nevada,34,29,fbs,fbs,1145.0,1450.0,False,-5,UNLV
+401012802,2018,13,Utah,BYU,35,27,fbs,fbs,1777.0,1511.0,False,-8,Utah
+401022566,2018,13,Boise State,Utah State,33,24,fbs,fbs,1798.0,1782.0,False,-9,Boise State
+401022568,2018,13,San Diego State,Hawai'i,30,31,fbs,fbs,1535.0,1181.0,False,1,Hawai'i
+401081973,2018,14,The Citadel,Charleston Southern,43,14,fcs,fcs,,,False,-29,The Citadel
+401056696,2018,14,Buffalo,Northern Illinois,29,30,fbs,fbs,1486.0,1463.0,True,1,Northern Illinois
+401056704,2018,14,Washington,Utah,10,3,fbs,fbs,1851.0,1773.0,True,-7,Washington
+401056701,2018,14,Appalachian State,Louisiana,30,19,fbs,fbs,1733.0,1306.0,False,-11,Appalachian State
+401056698,2018,14,Oklahoma,Texas,39,27,fbs,fbs,2019.0,1749.0,True,-12,Oklahoma
+401088766,2018,14,NC State,East Carolina,58,3,fbs,fbs,1708.0,1169.0,False,-55,NC State
+401098253,2018,14,South Carolina,Akron,28,3,fbs,fbs,1627.0,1156.0,False,-25,South Carolina
+401082044,2018,14,Iowa State,Drake,27,24,fbs,fcs,,,False,-3,Iowa State
+401100049,2018,14,Maine,Jacksonville State,55,27,fcs,fcs,,,False,-28,Maine
+401100159,2018,14,Virginia Tech,Marshall,41,20,fbs,fbs,1465.0,1537.0,False,-21,Virginia Tech
+401100044,2018,14,Colgate,James Madison,23,20,fcs,fcs,,,False,-3,Colgate
+401056703,2018,14,Middle Tennessee,UAB,25,27,fbs,fbs,1514.0,1503.0,False,2,UAB
+401081953,2018,14,Liberty,Norfolk State,52,17,fbs,fcs,,,False,-35,Liberty
+401100046,2018,14,Kennesaw State,Wofford,13,10,fcs,fcs,,,False,-3,Kennesaw State
+401100045,2018,14,South Dakota State,Duquesne,51,6,fcs,fcs,,,False,-45,South Dakota State
+401100043,2018,14,North Dakota State,Montana State,52,10,fcs,fcs,,,False,-42,North Dakota State
+401099853,2018,14,California,Stanford,13,23,fbs,fbs,1543.0,1703.0,False,10,Stanford
+401056699,2018,14,UCF,Memphis,56,41,fbs,fbs,1912.0,1706.0,False,-15,UCF
+401056705,2018,14,Georgia,Alabama,28,35,fbs,fbs,2023.0,2336.0,True,7,Alabama
+401100050,2018,14,Weber State,Southeast Missouri State,48,23,fcs,fcs,,,False,-25,Weber State
+401100833,2018,14,Alcorn State,Southern,37,28,fcs,fcs,,,False,-9,Alcorn State
+401100047,2018,14,Eastern Washington,Nicholls,42,21,fcs,fcs,,,False,-21,Eastern Washington
+401100048,2018,14,UC Davis,Northern Iowa,23,16,fcs,fcs,,,False,-7,UC Davis
+401056700,2018,14,Boise State,Fresno State,16,19,fbs,fbs,1811.0,1769.0,False,3,Fresno State
+401056697,2018,14,Pittsburgh,Clemson,10,42,fbs,fbs,1598.0,2271.0,True,32,Clemson
+401056702,2018,14,Ohio State,Northwestern,45,24,fbs,fbs,1995.0,1664.0,True,-21,Ohio State
+401101697,2018,15,Weber State,Maine,18,23,fcs,fcs,,,False,5,Maine
+401101694,2018,15,North Dakota State,Colgate,35,0,fcs,fcs,,,False,-35,North Dakota State
+401101695,2018,15,Kennesaw State,South Dakota State,17,27,fcs,fcs,,,False,10,South Dakota State
+401013376,2018,15,Army,Navy,17,10,fbs,fbs,1696.0,1353.0,True,-7,Army
+401101696,2018,15,Eastern Washington,UC Davis,34,29,fcs,fcs,,,False,-5,Eastern Washington

@@ -1,0 +1,564 @@
+id,season,week,home_team,away_team,home_points,away_points,home_division,away_division,home_pregame_elo,away_pregame_elo,neutral_site,point_diff,winner
+401218616,2020,1,Central Arkansas,Austin Peay,24,17,fcs,fcs,,,True,-7,Central Arkansas
+401238035,2020,1,UAB,Central Arkansas,45,35,fbs,fcs,,,False,-10,UAB
+401207101,2020,1,Southern Mississippi,South Alabama,21,32,fbs,fbs,1451.0,1227.0,False,11,South Alabama
+401237353,2020,1,Marshall,Eastern Kentucky,59,0,fbs,fcs,,,False,-59,Marshall
+401235700,2020,1,Army,Middle Tennessee,42,0,fbs,fbs,1495.0,1429.0,False,-42,Army
+401212484,2020,1,Texas State,SMU,24,31,fbs,fbs,1193.0,1557.0,False,7,SMU
+401207098,2020,1,North Texas,Houston Christian,57,31,fbs,fcs,,,False,-26,North Texas
+401212553,2020,1,Memphis,Arkansas State,37,24,fbs,fbs,1698.0,1431.0,False,-13,Memphis
+401239884,2020,1,UTEP,Stephen F. Austin,24,14,fbs,fcs,,,False,-10,UTEP
+401234576,2020,1,Navy,BYU,3,55,fbs,fbs,1625.0,1513.0,False,52,BYU
+401234559,2020,2,Miami,UAB,31,14,fbs,fbs,1528.0,1399.0,False,-17,Miami
+401236038,2020,2,West Virginia,Eastern Kentucky,56,10,fbs,fcs,,,False,-46,West Virginia
+401234565,2020,2,North Carolina,Syracuse,31,6,fbs,fbs,1615.0,1481.0,False,-25,North Carolina
+401236081,2020,2,Appalachian State,Charlotte,35,20,fbs,fbs,1696.0,1377.0,False,-15,Appalachian State
+401236053,2020,2,Kansas State,Arkansas State,31,35,fbs,fbs,1632.0,1427.0,False,4,Arkansas State
+401236221,2020,2,Iowa State,Louisiana,14,31,fbs,fbs,1663.0,1651.0,False,17,Louisiana
+401240113,2020,2,Army,Louisiana Monroe,37,7,fbs,fbs,1610.0,1305.0,False,-30,Army
+401234574,2020,2,Notre Dame,Duke,27,13,fbs,fbs,1833.0,1411.0,False,-14,Notre Dame
+401207113,2020,2,Texas State,UT San Antonio,48,51,fbs,fbs,1206.0,1222.0,False,3,UT San Antonio
+401234563,2020,2,Florida State,Georgia Tech,13,16,fbs,fbs,1496.0,1341.0,False,3,Georgia Tech
+401240233,2020,2,Pittsburgh,Austin Peay,55,0,fbs,fcs,,,False,-55,Pittsburgh
+401215298,2020,2,Georgia Southern,Campbell,27,26,fbs,fcs,,,False,-1,Georgia Southern
+401240039,2020,2,South Florida,The Citadel,27,6,fbs,fcs,,,False,-21,South Florida
+401236054,2020,2,Oklahoma,Missouri State,48,0,fbs,fcs,,,False,-48,Oklahoma
+401239973,2020,2,South Alabama,Tulane,24,27,fbs,fbs,1272.0,1531.0,False,3,Tulane
+401234562,2020,2,Wake Forest,Clemson,13,37,fbs,fbs,1510.0,2062.0,False,24,Clemson
+401236039,2020,2,Texas Tech,Houston Christian,35,33,fbs,fcs,,,False,-2,Texas Tech
+401234564,2020,2,Louisville,Western Kentucky,35,21,fbs,fbs,1437.0,1515.0,False,-14,Louisville
+401236222,2020,2,Texas,UTEP,59,3,fbs,fbs,1744.0,1145.0,False,-56,Texas
+401236658,2020,2,Kansas,Coastal Carolina,23,38,fbs,fbs,1315.0,1316.0,False,15,Coastal Carolina
+401240126,2020,3,Coastal Carolina,Campbell,43,21,fbs,fcs,,,False,-22,Coastal Carolina
+401215301,2020,3,Georgia State,Louisiana,31,34,fbs,fbs,1305.0,1693.0,False,3,Louisiana
+401212522,2020,3,Tulane,Navy,24,27,fbs,fbs,1521.0,1438.0,False,3,Navy
+401234567,2020,3,Duke,Boston College,6,26,fbs,fbs,1416.0,1465.0,False,20,Boston College
+401234571,2020,3,Pittsburgh,Syracuse,21,10,fbs,fbs,1503.0,1433.0,False,-11,Pittsburgh
+401207124,2020,3,Western Kentucky,Liberty,24,30,fbs,fbs,1480.0,1390.0,False,6,Liberty
+401212541,2020,3,Cincinnati,Austin Peay,55,20,fbs,fcs,,,False,-35,Cincinnati
+401236041,2020,3,Oklahoma State,Tulsa,16,7,fbs,fbs,1596.0,1413.0,False,-9,Oklahoma State
+401241282,2020,3,Notre Dame,South Florida,52,0,fbs,fbs,1828.0,1335.0,False,-52,Notre Dame
+401234568,2020,3,Georgia Tech,UCF,21,49,fbs,fbs,1355.0,1757.0,False,28,UCF
+401240640,2020,3,Middle Tennessee,Troy,14,47,fbs,fbs,1314.0,1388.0,False,33,Troy
+401236939,2020,3,Marshall,Appalachian State,17,7,fbs,fbs,1464.0,1700.0,False,-10,Marshall
+401240041,2020,3,UT San Antonio,Stephen F. Austin,24,10,fbs,fcs,,,False,-14,UT San Antonio
+401237492,2020,3,Clemson,The Citadel,49,0,fbs,fcs,,,False,-49,Clemson
+401207120,2020,3,North Texas,SMU,35,65,fbs,fbs,1384.0,1544.0,False,30,SMU
+401207106,2020,3,Southern Mississippi,Louisiana Tech,30,31,fbs,fbs,1406.0,1536.0,False,1,Louisiana Tech
+401234569,2020,3,Louisville,Miami,34,47,fbs,fbs,1472.0,1553.0,False,13,Miami
+401215302,2020,3,Louisiana Monroe,Texas State,17,38,fbs,fbs,1261.0,1202.0,False,21,Texas State
+401234570,2020,3,NC State,Wake Forest,45,42,fbs,fbs,1347.0,1506.0,False,-3,NC State
+401239885,2020,3,UTEP,Abilene Christian,17,13,fbs,fcs,,,False,-4,UTEP
+401207132,2020,4,South Alabama,UAB,10,42,fbs,fbs,1282.0,1374.0,False,32,UAB
+401207134,2020,4,UT San Antonio,Middle Tennessee,37,35,fbs,fbs,1226.0,1229.0,False,-2,UT San Antonio
+401212536,2020,4,East Carolina,UCF,28,51,fbs,fbs,1237.0,1787.0,False,23,UCF
+401215303,2020,4,Louisiana,Georgia Southern,20,18,fbs,fbs,1676.0,1465.0,False,-2,Louisiana
+401237034,2020,4,Auburn,Kentucky,29,13,fbs,fbs,1782.0,1649.0,False,-16,Auburn
+401236253,2020,4,Appalachian State,Campbell,52,21,fbs,fcs,,,False,-31,Appalachian State
+401234595,2020,4,Pittsburgh,Louisville,23,20,fbs,fbs,1518.0,1451.0,False,-3,Pittsburgh
+401234594,2020,4,Syracuse,Georgia Tech,37,20,fbs,fbs,1418.0,1325.0,False,-17,Syracuse
+401236952,2020,4,Ole Miss,Florida,35,51,fbs,fbs,1558.0,1778.0,False,16,Florida
+401235996,2020,4,Oklahoma,Kansas State,35,38,fbs,fbs,1771.0,1611.0,False,3,Kansas State
+401207126,2020,4,Liberty,Florida International,36,34,fbs,fbs,1408.0,1383.0,False,-2,Liberty
+401237493,2020,4,The Citadel,Eastern Kentucky,14,37,fcs,fcs,,,False,23,Eastern Kentucky
+401235994,2020,4,TCU,Iowa State,34,37,fbs,fbs,1583.0,1621.0,False,3,Iowa State
+401240996,2020,4,Cincinnati,Army,24,10,fbs,fbs,1673.0,1654.0,False,-14,Cincinnati
+401237035,2020,4,LSU,Mississippi State,34,44,fbs,fbs,2061.0,1550.0,False,10,Mississippi State
+401235997,2020,4,Oklahoma State,West Virginia,27,13,fbs,fbs,1599.0,1507.0,False,-14,Oklahoma State
+401240194,2020,4,Louisiana Monroe,UTEP,6,31,fbs,fbs,1200.0,1056.0,False,25,UTEP
+401235995,2020,4,Texas Tech,Texas,56,63,fbs,fbs,1525.0,1833.0,False,7,Texas
+401234638,2020,4,Virginia,Duke,38,20,fbs,fbs,1609.0,1371.0,False,-18,Virginia
+401237033,2020,4,Arkansas,Georgia,10,37,fbs,fbs,1307.0,1832.0,False,27,Georgia
+401241303,2020,4,Boston College,Texas State,24,21,fbs,fbs,1510.0,1263.0,False,-3,Boston College
+401232157,2020,4,Louisiana Tech,Houston Christian,66,38,fbs,fcs,,,False,-28,Louisiana Tech
+401234734,2020,4,Southern Mississippi,Tulane,24,66,fbs,fbs,1411.0,1511.0,False,42,Tulane
+401212485,2020,4,SMU,Stephen F. Austin,50,7,fbs,fcs,,,False,-43,SMU
+401236951,2020,4,Missouri,Alabama,19,38,fbs,fbs,1592.0,1962.0,False,19,Alabama
+401235993,2020,4,Baylor,Kansas,47,14,fbs,fbs,1717.0,1280.0,False,-33,Baylor
+401234593,2020,4,Miami,Florida State,52,10,fbs,fbs,1574.0,1482.0,False,-42,Miami
+401237036,2020,4,South Carolina,Tennessee,27,31,fbs,fbs,1498.0,1545.0,False,4,Tennessee
+401237037,2020,4,Texas A&M,Vanderbilt,17,12,fbs,fbs,1647.0,1289.0,False,-5,Texas A&M
+401236381,2020,4,Central Arkansas,Missouri State,27,20,fcs,fcs,,,False,-7,Central Arkansas
+401234566,2020,4,Virginia Tech,NC State,45,24,fbs,fbs,1623.0,1350.0,False,-21,Virginia Tech
+401236223,2020,4,BYU,Troy,48,7,fbs,fbs,1700.0,1473.0,False,-41,BYU
+401240282,2020,5,Wake Forest,Campbell,66,14,fbs,fcs,,,False,-52,Wake Forest
+401246275,2020,5,BYU,Louisiana Tech,45,14,fbs,fbs,1789.0,1531.0,False,-31,BYU
+401237099,2020,5,Tennessee,Missouri,35,12,fbs,fbs,1548.0,1582.0,False,-23,Tennessee
+401237096,2020,5,Florida,South Carolina,38,24,fbs,fbs,1794.0,1495.0,False,-14,Florida
+401212547,2020,5,Georgia State,East Carolina,49,29,fbs,fbs,1322.0,1235.0,False,-20,Georgia State
+401215304,2020,5,Coastal Carolina,Arkansas State,52,23,fbs,fbs,1351.0,1448.0,False,-29,Coastal Carolina
+401235998,2020,5,West Virginia,Baylor,27,21,fbs,fbs,1487.0,1756.0,False,-6,West Virginia
+401234600,2020,5,Pittsburgh,NC State,29,30,fbs,fbs,1518.0,1328.0,False,1,NC State
+401236002,2020,5,Texas,TCU,31,33,fbs,fbs,1824.0,1581.0,False,2,TCU
+401207141,2020,5,UAB,UT San Antonio,21,13,fbs,fbs,1453.0,1227.0,False,-8,UAB
+401237513,2020,5,Liberty,North Alabama,28,7,fbs,fcs,,,False,-21,Liberty
+401240040,2020,5,Army,Abilene Christian,55,23,fbs,fcs,,,False,-32,Army
+401246566,2020,5,Eastern Kentucky,Houston Christian,30,33,fcs,fcs,,,False,3,Houston Christian
+401237093,2020,5,Alabama,Texas A&M,52,24,fbs,fbs,1972.0,1638.0,False,-28,Alabama
+401240124,2020,5,North Dakota State,Central Arkansas,39,28,fcs,fcs,,,False,-11,North Dakota State
+401212476,2020,5,Cincinnati,South Florida,28,7,fbs,fbs,1700.0,1245.0,False,-21,Cincinnati
+401234597,2020,5,Boston College,North Carolina,22,26,fbs,fbs,1508.0,1663.0,False,4,North Carolina
+401236001,2020,5,Kansas State,Texas Tech,31,21,fbs,fbs,1626.0,1534.0,False,-10,Kansas State
+401212486,2020,5,SMU,Memphis,30,27,fbs,fbs,1608.0,1702.0,False,-3,SMU
+401236000,2020,5,Kansas,Oklahoma State,7,47,fbs,fbs,1241.0,1619.0,False,40,Oklahoma State
+401207136,2020,5,Florida Atlantic,Charlotte,21,17,fbs,fbs,1685.0,1373.0,False,-4,Florida Atlantic
+401234599,2020,5,Duke,Virginia Tech,31,38,fbs,fbs,1353.0,1645.0,False,7,Virginia Tech
+401238034,2020,5,Florida State,Jacksonville State,41,24,fbs,fcs,,,False,-17,Florida State
+401237097,2020,5,Kentucky,Ole Miss,41,42,fbs,fbs,1627.0,1542.0,False,1,Ole Miss
+401240042,2020,5,Stephen F. Austin,West Texas A&M,34,6,fcs,ii,,,False,-28,Stephen F. Austin
+401207138,2020,5,Middle Tennessee,Western Kentucky,17,20,fbs,fbs,1228.0,1462.0,False,3,Western Kentucky
+401212557,2020,5,Air Force,Navy,40,7,fbs,fbs,1645.0,1448.0,False,-33,Air Force
+401215305,2020,5,Louisiana Monroe,Georgia Southern,30,35,fbs,fbs,1114.0,1467.0,False,5,Georgia Southern
+401237094,2020,5,Mississippi State,Arkansas,14,21,fbs,fbs,1623.0,1292.0,False,7,Arkansas
+401235999,2020,5,Iowa State,Oklahoma,37,30,fbs,fbs,1623.0,1756.0,False,-7,Iowa State
+401212531,2020,5,UCF,Tulsa,26,34,fbs,fbs,1789.0,1410.0,False,8,Tulsa
+401237095,2020,5,Georgia,Auburn,27,6,fbs,fbs,1847.0,1804.0,False,-21,Georgia
+401237098,2020,5,Vanderbilt,LSU,7,41,fbs,fbs,1298.0,1988.0,False,34,LSU
+401207139,2020,5,North Texas,Southern Mississippi,31,41,fbs,fbs,1320.0,1298.0,False,10,Southern Mississippi
+401234598,2020,5,Clemson,Virginia,41,23,fbs,fbs,2066.0,1627.0,False,-18,Clemson
+401212523,2020,6,Houston,Tulane,49,31,fbs,fbs,1468.0,1624.0,False,-18,Houston
+401234601,2020,6,Georgia Tech,Louisville,46,27,fbs,fbs,1297.0,1451.0,False,-19,Georgia Tech
+401237102,2020,6,Texas A&M,Florida,41,38,fbs,fbs,1603.0,1798.0,False,-3,Texas A&M
+401234608,2020,6,Virginia,NC State,21,38,fbs,fbs,1626.0,1339.0,False,17,NC State
+401207215,2020,6,Liberty,Louisiana Monroe,40,7,fbs,fbs,1408.0,1128.0,False,-33,Liberty
+401237106,2020,6,Vanderbilt,South Carolina,7,41,fbs,fbs,1282.0,1491.0,False,34,South Carolina
+401237105,2020,6,LSU,Missouri,41,45,fbs,fbs,2004.0,1522.0,False,4,Missouri
+401234607,2020,6,North Carolina,Virginia Tech,56,45,fbs,fbs,1660.0,1637.0,False,-11,North Carolina
+401236005,2020,6,Oklahoma,Texas,53,45,fbs,fbs,1739.0,1807.0,True,-8,Oklahoma
+401234605,2020,6,Syracuse,Duke,24,38,fbs,fbs,1446.0,1361.0,False,14,Duke
+401240114,2020,6,Army,The Citadel,14,9,fbs,fcs,,,False,-5,Army
+401240117,2020,6,Jacksonville State,Mercer,34,28,fcs,fcs,,,False,-6,Jacksonville State
+401240997,2020,6,BYU,UT San Antonio,27,20,fbs,fbs,1842.0,1228.0,False,-7,BYU
+401236003,2020,6,Iowa State,Texas Tech,31,15,fbs,fbs,1640.0,1523.0,False,-16,Iowa State
+401237103,2020,6,Georgia,Tennessee,44,21,fbs,fbs,1892.0,1608.0,False,-23,Georgia
+401246425,2020,6,Arkansas State,Central Arkansas,50,27,fbs,fcs,,,False,-23,Arkansas State
+401215308,2020,6,Troy,Texas State,37,17,fbs,fbs,1384.0,1265.0,False,-20,Troy
+401237101,2020,6,Auburn,Arkansas,30,28,fbs,fbs,1759.0,1334.0,False,-2,Auburn
+401236004,2020,6,TCU,Kansas State,14,21,fbs,fbs,1598.0,1637.0,False,7,Kansas State
+401207143,2020,6,Florida International,Middle Tennessee,28,31,fbs,fbs,1383.0,1237.0,False,3,Middle Tennessee
+401234603,2020,6,Boston College,Pittsburgh,31,30,fbs,fbs,1511.0,1507.0,False,-1,Boston College
+401212515,2020,6,Navy,Temple,31,29,fbs,fbs,1382.0,1411.0,False,-2,Navy
+401212477,2020,6,South Florida,East Carolina,24,44,fbs,fbs,1239.0,1197.0,False,20,East Carolina
+401207145,2020,6,Louisiana Tech,UTEP,21,17,fbs,fbs,1478.0,1142.0,False,-4,Louisiana Tech
+401234604,2020,6,Clemson,Miami,42,17,fbs,fbs,2067.0,1685.0,False,-25,Clemson
+401234606,2020,6,Notre Dame,Florida State,42,26,fbs,fbs,1918.0,1371.0,False,-16,Notre Dame
+401207146,2020,6,Western Kentucky,Marshall,14,38,fbs,fbs,1453.0,1499.0,False,24,Marshall
+401237104,2020,6,Kentucky,Mississippi State,24,2,fbs,fbs,1622.0,1581.0,False,-22,Kentucky
+401237100,2020,6,Ole Miss,Alabama,48,63,fbs,fbs,1547.0,2007.0,False,15,Alabama
+401207142,2020,6,North Texas,Charlotte,21,49,fbs,fbs,1297.0,1379.0,False,28,Charlotte
+401215311,2020,7,Louisiana,Coastal Carolina,27,30,fbs,fbs,1674.0,1440.0,False,3,Coastal Carolina
+401215310,2020,7,Arkansas State,Georgia State,59,52,fbs,fbs,1359.0,1360.0,False,-7,Arkansas State
+401212487,2020,7,Tulane,SMU,34,37,fbs,fbs,1567.0,1610.0,False,3,SMU
+401212551,2020,7,Houston,BYU,26,43,fbs,fbs,1525.0,1821.0,False,17,BYU
+401234615,2020,7,Syracuse,Liberty,21,38,fbs,fbs,1405.0,1464.0,False,17,Liberty
+401215313,2020,7,South Alabama,Texas State,30,20,fbs,fbs,1203.0,1230.0,False,-10,South Alabama
+401234610,2020,7,Georgia Tech,Clemson,7,73,fbs,fbs,1357.0,2089.0,False,66,Clemson
+401237109,2020,7,South Carolina,Auburn,30,22,fbs,fbs,1562.0,1754.0,False,-8,South Carolina
+401237111,2020,7,Tennessee,Kentucky,7,34,fbs,fbs,1581.0,1671.0,False,27,Kentucky
+401212478,2020,7,Temple,South Florida,39,37,fbs,fbs,1410.0,1184.0,False,-2,Temple
+401212548,2020,7,East Carolina,Navy,23,27,fbs,fbs,1252.0,1383.0,False,4,Navy
+401236007,2020,7,West Virginia,Kansas,38,17,fbs,fbs,1509.0,1172.0,False,-21,West Virginia
+401234614,2020,7,Miami,Pittsburgh,31,19,fbs,fbs,1663.0,1506.0,False,-12,Miami
+401207153,2020,7,UAB,Western Kentucky,37,14,fbs,fbs,1452.0,1395.0,False,-23,UAB
+401240115,2020,7,UT San Antonio,Army,16,28,fbs,fbs,1249.0,1627.0,False,12,Army
+401240034,2020,7,North Alabama,Jacksonville State,17,24,fcs,fcs,,,False,7,Jacksonville State
+401234613,2020,7,Notre Dame,Louisville,12,7,fbs,fbs,1907.0,1391.0,False,-5,Notre Dame
+401239872,2020,7,Troy,Eastern Kentucky,31,29,fbs,fcs,,,False,-2,Troy
+401212537,2020,7,Memphis,UCF,50,49,fbs,fbs,1700.0,1739.0,False,-1,Memphis
+401234611,2020,7,NC State,Duke,31,20,fbs,fbs,1413.0,1402.0,False,-11,NC State
+401237108,2020,7,Arkansas,Ole Miss,33,21,fbs,fbs,1339.0,1554.0,False,-12,Arkansas
+401234616,2020,7,Wake Forest,Virginia,40,23,fbs,fbs,1503.0,1552.0,False,-17,Wake Forest
+401237112,2020,7,Mississippi State,Texas A&M,14,28,fbs,fbs,1532.0,1607.0,False,14,Texas A&M
+401250215,2020,7,Georgia Southern,UMass,41,0,fbs,fbs,1453.0,955.0,False,-41,Georgia Southern
+401207150,2020,7,Middle Tennessee,North Texas,35,52,fbs,fbs,1251.0,1230.0,False,17,North Texas
+401249652,2020,7,Stephen F. Austin,Angelo State,31,12,fcs,ii,,,False,-19,Stephen F. Austin
+401207149,2020,7,Louisiana Tech,Marshall,17,35,fbs,fbs,1472.0,1557.0,False,18,Marshall
+401234612,2020,7,Florida State,North Carolina,31,28,fbs,fbs,1382.0,1678.0,False,-3,Florida State
+401237107,2020,7,Alabama,Georgia,41,24,fbs,fbs,2000.0,1919.0,False,-17,Alabama
+401236382,2020,7,Missouri State,Central Arkansas,24,33,fcs,fcs,,,False,9,Central Arkansas
+401234609,2020,7,Virginia Tech,Boston College,40,14,fbs,fbs,1619.0,1512.0,False,-26,Virginia Tech
+401240642,2020,8,Appalachian State,Arkansas State,45,17,fbs,fbs,1665.0,1369.0,False,-28,Appalachian State
+401250783,2020,8,Florida International,Jacksonville State,10,19,fbs,fcs,,,False,9,Jacksonville State
+401212479,2020,8,South Florida,Tulsa,13,42,fbs,fbs,1186.0,1460.0,False,29,Tulsa
+401238036,2020,8,UAB,Louisiana,20,24,fbs,fbs,1502.0,1654.0,False,4,Louisiana
+401247297,2020,8,Wisconsin,Illinois,45,7,fbs,fbs,1847.0,1441.0,False,-38,Wisconsin
+401207154,2020,8,Charlotte,UTEP,38,28,fbs,fbs,1446.0,1148.0,False,-10,Charlotte
+401212516,2020,8,Memphis,Temple,41,29,fbs,fbs,1702.0,1408.0,False,-12,Memphis
+401234619,2020,8,Louisville,Florida State,48,16,fbs,fbs,1405.0,1387.0,False,-32,Louisville
+401236011,2020,8,TCU,Oklahoma,14,33,fbs,fbs,1588.0,1763.0,False,19,Oklahoma
+401237115,2020,8,Ole Miss,Auburn,28,35,fbs,fbs,1513.0,1729.0,False,7,Auburn
+401240116,2020,8,Army,Mercer,49,3,fbs,fcs,,,False,-46,Army
+401247293,2020,8,Ohio State,Nebraska,52,17,fbs,fbs,2079.0,1568.0,False,-35,Ohio State
+401234621,2020,8,North Carolina,NC State,48,21,fbs,fbs,1673.0,1432.0,False,-27,North Carolina
+401234618,2020,8,Clemson,Syracuse,47,21,fbs,fbs,2194.0,1370.0,False,-26,Clemson
+401247299,2020,8,Michigan State,Rutgers,27,38,fbs,fbs,1551.0,1229.0,False,11,Rutgers
+401236010,2020,8,Kansas State,Kansas,55,14,fbs,fbs,1647.0,1156.0,False,-41,Kansas State
+401215316,2020,8,Coastal Carolina,Georgia Southern,28,14,fbs,fbs,1460.0,1508.0,False,-14,Coastal Carolina
+401207160,2020,8,Liberty,Southern Mississippi,56,35,fbs,fbs,1499.0,1321.0,False,-21,Liberty
+401248039,2020,8,Stephen F. Austin,Abilene Christian,35,32,fcs,fcs,,,True,-3,Stephen F. Austin
+401212524,2020,8,UCF,Tulane,51,34,fbs,fbs,1737.0,1565.0,False,-17,UCF
+401207156,2020,8,Marshall,Florida Atlantic,20,9,fbs,fbs,1592.0,1679.0,False,-11,Marshall
+401239871,2020,8,Eastern Kentucky,Central Arkansas,31,28,fcs,fcs,,,False,-3,Eastern Kentucky
+401236008,2020,8,Texas,Baylor,27,16,fbs,fbs,1783.0,1734.0,False,-11,Texas
+401236009,2020,8,Oklahoma State,Iowa State,24,21,fbs,fbs,1688.0,1664.0,False,-3,Oklahoma State
+401247295,2020,8,Indiana,Penn State,36,35,fbs,fbs,1573.0,1827.0,False,-1,Indiana
+401237114,2020,8,Tennessee,Alabama,17,48,fbs,fbs,1518.0,2030.0,False,31,Alabama
+401234623,2020,8,Wake Forest,Virginia Tech,23,16,fbs,fbs,1545.0,1673.0,False,-7,Wake Forest
+401207158,2020,8,Rice,Middle Tennessee,34,40,fbs,fbs,1307.0,1208.0,False,6,Middle Tennessee
+401247296,2020,8,Purdue,Iowa,24,20,fbs,fbs,1492.0,1783.0,False,-4,Purdue
+401212552,2020,8,Navy,Houston,21,37,fbs,fbs,1381.0,1513.0,False,16,Houston
+401234622,2020,8,Pittsburgh,Notre Dame,3,45,fbs,fbs,1496.0,1893.0,False,42,Notre Dame
+401207102,2020,8,Western Kentucky,Chattanooga,13,10,fbs,fcs,,,False,-3,Western Kentucky
+401215317,2020,8,Troy,Georgia State,34,36,fbs,fbs,1419.0,1350.0,False,2,Georgia State
+401237122,2020,8,Missouri,Kentucky,20,10,fbs,fbs,1565.0,1734.0,False,-10,Missouri
+401234617,2020,8,Boston College,Georgia Tech,48,27,fbs,fbs,1458.0,1252.0,False,-21,Boston College
+401236012,2020,8,Texas Tech,West Virginia,34,27,fbs,fbs,1499.0,1525.0,False,-7,Texas Tech
+401250784,2020,8,South Alabama,Louisiana Monroe,38,14,fbs,fbs,1222.0,1072.0,False,-24,South Alabama
+401248998,2020,8,Nevada,Wyoming,37,34,fbs,fbs,1297.0,1545.0,False,-3,Nevada
+401237118,2020,8,LSU,South Carolina,52,24,fbs,fbs,1961.0,1587.0,False,-28,LSU
+401248997,2020,8,Boise State,Utah State,42,13,fbs,fbs,1638.0,1428.0,False,-29,Boise State
+401247298,2020,8,Northwestern,Maryland,43,3,fbs,fbs,1495.0,1290.0,False,-40,Northwestern
+401248994,2020,8,Fresno State,Hawai'i,19,34,fbs,fbs,1483.0,1465.0,False,15,Hawai'i
+401247294,2020,8,Minnesota,Michigan,24,49,fbs,fbs,1703.0,1801.0,False,25,Michigan
+401234620,2020,8,Miami,Virginia,19,14,fbs,fbs,1673.0,1510.0,False,-5,Miami
+401207157,2020,8,UT San Antonio,Louisiana Tech,27,26,fbs,fbs,1255.0,1437.0,False,-1,UT San Antonio
+401212488,2020,8,SMU,Cincinnati,13,42,fbs,fbs,1612.0,1706.0,False,29,Cincinnati
+401240998,2020,8,BYU,Texas State,52,14,fbs,fbs,1833.0,1211.0,False,-38,BYU
+401248996,2020,8,San Diego State,UNLV,34,6,fbs,fbs,1579.0,1285.0,False,-28,San Diego State
+401248993,2020,8,San José State,Air Force,17,6,fbs,fbs,1352.0,1711.0,False,-11,San José State
+401215321,2020,9,Georgia Southern,South Alabama,24,17,fbs,fbs,1475.0,1265.0,False,-7,Georgia Southern
+401249000,2020,9,Fresno State,Colorado State,38,17,fbs,fbs,1446.0,1409.0,False,-21,Fresno State
+401247675,2020,9,Southern Illinois,Southeast Missouri State,20,17,fcs,fcs,,,False,-3,Southern Illinois
+401247302,2020,9,Maryland,Minnesota,45,44,fbs,fbs,1202.0,1648.0,False,-1,Maryland
+401212533,2020,9,Tulsa,East Carolina,34,30,fbs,fbs,1507.0,1254.0,False,-4,Tulsa
+401249001,2020,9,Wyoming,Hawai'i,31,7,fbs,fbs,1541.0,1502.0,False,-24,Wyoming
+401236015,2020,9,West Virginia,Kansas State,37,10,fbs,fbs,1514.0,1703.0,False,-27,West Virginia
+401234629,2020,9,Syracuse,Wake Forest,14,38,fbs,fbs,1385.0,1562.0,False,24,Wake Forest
+401212517,2020,9,Tulane,Temple,38,3,fbs,fbs,1544.0,1408.0,False,-35,Tulane
+401234624,2020,9,Clemson,Boston College,34,28,fbs,fbs,2179.0,1487.0,False,-6,Clemson
+401236014,2020,9,Kansas,Iowa State,22,52,fbs,fbs,1100.0,1663.0,False,30,Iowa State
+401247305,2020,9,Michigan,Michigan State,24,27,fbs,fbs,1856.0,1495.0,False,3,Michigan State
+401215318,2020,9,Georgia State,Coastal Carolina,0,51,fbs,fbs,1357.0,1493.0,False,51,Coastal Carolina
+401207162,2020,9,Florida Atlantic,UT San Antonio,24,3,fbs,fbs,1652.0,1261.0,False,-21,Florida Atlantic
+401247301,2020,9,Illinois,Purdue,24,31,fbs,fbs,1384.0,1504.0,False,7,Purdue
+401237117,2020,9,Kentucky,Georgia,3,14,fbs,fbs,1704.0,1889.0,False,11,Georgia
+401212543,2020,9,Cincinnati,Memphis,49,10,fbs,fbs,1775.0,1702.0,False,-39,Cincinnati
+401212538,2020,9,Houston,UCF,21,44,fbs,fbs,1538.0,1758.0,False,23,UCF
+401248073,2020,9,Mercer,Abilene Christian,17,20,fcs,fcs,,,False,3,Abilene Christian
+401207166,2020,9,Southern Mississippi,Rice,6,30,fbs,fbs,1289.0,1289.0,False,24,Rice
+401250213,2020,9,Stephen F. Austin,Western State,64,7,fcs,ii,,,False,-57,Stephen F. Austin
+401215320,2020,9,Arkansas State,Troy,10,38,fbs,fbs,1330.0,1412.0,False,28,Troy
+401234626,2020,9,Georgia Tech,Notre Dame,13,31,fbs,fbs,1223.0,1966.0,False,18,Notre Dame
+401236013,2020,9,Baylor,TCU,23,33,fbs,fbs,1718.0,1559.0,False,10,TCU
+401237121,2020,9,Auburn,LSU,48,11,fbs,fbs,1726.0,1992.0,False,-37,Auburn
+401247303,2020,9,Iowa,Northwestern,20,21,fbs,fbs,1771.0,1583.0,False,1,Northwestern
+401247300,2020,9,Rutgers,Indiana,21,37,fbs,fbs,1285.0,1581.0,False,16,Indiana
+401207163,2020,9,Louisiana Tech,UAB,37,34,fbs,fbs,1431.0,1505.0,False,-3,Louisiana Tech
+401237123,2020,9,Vanderbilt,Ole Miss,21,54,fbs,fbs,1211.0,1516.0,False,33,Ole Miss
+401236017,2020,9,Oklahoma State,Texas,34,41,fbs,fbs,1689.0,1799.0,False,7,Texas
+401234627,2020,9,Louisville,Virginia Tech,35,42,fbs,fbs,1490.0,1656.0,False,7,Virginia Tech
+401215319,2020,9,Louisiana Monroe,Appalachian State,13,31,fbs,fbs,1029.0,1704.0,False,18,Appalachian State
+401239873,2020,9,Central Arkansas,Missouri Western,52,10,fcs,ii,,,False,-42,Central Arkansas
+401248999,2020,9,Air Force,Boise State,30,49,fbs,fbs,1661.0,1690.0,False,19,Boise State
+401234625,2020,9,Duke,Charlotte,53,19,fbs,fbs,1383.0,1443.0,False,-34,Duke
+401237119,2020,9,Alabama,Mississippi State,41,0,fbs,fbs,2056.0,1507.0,False,-41,Alabama
+401249003,2020,9,New Mexico,San José State,21,38,fbs,fbs,1230.0,1402.0,False,17,San José State
+401247306,2020,9,Penn State,Ohio State,25,38,fbs,fbs,1819.0,2115.0,False,13,Ohio State
+401237116,2020,9,Florida,Missouri,41,17,fbs,fbs,1794.0,1595.0,False,-24,Florida
+401237120,2020,9,Texas A&M,Arkansas,42,31,fbs,fbs,1632.0,1380.0,False,-11,Texas A&M
+401212489,2020,9,SMU,Navy,51,37,fbs,fbs,1543.0,1356.0,False,-14,SMU
+401236016,2020,9,Texas Tech,Oklahoma,28,62,fbs,fbs,1510.0,1792.0,False,34,Oklahoma
+401215322,2020,9,Texas State,Louisiana,34,44,fbs,fbs,1178.0,1651.0,False,10,Louisiana
+401234628,2020,9,Virginia,North Carolina,44,41,fbs,fbs,1511.0,1715.0,False,-3,Virginia
+401249004,2020,9,Utah State,San Diego State,7,38,fbs,fbs,1376.0,1619.0,False,31,San Diego State
+401239887,2020,9,BYU,Western Kentucky,41,10,fbs,fbs,1866.0,1345.0,False,-31,BYU
+401249002,2020,9,UNLV,Nevada,19,37,fbs,fbs,1245.0,1301.0,False,18,Nevada
+401249857,2020,10,Akron,Western Michigan,13,58,fbs,fbs,1004.0,1485.0,False,45,Western Michigan
+401249856,2020,10,Kent State,Eastern Michigan,27,23,fbs,fbs,1366.0,1399.0,False,-4,Kent State
+401249860,2020,10,Central Michigan,Ohio,30,27,fbs,fbs,1415.0,1575.0,False,-3,Central Michigan
+401249889,2020,10,Miami (OH),Ball State,38,31,fbs,fbs,1411.0,1433.0,False,-7,Miami (OH)
+401249859,2020,10,Northern Illinois,Buffalo,30,49,fbs,fbs,1316.0,1562.0,False,19,Buffalo
+401249858,2020,10,Toledo,Bowling Green,38,3,fbs,fbs,1273.0,1051.0,False,-35,Toledo
+401249009,2020,10,Nevada,Utah State,34,9,fbs,fbs,1339.0,1319.0,False,-25,Nevada
+401249010,2020,10,Colorado State,Wyoming,34,24,fbs,fbs,1363.0,1596.0,False,-10,Colorado State
+401234630,2020,10,NC State,Miami,41,44,fbs,fbs,1390.0,1672.0,False,3,Miami
+401249008,2020,10,San Diego State,San José State,17,28,fbs,fbs,1676.0,1425.0,False,11,San José State
+401249005,2020,10,Boise State,BYU,17,51,fbs,fbs,1734.0,1890.0,False,34,BYU
+401212480,2020,10,Memphis,South Florida,34,33,fbs,fbs,1599.0,1139.0,False,-1,Memphis
+401249400,2020,10,USC,Arizona State,28,27,fbs,fbs,1593.0,1549.0,False,-1,USC
+401212525,2020,10,East Carolina,Tulane,21,38,fbs,fbs,1258.0,1624.0,False,17,Tulane
+401215327,2020,10,Georgia State,Louisiana Monroe,52,34,fbs,fbs,1216.0,1048.0,False,-18,Georgia State
+401247309,2020,10,Indiana,Michigan,38,21,fbs,fbs,1590.0,1827.0,False,-17,Indiana
+401212490,2020,10,Temple,SMU,23,47,fbs,fbs,1328.0,1556.0,False,24,SMU
+401253924,2020,10,Louisiana,Arkansas State,27,20,fbs,fbs,1634.0,1263.0,False,-7,Louisiana
+401236022,2020,10,Texas,West Virginia,17,13,fbs,fbs,1804.0,1608.0,False,-4,Texas
+401247307,2020,10,Northwestern,Nebraska,21,13,fbs,fbs,1594.0,1532.0,False,-8,Northwestern
+401247313,2020,10,Iowa,Michigan State,49,7,fbs,fbs,1760.0,1524.0,False,-42,Iowa
+401234633,2020,10,Duke,North Carolina,24,56,fbs,fbs,1486.0,1711.0,False,32,North Carolina
+401234636,2020,10,Virginia Tech,Liberty,35,38,fbs,fbs,1657.0,1531.0,False,3,Liberty
+401215326,2020,10,Georgia Southern,Troy,20,13,fbs,fbs,1473.0,1479.0,False,-7,Georgia Southern
+401234631,2020,10,Syracuse,Boston College,13,16,fbs,fbs,1342.0,1509.0,False,3,Boston College
+401251931,2020,10,Marshall,UMass,51,10,fbs,fbs,1619.0,900.0,False,-41,Marshall
+401240035,2020,10,Southern Mississippi,North Alabama,24,13,fbs,fcs,,,False,-11,Southern Mississippi
+401215324,2020,10,Texas State,Appalachian State,17,38,fbs,fbs,1195.0,1685.0,False,21,Appalachian State
+401239874,2020,10,Eastern Kentucky,Stephen F. Austin,6,24,fcs,fcs,,,False,18,Stephen F. Austin
+401236021,2020,10,TCU,Texas Tech,34,18,fbs,fbs,1594.0,1448.0,False,-16,TCU
+401236019,2020,10,Oklahoma,Kansas,62,9,fbs,fbs,1854.0,1082.0,False,-53,Oklahoma
+401247308,2020,10,Illinois,Minnesota,14,41,fbs,fbs,1380.0,1636.0,False,27,Minnesota
+401237125,2020,10,Georgia,Florida,28,44,fbs,fbs,1896.0,1832.0,True,16,Florida
+401247312,2020,10,Penn State,Maryland,19,35,fbs,fbs,1817.0,1214.0,False,16,Maryland
+401249006,2020,10,UNLV,Fresno State,27,40,fbs,fbs,1207.0,1492.0,False,13,Fresno State
+401212544,2020,10,Cincinnati,Houston,38,10,fbs,fbs,1878.0,1503.0,False,-28,Cincinnati
+401237126,2020,10,Mississippi State,Vanderbilt,24,17,fbs,fbs,1458.0,1155.0,False,-7,Mississippi State
+401248273,2020,10,Abilene Christian,Angelo State,21,34,fcs,ii,,,False,13,Angelo State
+401234634,2020,10,Florida State,Pittsburgh,17,41,fbs,fbs,1302.0,1423.0,False,24,Pittsburgh
+401236020,2020,10,Kansas State,Oklahoma State,18,20,fbs,fbs,1609.0,1684.0,False,2,Oklahoma State
+401207169,2020,10,Florida Atlantic,Western Kentucky,10,6,fbs,fbs,1664.0,1321.0,False,-4,Florida Atlantic
+401249402,2020,10,Colorado,UCLA,48,42,fbs,fbs,1407.0,1415.0,False,-6,Colorado
+401236018,2020,10,Iowa State,Baylor,38,31,fbs,fbs,1681.0,1683.0,False,-7,Iowa State
+401237127,2020,10,South Carolina,Texas A&M,3,48,fbs,fbs,1556.0,1634.0,False,45,Texas A&M
+401237124,2020,10,Arkansas,Tennessee,24,13,fbs,fbs,1378.0,1492.0,False,-11,Arkansas
+401247310,2020,10,Ohio State,Rutgers,49,27,fbs,fbs,2117.0,1276.0,False,-22,Ohio State
+401249399,2020,10,Oregon,Stanford,35,14,fbs,fbs,1840.0,1469.0,False,-21,Oregon
+401234632,2020,10,Notre Dame,Clemson,47,40,fbs,fbs,1942.0,2157.0,False,-7,Notre Dame
+401215325,2020,10,Coastal Carolina,South Alabama,23,6,fbs,fbs,1634.0,1267.0,False,-17,Coastal Carolina
+401249397,2020,10,Oregon State,Washington State,28,38,fbs,fbs,1407.0,1605.0,False,10,Washington State
+401249007,2020,10,Hawai'i,New Mexico,39,33,fbs,fbs,1447.0,1207.0,False,-6,Hawai'i
+401249861,2020,11,Ohio,Akron,24,10,fbs,fbs,1572.0,933.0,False,-14,Ohio
+401249862,2020,11,Bowling Green,Kent State,24,62,fbs,fbs,981.0,1370.0,False,38,Kent State
+401249890,2020,11,Buffalo,Miami (OH),42,10,fbs,fbs,1583.0,1422.0,False,-32,Buffalo
+401249865,2020,11,Ball State,Eastern Michigan,38,31,fbs,fbs,1422.0,1395.0,False,-7,Ball State
+401249866,2020,11,Western Michigan,Toledo,41,38,fbs,fbs,1556.0,1343.0,False,-3,Western Michigan
+401249864,2020,11,Northern Illinois,Central Michigan,10,40,fbs,fbs,1295.0,1418.0,False,30,Central Michigan
+401249012,2020,11,Boise State,Colorado State,52,21,fbs,fbs,1657.0,1398.0,False,-31,Boise State
+401207174,2020,11,Florida International,Florida Atlantic,19,38,fbs,fbs,1369.0,1657.0,False,19,Florida Atlantic
+401247317,2020,11,Minnesota,Iowa,7,35,fbs,fbs,1679.0,1851.0,False,28,Iowa
+401212545,2020,11,Cincinnati,East Carolina,55,17,fbs,fbs,1909.0,1253.0,False,-38,Cincinnati
+401207218,2020,11,Liberty,Western Carolina,58,14,fbs,fcs,,,False,-44,Liberty
+401247316,2020,11,Michigan State,Indiana,0,24,fbs,fbs,1433.0,1652.0,False,24,Indiana
+401236024,2020,11,West Virginia,TCU,24,6,fbs,fbs,1611.0,1615.0,False,-18,West Virginia
+401234642,2020,11,North Carolina,Wake Forest,59,53,fbs,fbs,1773.0,1605.0,False,-6,North Carolina
+401237132,2020,11,Kentucky,Vanderbilt,38,35,fbs,fbs,1697.0,1161.0,False,-3,Kentucky
+401207176,2020,11,Marshall,Middle Tennessee,42,14,fbs,fbs,1650.0,1226.0,False,-28,Marshall
+401234641,2020,11,Virginia Tech,Miami,24,25,fbs,fbs,1645.0,1660.0,False,1,Miami
+401247320,2020,11,Nebraska,Penn State,30,23,fbs,fbs,1524.0,1705.0,False,-7,Nebraska
+401207200,2020,11,Tulane,Army,38,12,fbs,fbs,1629.0,1621.0,False,-26,Tulane
+401247314,2020,11,Rutgers,Illinois,20,23,fbs,fbs,1299.0,1337.0,False,3,Illinois
+401215332,2020,11,Louisiana,South Alabama,38,10,fbs,fbs,1624.0,1262.0,False,-28,Louisiana
+401215328,2020,11,Appalachian State,Georgia State,17,13,fbs,fbs,1688.0,1240.0,False,-4,Appalachian State
+401249013,2020,11,Utah State,Fresno State,16,35,fbs,fbs,1258.0,1495.0,False,19,Fresno State
+401207179,2020,11,UT San Antonio,UTEP,52,21,fbs,fbs,1249.0,1151.0,False,-31,UT San Antonio
+401257934,2020,11,Virginia,Louisville,31,17,fbs,fbs,1515.0,1489.0,False,-14,Virginia
+401234637,2020,11,Boston College,Notre Dame,31,45,fbs,fbs,1504.0,1964.0,False,14,Notre Dame
+401249403,2020,11,Arizona,USC,30,34,fbs,fbs,1387.0,1592.0,False,4,USC
+401249406,2020,11,Stanford,Colorado,32,35,fbs,fbs,1456.0,1415.0,False,3,Colorado
+401207178,2020,11,Western Kentucky,Southern Mississippi,10,7,fbs,fbs,1328.0,1225.0,False,-3,Western Kentucky
+401212481,2020,11,Houston,South Florida,56,21,fbs,fbs,1472.0,1153.0,False,-35,Houston
+401215331,2020,11,Georgia Southern,Texas State,40,38,fbs,fbs,1483.0,1192.0,False,-2,Georgia Southern
+401249014,2020,11,San Diego State,Hawai'i,34,10,fbs,fbs,1628.0,1443.0,False,-24,San Diego State
+401236023,2020,11,Texas Tech,Baylor,24,23,fbs,fbs,1427.0,1673.0,False,-1,Texas Tech
+401248074,2020,11,Central Arkansas,Eastern Kentucky,37,25,fcs,fcs,,,False,-12,Central Arkansas
+401247315,2020,11,Purdue,Northwestern,20,27,fbs,fbs,1508.0,1602.0,False,7,Northwestern
+401247413,2020,11,Stephen F. Austin,Pittsburg State,26,7,fcs,ii,,,False,-19,Stephen F. Austin
+401249015,2020,11,New Mexico,Nevada,20,27,fbs,fbs,1211.0,1400.0,False,7,Nevada
+401212491,2020,11,Tulsa,SMU,28,24,fbs,fbs,1503.0,1593.0,False,-4,Tulsa
+401249405,2020,11,Washington State,Oregon,29,43,fbs,fbs,1609.0,1853.0,False,14,Oregon
+401237129,2020,11,Florida,Arkansas,63,35,fbs,fbs,1869.0,1407.0,False,-28,Florida
+401247319,2020,11,Michigan,Wisconsin,11,49,fbs,fbs,1765.0,1904.0,False,38,Wisconsin
+401237133,2020,11,Ole Miss,South Carolina,59,42,fbs,fbs,1572.0,1428.0,False,-17,Ole Miss
+401234639,2020,11,NC State,Florida State,38,22,fbs,fbs,1402.0,1253.0,False,-16,NC State
+401212518,2020,11,UCF,Temple,38,13,fbs,fbs,1793.0,1291.0,False,-25,UCF
+401249016,2020,11,San José State,UNLV,34,17,fbs,fbs,1473.0,1204.0,False,-17,San José State
+401249404,2020,11,Washington,Oregon State,27,21,fbs,fbs,1760.0,1403.0,False,-6,Washington
+401261454,2020,12,UCLA,California,34,10,fbs,fbs,1407.0,1499.0,False,-24,UCLA
+401249868,2020,12,Bowling Green,Buffalo,17,42,fbs,fbs,920.0,1650.0,False,25,Buffalo
+401249867,2020,12,Kent State,Akron,69,35,fbs,fbs,1431.0,953.0,False,-34,Kent State
+401249871,2020,12,Eastern Michigan,Toledo,28,45,fbs,fbs,1387.0,1345.0,False,17,Toledo
+401249872,2020,12,Central Michigan,Western Michigan,44,52,fbs,fbs,1486.0,1554.0,False,8,Western Michigan
+401249870,2020,12,Ball State,Northern Illinois,31,25,fbs,fbs,1430.0,1227.0,False,-6,Ball State
+401212526,2020,12,Tulsa,Tulane,30,24,fbs,fbs,1509.0,1695.0,False,-6,Tulsa
+401234643,2020,12,Louisville,Syracuse,30,0,fbs,fbs,1463.0,1347.0,False,-30,Louisville
+401247325,2020,12,Minnesota,Purdue,34,31,fbs,fbs,1623.0,1502.0,False,-3,Minnesota
+401261674,2020,12,Florida Atlantic,UMass,24,2,fbs,fbs,1674.0,869.0,False,-22,Florida Atlantic
+401249018,2020,12,Air Force,New Mexico,28,0,fbs,fbs,1617.0,1212.0,False,-28,Air Force
+401237136,2020,12,Arkansas,LSU,24,27,fbs,fbs,1385.0,1846.0,False,3,LSU
+401247326,2020,12,Ohio State,Indiana,42,35,fbs,fbs,2094.0,1690.0,False,-7,Ohio State
+401212519,2020,12,Temple,East Carolina,3,28,fbs,fbs,1280.0,1224.0,False,25,East Carolina
+401215333,2020,12,Coastal Carolina,Appalachian State,34,23,fbs,fbs,1639.0,1679.0,False,-11,Coastal Carolina
+401247374,2020,12,Memphis,Stephen F. Austin,56,14,fbs,fcs,,,False,-42,Memphis
+401235975,2020,12,Army,Georgia Southern,28,27,fbs,fbs,1555.0,1480.0,False,-1,Army
+401215334,2020,12,Texas State,Arkansas State,47,45,fbs,fbs,1195.0,1273.0,False,-2,Texas State
+401237138,2020,12,Vanderbilt,Florida,17,38,fbs,fbs,1166.0,1891.0,False,21,Florida
+401247321,2020,12,Nebraska,Illinois,23,41,fbs,fbs,1544.0,1339.0,False,18,Illinois
+401207181,2020,12,Western Kentucky,Florida International,38,21,fbs,fbs,1328.0,1352.0,False,-17,Western Kentucky
+401207184,2020,12,North Texas,Rice,27,17,fbs,fbs,1273.0,1353.0,False,-10,North Texas
+401207185,2020,12,Southern Mississippi,UT San Antonio,20,23,fbs,fbs,1225.0,1321.0,False,3,UT San Antonio
+401239875,2020,12,Eastern Kentucky,Western Carolina,49,17,fcs,fcs,,,False,-32,Eastern Kentucky
+401209818,2020,12,BYU,North Alabama,66,14,fbs,fcs,,,False,-52,BYU
+401247323,2020,12,Northwestern,Wisconsin,17,7,fbs,fbs,1608.0,1997.0,False,-10,Northwestern
+401249411,2020,12,Oregon State,California,31,27,fbs,fbs,1412.0,1428.0,False,-4,Oregon State
+401247327,2020,12,Penn State,Iowa,21,41,fbs,fbs,1685.0,1907.0,False,20,Iowa
+401249415,2020,12,Oregon,UCLA,38,35,fbs,fbs,1862.0,1478.0,False,-3,Oregon
+401249019,2020,12,Nevada,San Diego State,26,21,fbs,fbs,1399.0,1668.0,False,-5,Nevada
+401212540,2020,12,UCF,Cincinnati,33,36,fbs,fbs,1804.0,1938.0,False,3,Cincinnati
+401240641,2020,12,Troy,Middle Tennessee,17,20,fbs,fbs,1469.0,1200.0,False,3,Middle Tennessee
+401215335,2020,12,South Alabama,Georgia State,14,31,fbs,fbs,1229.0,1249.0,False,17,Georgia State
+401236025,2020,12,Iowa State,Kansas State,45,0,fbs,fbs,1691.0,1610.0,False,-45,Iowa State
+401237135,2020,12,Alabama,Kentucky,63,3,fbs,fbs,2105.0,1692.0,False,-60,Alabama
+401248275,2020,12,Virginia,Abilene Christian,55,15,fbs,fcs,,,False,-40,Virginia
+401234648,2020,12,Pittsburgh,Virginia Tech,47,14,fbs,fbs,1472.0,1645.0,False,-33,Pittsburgh
+401237137,2020,12,Auburn,Tennessee,30,17,fbs,fbs,1872.0,1463.0,False,-13,Auburn
+401234647,2020,12,NC State,Liberty,15,14,fbs,fbs,1423.0,1543.0,False,-1,NC State
+401247324,2020,12,Rutgers,Michigan,42,48,fbs,fbs,1297.0,1672.0,False,6,Michigan
+401236027,2020,12,Oklahoma,Oklahoma State,41,13,fbs,fbs,1912.0,1683.0,False,-28,Oklahoma
+401237139,2020,12,Georgia,Mississippi State,31,24,fbs,fbs,1859.0,1452.0,False,-7,Georgia
+401237141,2020,12,South Carolina,Missouri,10,17,fbs,fbs,1404.0,1557.0,False,7,Missouri
+401249413,2020,12,Washington,Arizona,44,27,fbs,fbs,1751.0,1393.0,False,-17,Washington
+401249410,2020,12,Utah,USC,17,33,fbs,fbs,1721.0,1586.0,False,16,USC
+401249017,2020,12,Hawai'i,Boise State,32,40,fbs,fbs,1403.0,1709.0,False,8,Boise State
+401249025,2020,13,Utah State,New Mexico,41,27,fbs,fbs,1236.0,1184.0,False,-14,Utah State
+401251926,2020,13,Liberty,UMass,45,0,fbs,fbs,1539.0,890.0,False,-45,Liberty
+401236029,2020,13,Texas,Iowa State,20,23,fbs,fbs,1801.0,1815.0,False,3,Iowa State
+401247332,2020,13,Iowa,Nebraska,26,20,fbs,fbs,1934.0,1476.0,False,-6,Iowa
+401212483,2020,13,South Florida,UCF,46,58,fbs,fbs,1095.0,1807.0,False,12,UCF
+401234650,2020,13,North Carolina,Notre Dame,17,31,fbs,fbs,1772.0,1955.0,False,14,Notre Dame
+401249874,2020,13,Eastern Michigan,Central Michigan,23,31,fbs,fbs,1341.0,1476.0,False,8,Central Michigan
+401249028,2020,13,UNLV,Wyoming,14,45,fbs,fbs,1191.0,1561.0,False,31,Wyoming
+401249417,2020,13,California,Stanford,23,24,fbs,fbs,1425.0,1449.0,False,1,Stanford
+401249418,2020,13,Oregon State,Oregon,41,38,fbs,fbs,1415.0,1858.0,False,-3,Oregon State
+401249875,2020,13,Western Michigan,Northern Illinois,30,27,fbs,fbs,1564.0,1229.0,False,-3,Western Michigan
+401215339,2020,13,Georgia State,Georgia Southern,30,24,fbs,fbs,1288.0,1481.0,False,-6,Georgia State
+401212513,2020,13,East Carolina,SMU,52,38,fbs,fbs,1298.0,1587.0,False,-14,East Carolina
+401247329,2020,13,Indiana,Maryland,27,11,fbs,fbs,1701.0,1326.0,False,-16,Indiana
+401247333,2020,13,Michigan,Penn State,17,27,fbs,fbs,1657.0,1658.0,False,10,Penn State
+401237144,2020,13,Florida,Kentucky,34,10,fbs,fbs,1874.0,1564.0,False,-24,Florida
+401236032,2020,13,Oklahoma State,Texas Tech,50,44,fbs,fbs,1636.0,1434.0,False,-6,Oklahoma State
+401234655,2020,13,Syracuse,NC State,29,36,fbs,fbs,1281.0,1427.0,False,7,NC State
+401249876,2020,13,Ohio,Bowling Green,52,10,fbs,fbs,1552.0,930.0,False,-42,Ohio
+401237143,2020,13,Missouri,Vanderbilt,41,0,fbs,fbs,1559.0,1183.0,False,-41,Missouri
+401249877,2020,13,Buffalo,Kent State,70,41,fbs,fbs,1640.0,1468.0,False,-29,Buffalo
+401249873,2020,13,Toledo,Ball State,24,27,fbs,fbs,1391.0,1428.0,False,3,Ball State
+401249892,2020,13,Akron,Miami (OH),7,38,fbs,fbs,916.0,1355.0,False,31,Miami (OH)
+401215340,2020,13,Louisiana Monroe,Louisiana,20,70,fbs,fbs,1024.0,1657.0,False,50,Louisiana
+401207191,2020,13,UT San Antonio,North Texas,49,17,fbs,fbs,1320.0,1296.0,False,-32,UT San Antonio
+401215337,2020,13,Arkansas State,South Alabama,31,38,fbs,fbs,1271.0,1190.0,False,7,South Alabama
+401215338,2020,13,Texas State,Coastal Carolina,14,49,fbs,fbs,1197.0,1662.0,False,35,Coastal Carolina
+401215336,2020,13,Appalachian State,Troy,47,10,fbs,fbs,1656.0,1447.0,False,-37,Appalachian State
+401237142,2020,13,Alabama,Auburn,42,13,fbs,fbs,2233.0,1866.0,False,-29,Alabama
+401247330,2020,13,Michigan State,Northwestern,29,20,fbs,fbs,1395.0,1656.0,False,-9,Michigan State
+401234651,2020,13,Clemson,Pittsburgh,52,17,fbs,fbs,2135.0,1587.0,False,-35,Clemson
+401247328,2020,13,Purdue,Rutgers,30,37,fbs,fbs,1503.0,1312.0,False,7,Rutgers
+401234649,2020,13,Boston College,Louisville,34,27,fbs,fbs,1513.0,1529.0,False,-7,Boston College
+401237147,2020,13,Ole Miss,Mississippi State,31,24,fbs,fbs,1596.0,1463.0,False,-7,Ole Miss
+401265734,2020,13,Colorado,San Diego State,20,10,fbs,fbs,1422.0,1651.0,False,-10,Colorado
+401237146,2020,13,Texas A&M,LSU,20,7,fbs,fbs,1762.0,1825.0,False,-13,Texas A&M
+401236028,2020,13,Baylor,Kansas State,32,31,fbs,fbs,1666.0,1486.0,False,-1,Baylor
+401234652,2020,13,Georgia Tech,Duke,56,33,fbs,fbs,1247.0,1424.0,False,-23,Georgia Tech
+401264080,2020,13,Navy,Memphis,7,10,fbs,fbs,1343.0,1585.0,False,3,Memphis
+401237145,2020,13,South Carolina,Georgia,16,45,fbs,fbs,1402.0,1848.0,False,29,Georgia
+401265458,2020,13,Washington,Utah,24,21,fbs,fbs,1756.0,1668.0,False,-3,Washington
+401249421,2020,13,UCLA,Arizona,27,10,fbs,fbs,1482.0,1388.0,False,-17,UCLA
+401236030,2020,13,Kansas,TCU,23,59,fbs,fbs,1024.0,1574.0,False,36,TCU
+401249024,2020,13,Hawai'i,Nevada,24,21,fbs,fbs,1411.0,1416.0,False,-3,Hawai'i
+401265703,2020,14,North Texas,Louisiana Tech,31,42,fbs,fbs,1212.0,1433.0,False,11,Louisiana Tech
+401249029,2020,14,Utah State,Air Force,7,35,fbs,fbs,1260.0,1645.0,False,28,Air Force
+401252117,2020,14,Appalachian State,Louisiana,21,24,fbs,fbs,1734.0,1725.0,False,3,Louisiana
+401247336,2020,14,Rutgers,Penn State,7,23,fbs,fbs,1341.0,1679.0,False,16,Penn State
+401247335,2020,14,Purdue,Nebraska,27,37,fbs,fbs,1474.0,1489.0,False,10,Nebraska
+401236037,2020,14,TCU,Oklahoma State,29,22,fbs,fbs,1610.0,1634.0,False,-7,TCU
+401236035,2020,14,Texas Tech,Kansas,16,13,fbs,fbs,1436.0,988.0,False,-3,Texas Tech
+401236036,2020,14,Kansas State,Texas,31,69,fbs,fbs,1491.0,1797.0,False,38,Texas
+401249880,2020,14,Northern Illinois,Toledo,24,41,fbs,fbs,1232.0,1389.0,False,17,Toledo
+401265818,2020,14,Missouri,Arkansas,50,48,fbs,fbs,1629.0,1406.0,False,-2,Missouri
+401257812,2020,14,Marshall,Rice,0,20,fbs,fbs,1676.0,1330.0,False,20,Rice
+401264082,2020,14,Tulane,Memphis,35,21,fbs,fbs,1678.0,1576.0,False,-14,Tulane
+401248781,2020,14,North Carolina,Western Carolina,49,9,fbs,fcs,,,False,-40,North Carolina
+401247340,2020,14,Michigan State,Ohio State,12,52,fbs,fbs,1429.0,2083.0,False,40,Ohio State
+401237150,2020,14,Auburn,Texas A&M,20,31,fbs,fbs,1831.0,1793.0,False,11,Texas A&M
+401249881,2020,14,Akron,Bowling Green,31,3,fbs,fbs,882.0,886.0,False,-28,Akron
+401249878,2020,14,Central Michigan,Ball State,20,45,fbs,fbs,1481.0,1430.0,False,25,Ball State
+401249879,2020,14,Western Michigan,Eastern Michigan,42,53,fbs,fbs,1561.0,1336.0,False,11,Eastern Michigan
+401262494,2020,14,South Alabama,Troy,0,29,fbs,fbs,1210.0,1369.0,False,29,Troy
+401234662,2020,14,Notre Dame,Syracuse,45,21,fbs,fbs,1970.0,1279.0,False,-24,Notre Dame
+401262493,2020,14,Arkansas State,Louisiana Monroe,48,15,fbs,fbs,1251.0,956.0,False,-33,Arkansas State
+401264083,2020,14,Navy,Tulsa,6,19,fbs,fbs,1352.0,1526.0,False,13,Tulsa
+401237151,2020,14,Tennessee,Florida,19,31,fbs,fbs,1469.0,1901.0,False,12,Florida
+401234656,2020,14,Virginia,Boston College,43,32,fbs,fbs,1541.0,1523.0,False,-11,Virginia
+401247338,2020,14,Wisconsin,Indiana,6,14,fbs,fbs,1949.0,1703.0,False,8,Indiana
+401247337,2020,14,Illinois,Iowa,21,35,fbs,fbs,1407.0,1921.0,False,14,Iowa
+401236034,2020,14,Iowa State,West Virginia,42,6,fbs,fbs,1819.0,1652.0,False,-36,Iowa State
+401249424,2020,14,Washington,Stanford,26,31,fbs,fbs,1756.0,1449.0,False,5,Stanford
+401234659,2020,14,NC State,Georgia Tech,23,13,fbs,fbs,1429.0,1324.0,False,-10,NC State
+401237514,2020,14,Coastal Carolina,BYU,22,17,fbs,fbs,1705.0,1967.0,False,-5,Coastal Carolina
+401261675,2020,14,Georgia Southern,Florida Atlantic,20,3,fbs,fbs,1464.0,1653.0,False,-17,Georgia Southern
+401249033,2020,14,San José State,Hawai'i,35,24,fbs,fbs,1486.0,1412.0,False,-11,San José State
+401249423,2020,14,California,Oregon,21,17,fbs,fbs,1425.0,1850.0,False,-4,California
+401249426,2020,14,Arizona,Colorado,13,24,fbs,fbs,1360.0,1457.0,False,11,Colorado
+401249031,2020,14,San Diego State,Colorado State,29,17,fbs,fbs,1616.0,1346.0,False,-12,San Diego State
+401237153,2020,14,Kentucky,South Carolina,41,18,fbs,fbs,1537.0,1374.0,False,-23,Kentucky
+401234657,2020,14,Virginia Tech,Clemson,10,45,fbs,fbs,1530.0,2167.0,False,35,Clemson
+401266134,2020,14,Duke,Miami,0,48,fbs,fbs,1347.0,1660.0,False,48,Miami
+401265817,2020,14,LSU,Alabama,17,55,fbs,fbs,1794.0,2268.0,False,38,Alabama
+401236033,2020,14,Oklahoma,Baylor,27,14,fbs,fbs,1959.0,1661.0,False,-13,Oklahoma
+401249032,2020,14,Nevada,Fresno State,37,26,fbs,fbs,1415.0,1517.0,False,-11,Nevada
+401249425,2020,14,Arizona State,UCLA,18,25,fbs,fbs,1550.0,1510.0,False,7,UCLA
+401249422,2020,14,Utah,Oregon State,30,24,fbs,fbs,1668.0,1423.0,False,-6,Utah
+401249034,2020,14,New Mexico,Wyoming,17,16,fbs,fbs,1160.0,1603.0,False,-1,New Mexico
+401266789,2020,14,Charlotte,Western Kentucky,19,37,fbs,fbs,1340.0,1368.0,False,18,Western Kentucky
+401249427,2020,14,USC,Washington State,38,13,fbs,fbs,1639.0,1600.0,False,-25,USC
+401257813,2020,15,Southern Mississippi,Florida Atlantic,45,31,fbs,fbs,1226.0,1596.0,False,-14,Southern Mississippi
+401261245,2020,15,Georgia Tech,Pittsburgh,20,34,fbs,fbs,1314.0,1555.0,False,14,Pittsburgh
+401257816,2020,15,UTEP,North Texas,43,45,fbs,fbs,1079.0,1208.0,False,2,North Texas
+401249429,2020,15,Arizona,Arizona State,7,70,fbs,fbs,1345.0,1534.0,False,63,Arizona State
+401249037,2020,15,San José State,Nevada,30,20,fbs,fbs,1500.0,1443.0,False,-10,San José State
+401247346,2020,15,Penn State,Michigan State,39,24,fbs,fbs,1684.0,1393.0,False,-15,Penn State
+401249428,2020,15,Colorado,Utah,21,38,fbs,fbs,1472.0,1664.0,False,17,Utah
+401247342,2020,15,Maryland,Rutgers,24,27,fbs,fbs,1324.0,1336.0,False,3,Rutgers
+401266696,2020,15,Louisville,Wake Forest,45,21,fbs,fbs,1519.0,1606.0,False,-24,Louisville
+401247345,2020,15,Nebraska,Minnesota,17,24,fbs,fbs,1508.0,1622.0,False,7,Minnesota
+401267161,2020,15,Missouri,Georgia,14,49,fbs,fbs,1627.0,1876.0,False,35,Georgia
+401247344,2020,15,Northwestern,Illinois,28,10,fbs,fbs,1622.0,1420.0,False,-18,Northwestern
+401267164,2020,15,Arkansas,Alabama,3,52,fbs,fbs,1408.0,2319.0,False,49,Alabama
+401249884,2020,15,Eastern Michigan,Northern Illinois,41,33,fbs,fbs,1381.0,1207.0,False,-8,Eastern Michigan
+401249885,2020,15,Ball State,Western Michigan,30,27,fbs,fbs,1503.0,1516.0,False,-3,Ball State
+401257815,2020,15,Rice,UAB,16,21,fbs,fbs,1424.0,1503.0,False,5,UAB
+401249886,2020,15,Buffalo,Akron,56,7,fbs,fbs,1696.0,956.0,False,-49,Buffalo
+401207203,2020,15,Army,Navy,15,0,fbs,fbs,1554.0,1339.0,True,-15,Army
+401249883,2020,15,Toledo,Central Michigan,24,23,fbs,fbs,1414.0,1408.0,False,-1,Toledo
+401259671,2020,15,Troy,Coastal Carolina,38,42,fbs,fbs,1430.0,1722.0,False,4,Coastal Carolina
+401264084,2020,15,Memphis,Houston,30,27,fbs,fbs,1556.0,1530.0,False,-3,Memphis
+401247347,2020,15,Iowa,Wisconsin,28,7,fbs,fbs,1908.0,1912.0,False,-21,Iowa
+401250713,2020,15,Baylor,Oklahoma State,3,42,fbs,fbs,1659.0,1623.0,False,39,Oklahoma State
+401234661,2020,15,Miami,North Carolina,26,62,fbs,fbs,1764.0,1757.0,False,36,North Carolina
+401266694,2020,15,Florida State,Duke,56,35,fbs,fbs,1232.0,1243.0,False,-21,Florida State
+401267163,2020,15,Vanderbilt,Tennessee,17,42,fbs,fbs,1113.0,1479.0,False,25,Tennessee
+401249035,2020,15,Wyoming,Boise State,9,17,fbs,fbs,1591.0,1701.0,False,8,Boise State
+401215309,2020,15,Georgia Southern,Appalachian State,26,34,fbs,fbs,1521.0,1729.0,False,8,Appalachian State
+401266711,2020,15,TCU,Louisiana Tech,52,10,fbs,fbs,1621.0,1437.0,False,-42,TCU
+401251100,2020,15,Florida,LSU,34,37,fbs,fbs,1891.0,1743.0,False,3,LSU
+401260157,2020,15,Mississippi State,Auburn,10,24,fbs,fbs,1461.0,1804.0,False,14,Auburn
+401249431,2020,15,UCLA,USC,38,43,fbs,fbs,1526.0,1698.0,False,5,USC
+401234572,2020,15,Virginia Tech,Virginia,33,15,fbs,fbs,1506.0,1559.0,False,-18,Virginia Tech
+401249435,2020,15,BYU,San Diego State,28,14,fbs,fbs,1950.0,1618.0,False,-14,BYU
+401249432,2020,15,Oregon State,Stanford,24,27,fbs,fbs,1427.0,1481.0,False,3,Stanford
+401249036,2020,15,New Mexico,Fresno State,49,39,fbs,fbs,1172.0,1489.0,False,-10,New Mexico
+401249038,2020,15,Hawai'i,UNLV,38,21,fbs,fbs,1398.0,1149.0,False,-17,Hawai'i
+401240101,2020,16,Marshall,UAB,13,22,fbs,fbs,1582.0,1506.0,False,9,UAB
+401249854,2020,16,Buffalo,Ball State,28,38,fbs,fbs,1747.0,1504.0,True,10,Ball State
+401269382,2020,16,Rutgers,Nebraska,21,28,fbs,fbs,1340.0,1504.0,False,7,Nebraska
+401249434,2020,16,USC,Oregon,24,31,fbs,fbs,1695.0,1833.0,False,7,Oregon
+401247349,2020,16,Ohio State,Northwestern,22,10,fbs,fbs,2119.0,1643.0,True,-12,Ohio State
+401262060,2020,16,Iowa State,Oklahoma,21,27,fbs,fbs,1899.0,1961.0,True,6,Oklahoma
+401260158,2020,16,Tennessee,Texas A&M,13,34,fbs,fbs,1504.0,1820.0,False,21,Texas A&M
+401269375,2020,16,Utah,Washington State,45,28,fbs,fbs,1685.0,1541.0,False,-17,Utah
+401265699,2020,16,Army,Air Force,10,7,fbs,fbs,1573.0,1677.0,False,-3,Army
+401267166,2020,16,Mississippi State,Missouri,51,32,fbs,fbs,1460.0,1558.0,False,-19,Mississippi State
+401267165,2020,16,LSU,Ole Miss,53,48,fbs,fbs,1757.0,1598.0,False,-5,LSU
+401269384,2020,16,Wisconsin,Minnesota,20,17,fbs,fbs,1862.0,1626.0,False,-3,Wisconsin
+401256001,2020,16,Notre Dame,Clemson,10,34,fbs,fbs,1962.0,2191.0,True,24,Clemson
+401249043,2020,16,San José State,Boise State,34,20,fbs,fbs,1513.0,1708.0,True,-14,San José State
+401269381,2020,16,Penn State,Illinois,56,21,fbs,fbs,1691.0,1399.0,False,-35,Penn State
+401269376,2020,16,UCLA,Stanford,47,48,fbs,fbs,1529.0,1482.0,False,1,Stanford
+401264085,2020,16,Cincinnati,Tulsa,27,24,fbs,fbs,1935.0,1539.0,False,-3,Cincinnati
+401237074,2020,16,Florida,Alabama,46,52,fbs,fbs,1877.0,2351.0,True,6,Alabama
+401269378,2020,16,Oregon State,Arizona State,33,46,fbs,fbs,1426.0,1712.0,False,13,Arizona State

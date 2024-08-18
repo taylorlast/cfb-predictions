@@ -1,0 +1,2 @@
+model_name: XGBoostBaseline
+test_size: .85
