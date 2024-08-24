@@ -1,35 +1,35 @@
-home,away,prediction
-Georgia Tech,Florida State,2.5303075
-Nevada,SMU,16.272654
-Minnesota,North Carolina,-3.5371585
-Jacksonville State,Coastal Carolina,-18.190771
-Oklahoma,Temple,-36.498894
-Michigan State,Florida Atlantic,7.805318
-Wisconsin,Western Michigan,-12.228338
-Stanford,TCU,13.571783
-Georgia,Clemson,-19.555672
-Maryland,Connecticut,-8.166682
-West Virginia,Penn State,7.6555185
-Pittsburgh,Kent State,-11.8372
-Vanderbilt,Virginia Tech,20.43844
-Indiana,Florida International,-5.304466
-Ohio State,Akron,-20.527004
-Syracuse,Ohio,4.6089883
-Northwestern,Miami (OH),-4.4635706
-UT San Antonio,Kennesaw State,-17.203928
-Florida,Miami,5.076309
-Nebraska,UTEP,-7.7524095
-Texas,Colorado State,-31.217636
-UMass,Eastern Michigan,4.0930176
-Georgia Southern,Boise State,14.224576
-South Carolina,Old Dominion,-14.146909
-South Alabama,North Texas,-3.2026155
-Alabama,Western Kentucky,-19.528122
-Rice,Sam Houston State,-3.3052087
-Houston,UNLV,4.0523405
-Michigan,Fresno State,-15.318314
-Texas A&M,Notre Dame,-2.0169444
-Kentucky,Southern Mississippi,-11.173275
-Charlotte,James Madison,7.463615
-Arizona State,Wyoming,-0.42827576
-LSU,USC,5.1340623
+id,home,away,prediction
+401635525,Georgia Tech,Florida State,6.400869
+401643696,Nevada,SMU,24.856804
+401628448,Minnesota,North Carolina,0.6959956
+401640998,Jacksonville State,Coastal Carolina,1.5667754
+401628328,Oklahoma,Temple,-42.36487
+401628453,Michigan State,Florida Atlantic,1.2885566
+401628461,Wisconsin,Western Michigan,-15.0076475
+401634300,Stanford,TCU,11.643299
+401628323,Georgia,Clemson,-14.149266
+401628451,Maryland,Connecticut,-7.9675374
+401628457,West Virginia,Penn State,5.8646684
+401634305,Pittsburgh,Kent State,-9.095464
+401628333,Vanderbilt,Virginia Tech,16.359577
+401628449,Indiana,Florida International,-11.087199
+401628455,Ohio State,Akron,-40.484344
+401634304,Syracuse,Ohio,7.805892
+401644683,Northwestern,Miami (OH),-10.546944
+401641015,UT San Antonio,Kennesaw State,-13.654454
+401628322,Florida,Miami,3.94586
+401628454,Nebraska,UTEP,-12.982149
+401628331,Texas,Colorado State,-30.322775
+401629039,UMass,Eastern Michigan,-6.697774
+401643700,Georgia Southern,Boise State,3.9678824
+401628329,South Carolina,Old Dominion,0.68195605
+401643775,South Alabama,North Texas,-16.866076
+401628319,Alabama,Western Kentucky,-25.44267
+401641039,Rice,Sam Houston State,-8.289974
+401636611,Houston,UNLV,5.9021187
+401628452,Michigan,Fresno State,-20.706726
+401628332,Texas A&M,Notre Dame,8.692048
+401628324,Kentucky,Southern Mississippi,-6.139464
+401643774,Charlotte,James Madison,14.130162
+401636609,Arizona State,Wyoming,-10.140127
+401628334,LSU,USC,-10.540224

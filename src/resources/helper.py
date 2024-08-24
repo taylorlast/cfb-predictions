@@ -82,7 +82,8 @@ def get_latest_version_number(path, ext=".csv"):
     v_nums = []
     for file in os.listdir(path):
         if file.endswith(ext):
-            v_nums.append(int(file.split(ext)[0].strip("v")))
+            if file.startswith("v"):
+                v_nums.append(int(file.split(ext)[0].strip("v")))
     if v_nums:
         v_num = sorted(v_nums)[-1]
     else:

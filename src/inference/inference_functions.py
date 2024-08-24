@@ -44,14 +44,31 @@ def make_predictions(df, model, metadata, configuration):
     prediction_metadata["model_metadata"] = metadata
     prediction_metadata["prediction_version_number"] = v_num
 
-    submission_df = prediction_df[
-        ["id", "home_team", "away_team", f"predicted_{metadata['target']}"]
-    ]
-    submission_df = submission_df.rename(
-        columns={f"predicted_{metadata['target']}": "prediction"}
-    )
+    # If target is 'diff' (difference between actaul point difference and spread),
+    # then add to get predicted spread
+    if metadata.get("target") == "diff":
+        submission_df = prediction_df[
+            [
+                "id",
+                "home_team",
+                "away_team",
+                f"predicted_{metadata['target']}",
+                "bovada_spread",
+            ]
+        ]
+        submission_df["prediction"] = (
+            submission_df[f"predicted_{metadata['target']}"]
+            + submission_df["bovada_spread"]
+        )
+        submission_df = submission_df[["id", "home_team", "away_team", "prediction"]]
+    else:
+        submission_df = prediction_df[
+            ["id", "home_team", "away_team", f"predicted_{metadata['target']}"]
+        ]
+        submission_df = submission_df.rename(
+            columns={f"predicted_{metadata['target']}": "prediction"}
+        )
     submission_df.columns = ["id", "home", "away", "prediction"]
-    submission_df = submission_df.set_index("id")
     submission_df.to_csv(
         f"data/predictions/{season}_{week}/submission.csv", index=False
     )

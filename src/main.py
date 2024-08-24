@@ -19,8 +19,7 @@ def main(job):
         print(id, id_time)
 
     elif job == "train_model":
-        id = "f1fb347a5d9c11ef8edf3e22fb810d5d"
-        id_time = "20240818_160332"
+        id, id_time = ("125f6df0622811ef8dc4acde48001122", "20240824_104931")
         metadata = dict()
         model_configs = load_configs("configs/training_config.yml")
         feature_configs = load_configs("configs/features.yml")
@@ -32,7 +31,17 @@ def main(job):
 
         X_train, X_test, y_train, y_test = load_data_train_test_split(id, id_time)
 
-        model, metrics = train(X_train, X_test, y_train, y_test)
+        # params = {
+        #     "min_child_weight": 10,
+        #     "subsample": 0.2,
+        #     "max_depth": 5,
+        #     "learning_rate": 0.001,
+        #     "lambda": 10,
+        #     "n_estimators": 2000,
+        # }
+        params = {}
+        model, metrics = train(X_train, X_test, y_train, y_test, params=params)
+        metadata["params"] = params
         metadata["metrics"] = metrics
         metadata["features"] = list(X_train.columns)
         metadata["target"] = feature_configs["TARGET"]
